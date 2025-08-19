@@ -1,0 +1,422 @@
+id,href_raw,text_raw,section_hint,order_index
+6e7dc0b9-0b73-447c-8751-2bcef5f95979,https://codepen.io/awoodall/full/XbpMbo,Email Subject Test,Content & Metadata,0
+a672f4bc-89bc-4823-b747-4b5120ce34dd,https://hemingwayapp.com/,Hemingway Editor,Content & Metadata,1
+6c9f19a9-5339-4a52-ba28-7a8e28941fb4,https://instatext.io/editor/,InstaText | Write like a native speaker,Content & Metadata,2
+b37eb01c-5616-414e-a38d-de4a93998d17,https://languagetool.org/,"LanguageTool - Online Grammar, Style & Spell Checker",Content & Metadata,3
+6eecfa84-8687-4d8a-a3e3-fbbbf1b87dde,https://www.random.org/,Random,Content & Metadata,4
+e7fed9ba-d657-4fff-ad97-7be19534abf5,https://www.randomlists.com/,Random Lists,Content & Metadata,5
+dda9b22a-5e6a-44bd-af79-4114b31539d5,https://www.rhymezone.com/,RhymeZone,Content & Metadata,6
+48933cf4-f00e-4a9d-b334-4ef2d385839e,https://www.sudowrite.com/app,Sudowrite,Content & Metadata,7
+61c78455-0149-4719-8e50-ce36539c3279,https://www.thesaurus.com/,Thesaurus,Content & Metadata,8
+215f15de-b89f-4f0b-9865-43d975fe25fd,https://analytics.amplitude.com/morressier/workspace,Amplitude,Content & Metadata,9
+8e851a1d-3da8-46b4-8627-6230bf4ccee0,https://analytics.google.com/analytics/web/#/my-reports/EGq30SmVSv-LL_oe-C8-Ww/a100748317w176012425p174935628/_r.tabId=729,Analytics,Content & Metadata,10
+8a135bb9-bc28-4bd2-860a-72d0d03da7c9,https://apify.com/,Apify: Web Scraping and Data Extraction platform,Content & Metadata,11
+bdad399f-7b4a-4437-88a5-4f2903733bbd,https://datawrapper.de/,Datawrapper,Content & Metadata,12
+cf1a112f-8106-4419-9e5c-219aeb17d98a,http://dimplejs.org/,Dimple JS,Content & Metadata,13
+0ab94afb-cbb6-420d-a5b6-79f22f3852aa,https://gephi.github.io/,Gephi | Open Graph Viz Platform,Content & Metadata,14
+d47adbfc-bfac-480f-be88-903c53889f92,https://www.jsoneditoronline.org/,JSON Editor,Content & Metadata,15
+e3bd3ebf-e69f-46bc-a9ae-a9bf8d166408,https://jsonformatter.curiousconcept.com/,JSON Formatter & Validator,Content & Metadata,16
+8822bc55-b68f-4221-a29f-92270d42cfa6,http://www.cleancss.com/json-minify/,JSON Minify and Compress,Content & Metadata,17
+3aa603e1-4791-4248-88bd-986090db419f,http://konklone.io/json/,JSON to CSV,Content & Metadata,18
+8be69417-984c-4fd6-afc5-1566eb51f282,http://guidetodatamining.com/ngramAnalyzer/,Ngram Analyzer,Content & Metadata,19
+68e1920a-c95b-4a4a-b407-3efa42e553dc,https://chart-studio.plotly.com/create/#/,Online Graph Maker · Plotly Chart Studio,Content & Metadata,20
+1739c28a-fc71-4442-b028-eb53de92d08b,http://app.rawgraphs.io/,RAW Graphs,Content & Metadata,21
+074bb4df-b481-4ff8-91b0-99f12eb5b751,http://sankeymatic.com/build/,SankeyMATIC,Content & Metadata,22
+93142a11-7a29-47d3-a910-061d524faad0,https://sorta.app/,Sorta - Rank stuff,Content & Metadata,23
+b257304b-bccb-49d1-a8ce-99b19b089ffe,https://tableconvert.com/,Table Convert Online,Content & Metadata,24
+adbca405-ad45-4a98-ac5c-1296dcdb3434,https://www.online-utility.org/text/analyzer.jsp,Text Analyzer,Content & Metadata,25
+e50ee308-6229-4e98-8d8f-3f592951246b,https://datavizcatalogue.com/index.html,The Data Visualisation Catalogue,Content & Metadata,26
+7a77a461-f42e-4f45-9027-77eaed00af0b,https://theonegenerator.com/,The One Generator,Content & Metadata,27
+0f5bbd96-5bdb-4afb-8d83-a40fef68a463,https://developers.cloudflare.com/cloudflare-one/faq/cloudflare-tunnels-faq/#how-can-i-troubleshoot-a-tunnel-that-was-configured-from-the-zero-trust-dashboard,"Tunnels
+    · Cloudflare Zero Trust docs",Content & Metadata,28
+02c5d849-826c-4cbd-8fcb-7be8f2c0c45e,https://admin.typeform.com/accounts/01DRE51W7S5HPMAT91QZ232MQA/workspaces/QcFxs2,Typeform,Content & Metadata,29
+492320f1-201b-47e3-bc32-3f4193b741d1,https://www.unicode.org/reports/tr35/tr35-31/tr35-dates.html#Date_Format_Paerns,"Unicode Date formats »
+    UTS5",Content & Metadata,30
+14c4ef16-c626-4094-bfc4-a0ce2a69010d,http://www.worldometers.info/,Worldometers - real time world statistics,Content & Metadata,31
+50dfa840-7266-4eda-a664-bd5ac5c8456a,https://component.gallery/,The Component Gallery - UX Design Patterns,Interactions & Interfaces,32
+d52999d2-59a4-4c27-a9b1-827212594f56,https://automator.design/,Automator for Figma,Interactions & Interfaces,33
+60dbd86f-c2c1-480e-902c-036d3844f30e,https://balsamiq.cloud/s9zzjxi/pvndnpd/r200F,Balsamiq,Interactions & Interfaces,34
+794497a0-6ec6-4fe3-91a6-3c11a003b352,https://boords.com/,Boords | Storyboard Creator,Interactions & Interfaces,35
+dc8015fe-859d-4de6-9a11-21cdbfa97f4c,https://www.joshwcomeau.com/shadow-palette/,CSS Shadow Palette Generator,Interactions & Interfaces,36
+da222210-eb5e-4b38-a769-c3e615f38329,http://framerjs.com/,Framer - Prototype Interaction and Animation,Interactions & Interfaces,37
+8728243f-e574-45c3-8419-671e92a3e4a7,https://www.thinkmoto.de/gestures,IxD Gesture Icons,Interactions & Interfaces,38
+acd18cdd-a6f8-49ef-b7e4-91d0665731db,https://dashboard.kardsort.com/,KardSort,Interactions & Interfaces,39
+4bbf57d3-2370-47e2-80e5-b39baa42ec0b,https://www.modulz.app/,Modulz,Interactions & Interfaces,40
+8b89b5fb-0f49-4b36-9c77-6588f3cb92a9,https://relate.app/,Relate - The open platform to create for the web,Interactions & Interfaces,41
+52826b9e-4e99-4210-84a3-e68497491c62,https://screensiz.es/,Screen Sizes | Viewport Sizes and Pixel Densities for Popular Devices,Interactions & Interfaces,42
+43fee859-71ca-4910-9cbb-0deab8fcd0a4,https://sketch.systems/,Sketch.systems,Interactions & Interfaces,43
+22982b38-c11a-4a84-a449-669d29a67ec4,https://ui-patterns.com/,UI-Patterns.com,Interactions & Interfaces,44
+573e1be4-a34c-4986-8068-1644477044bb,https://www.useronboard.com/user-onboarding-teardowns/,"User Onboarding | A frequently-updated compendium of
+    web app first-run experiences",Interactions & Interfaces,45
+b2053168-b018-4ad3-ae2e-95e84f4155b1,https://www.mit.ed~jtidwell/interaction_patterns.html,Common Ground,Interactions & Interfaces,46
+fb30841c-50fb-4cf9-9c74-c2286d51920a,https://spec.fm/specifics/8-pt-grid,8-Point Grid,Languages & Systems,47
+8af5b6e5-20b3-4df8-b6dc-9d893a46235a,http://cssfontstack.com/,A CSS Font Stack,Languages & Systems,48
+673b8066-ad95-4dbf-a915-54cf662ee995,https://ui.aceternity.com/,Aceternity UI Library,Languages & Systems,49
+4c9c0f36-71b6-41af-9296-ab83faf2b6f6,https://browserframe.com/,Browser Frame for Screenshots,Languages & Systems,50
+96338fe2-9b9b-4cab-a3b8-5ff70912dd81,https://color.adobe.com/create/color-contrast-analyzer,Color contrast checker analyzer tool | Adobe Color,Languages & Systems,51
+728263d4-64d1-405a-9405-6f4dbc031b50,https://colordesigner.io/,Color Palette Generator | ColorDesigner,Languages & Systems,52
+e128b146-d77e-48b2-953b-bd078c8a8c33,https://mycolor.space/,Color Space - Palette and Gradient Tool,Languages & Systems,53
+d4e5657b-30cf-44c5-82de-e410621ba50d,https://material.io/resources/color/#!/?view.left=0&view.right=0,Color Tool - Material Design,Languages & Systems,54
+54f5130d-d143-4b19-905b-302da661ca8c,https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp,"Colour
+    Contrast Tool - Grid | EightShapes",Languages & Systems,55
+d7ef5a9d-8c68-4bf8-aa51-9e05781b0c90,https://convertingcolors.com/,"Converting Colors - Conversion, Gradients, Harmonies and More",Languages & Systems,56
+34479388-2fb9-4ea8-96c0-08112885ac12,http://www.css-color-extractor.com/,CSS Color Extractor,Languages & Systems,57
+ec319cbc-30a4-4f65-b135-7e62f3fab724,https://learnui.design/tools/data-color-picker.html,"Data Viz Color Palette Generator (for Charts &
+    Dashboards)",Languages & Systems,58
+039c3324-706a-41ae-a486-415a4be503a3,https://fontawesome.com/search,FA,Languages & Systems,59
+84d3c9ca-e026-4994-b5ca-d3bb869ca693,https://fontawesome.com/cheatsheet/pro,Fontawesome Cheatsheet,Languages & Systems,60
+9b90d3cd-a51b-4f12-8aa0-87ec555a900a,https://grtcalculator.com/,Golden Ratio Typography Calculator,Languages & Systems,61
+2adb90ec-fd32-45a0-9cfa-6b5d57aee647,https://fonts.google.com/,Google Fonts,Languages & Systems,62
+85b91584-b63f-481a-b8f0-b81adb56302e,https://colordesigner.io/gradient-generator,Gradient Generator | ColorDesigner,Languages & Systems,63
+abd4b473-7cb4-416f-bf48-7e8942429699,https://www.gridlover.net/try,Grid lover for Type Scales,Languages & Systems,64
+417c67f8-1a82-4bd2-8d8d-e6956655881e,https://materialpalettes.com/,Material Color Palette Generator,Languages & Systems,65
+9c76e136-3154-4161-9b87-fb4aadb04d6c,http://www.modularscale.com/,Modular Type Scale,Languages & Systems,66
+562d78ce-e4b4-491d-b953-31d49dc8f380,https://hihayk.github.io/modulator/,Modulator,Languages & Systems,67
+1c1244e7-e77a-4df9-839c-afa8519cc364,https://ui.shadcn.com/,SHADCN/UI Library,Languages & Systems,68
+9fc590fa-e9c1-461c-89a6-eb2005ad388f,https://noeldelgado.github.io/shadowlord/#0011ff,Shadowlord - Tints and Shades Generator Tool,Languages & Systems,69
+adba0f56-07fa-464b-a57b-18f4716d17f1,https://hypejunction.github.io/color-wizard/,Systematic Color Palette Generator,Languages & Systems,70
+f2093652-b129-4a4f-b8fe-9531a81c2ab6,https://material.io/blog/science-of-color-design,The Science of Color & Design - Material Design,Languages & Systems,71
+39837082-da86-4631-b146-3dd4211c6d57,https://www.tints.dev/brand/2522FC,tts.dev,Languages & Systems,72
+4a98b0d4-7900-435f-b8c6-6029af0748b5,http://type-scale.c/,Type Scale,Languages & Systems,73
+091f4173-221f-4e05-ae04-883d0a53235b,https://www.goabstract.com/,Abstract,Operations & Tactics,74
+86b8d05c-22ef-4fd2-bdb7-b0589b3f27f3,https://agile.18f.gov/,Agile Principles and 18F Practices,Operations & Tactics,75
+9777a6ce-a576-4cd7-94bc-e52868e7f8fd,https://www.animaapp.com/,Anima,Operations & Tactics,76
+a2b53d9c-7fc5-4505-bf95-64d3a2ccef05,https://www.chromatic.com/,"Chromatic: Storybook deployment, review, and test",Operations & Tactics,77
+82b1b7f4-b5a9-4229-ad70-953e4213503d,https://fractal.build/,Fractal,Operations & Tactics,78
+c6a967b7-516b-4ae7-845e-9f66fd9f1b48,https://gamestorming.com/,Gamestorming | Co-creation tools,Operations & Tactics,79
+a538476f-4bd8-4165-b284-4acfb20472df,https://www.mockaroo.com/datasets/143643,Mockaroo,Operations & Tactics,80
+f1a3b179-040c-4191-a7c6-cca3d9188365,https://patternlab.io/,Pattern Lab,Operations & Tactics,81
+0827f261-e9eb-4793-bf9b-23153cbf6c57,https://trello.com/b/DhxG8ozo/professional-development-framework-v11,"Professional Development Framework (v1.1)
+    | Trello",Operations & Tactics,82
+265fced5-2a21-4e83-9e87-be0674e5e581,https://progressionapp.com/,"Progression: Helping teams to grow, together",Operations & Tactics,83
+71fb086c-a441-485d-a377-b5a86e1e0c3c,https://zeplin.io/,Zeplin,Operations & Tactics,84
+877547f6-8cb2-4fb8-b089-aeb0ac569435,https://zeroheight.com/,ZeHeight,Operations & Tactics,85
+09898c9d-7bf2-4065-9212-cb0ba54da350,https://www.eleken.co/blog-posts/how-design-operations-work-at-eleken,"DesignOps at Elen: How Our Business
+    Operates",DesignOps Thought-Leadership,86
+cc85458e-f39a-4935-bd1c-7b3ee7c9650d,https://www.frog.co/designmind/designops101,"DesignOps 101 | What is Design Operations? | frog, part of
+    Capgemini Invent",DesignOps Thought-Leadership,87
+0b0cd1a6-b097-467e-81b3-6a8544f3c304,https://designlab.com/blog/grid-systems-history-ux-ui-layout,"The Grid System:
+    Importance of a Solid UX/UI Layout | Designlab",DesignOps Thought-Leadership,88
+0cad98fa-1460-41e5-a604-f912103fbc33,https://coda.io/@designops-guide-and-glossary/dogg/design-ops-101-8,"Design Ops 101 · DesignOps Guide &
+    Glossary (DOGG)",DesignOps Thought-Leadership,89
+c5b80c93-7543-4fa8-afa0-001a05eb12b0,https://uxplanet.org/everything-you-should-know-about-8-point-grid-system-in-ux-design-b69cb945b18d,"Everything
+    you should know about 8 point grid system in UX design | by Ashphiar Raihan Rumman | UX Planet",DesignOps Thought-Leadership,90
+ec835406-0a65-47fd-a770-486eb55ca97a,https://www.designops.lol/resources/,Resources - DesignOps LOL,DesignOps Thought-Leadership,91
+a0f96bce-fd58-4436-a465-150eb50ecc94,https://www.uxpin.com/studio/blog/designops-rescources/,A Go-To Article for the Best DesignOps Resources,DesignOps Thought-Leadership,92
+7d7eb599-8db2-47d8-b8d2-d6790ca9e2ae,https://medium.com/@vicdesign/a-mini-designops-resource-list-8a95c7e3bb15,"A mini DesignOpresource list. Unlock
+    the power of DesignOps with this… | by Victor | Medium",DesignOps Thought-Leadership,93
+b948fe6a-dfbc-47f3-ab73-fc1a0df5ff42,https://www.nngroup.c/articles/design-ops-study-guide/,DesignOps: Study Guide - NN/g,DesignOps Thought-Leadership,94
+ae56ec57-c324-4d4a-a9f0-4d615dd9e296,https://52weeksofux.com/,52 Weeks of UX,Principles & Standards,95
+c5934d98-1843-4eba-ad45-351c6071f9b9,https://accessible-colors.com/,Accessible Colors | WCAG 2.0 AA and AAA color contrast checker,Principles & Standards,96
+c2c2f284-0bbf-46c1-90fd-0c731140dff3,http://behaviormodel.org/,BJ Fogg Behavior Model,Principles & Standards,97
+4ea02086-72d3-40d6-8e0a-81cf975ab3e3,https://coolors.co/contrast-checker/112a46-acc8e5,Color Contrast Checker - Coolors,Principles & Standards,98
+e5b91357-e9e0-474b-a787-983137a167e5,http://lpetrich.org/Science/ColorBlindnessSim/ColorBlindnessSim.html,Color-Blindness Simulators,Principles & Standards,99
+219bf5ba-49d6-4cbf-8afa-1bf57689b559,https://colourcontrast.cc/,Colour Contrast Checker,Principles & Standards,100
+68a52ac5-8b44-49ee-8505-d97ec52ed57c,https://design-can.com/,Design Can,Principles & Standards,101
+a16ad5ed-c65b-4deb-b630-9a87513bda83,https://digitalpsychology.io/,Digital Psychology,Principles & Standards,102
+1968e325-b24c-4dd6-af27-a0e767be55e4,https://empathyprompts.net/,Empathy Prompts,Principles & Standards,103
+1aac0f78-a009-46ae-8498-3205050a54dd,https://en.wikipedia.org/wiki/Fitts%27s_law,Fitts's law - Wikipedia,Principles & Standards,104
+86aacb64-888b-400b-b06a-2a56c56181dd,https://lawsofux.com/,Laws of UX,Principles & Standards,105
+a5558ebb-6248-4d62-9744-92b1b5cb7393,https://pair.withgoogle.com/,People + AI Guidebook | Google,Principles & Standards,106
+bcafdb41-ec79-491c-b801-0704d5a589e1,https://principles.design/examples/,principles.design,Principles & Standards,107
+3e419315-0283-47e7-a387-a73d737ce81f,https://www.w3.org/WAI/WCAG21/quickref/,WCAG Accessibility Guidelines,Principles & Standards,108
+d814f54c-4030-4fb7-80a8-05e1d0d590e6,https://www.w3.org/TR/WCAG21/,Web Content Accessibility Guidelines,Principles & Standards,109
+88d4cf97-029b-4d4a-9f0c-012a2fa9a19e,https://www.w3.org/WAI/ARIA/apg/,ARIA Authoring Practices Guide | APG | WAI | W3C,Principles & Standards,110
+6593501f-8cf6-48e3-a643-77e9f4846502,https://accessibleweb.com/,Accessible Web | WCAG & ADA,Principles & Standards,111
+4fe42304-b067-47a2-b632-8d1f964ce61c,https://www.gamified.uk/user-types/#player,A Player Type Framework For Gamification Design,Principles & Standards,112
+de4aedc0-09aa-45c1-b91d-24ac5ee0fa68,https://goodux.appcues.com/,GoodUX,Principles & Standards,113
+b9867ce3-bfff-4219-8803-ce81550c2711,https://www.gamified.uk/2014/09/19/language-gamification-short-glossary/,The Language Of Gamification,Principles & Standards,114
+496cc100-328f-4854-a611-a3a8e54baa1c,https://www.luma-institute.com/about-luma/luma-system-explore-methods/,"Human-centered design framework | LUMA
+    System",Principles & Standards,115
+b6a29c2e-8484-487b-82f0-41bfeb5676ec,https://digital.gov/guides/accessibility-for-teams/,Accessibility r teams - Digital.gov,Principles & Standards,116
+75fc2bd3-6e45-4cf0-a5f4-8f72bed28ab4,https:/reativecommons.org/chooser/,Chooser - Creative Commons,Principles & Standards,117
+db7add1b-b59c-4713-b023-ec571f27cd7f,https://www.gamified.uk/user-types/,A Player Type Framework For Gamification Design,Research,118
+4fcbfaf4-a54d-4cac-a790-ca5cfce37df9,https://helio.app/,"Helio - Test prototypes, screens, concepts, and design ideas. Learn from real people in
+    minutes",Research,119
+37c74ace-d3c6-4535-80fc-200dab11d61d,https://www.optimalworkshop.com/treejack,Optimal Workshop | Information architecture validation software,Research,120
+6767dcf9-1881-4b24-9966-06a82c0eec1e,https://infodesign.com.au/usabilityresources.html,Usability resources,Research,121
+8e61df66-50f9-4ac0-8f3a-a275ef137273,https://www.uxtweak.com/,UX Tweak,Research,122
+fc091772-5c2e-44c7-baab-74161e913049,https://www.wordclouds.com/,Word Cloud,Research,123
+c943c862-6844-43aa-9e42-fb72d0800854,https://answerthepublic.com/,"AnswerThePublic | Seah listening tool for market, customer & content research",Research,124
+2765ff4c-5407-4be9-bc54-7615c2e5f712,https:/aserow.io/,BaseRow | Free AirTable Alt,Research,125
+b730d740-4e02-4172-a7d0-6f1bfaadffd9,http://colormind.io/,Colormind - the AI powered color palette generator,Strategy,126
+6be04f6d-9d9b-4f7e-873f-207556ce979b,https://loading.io/,loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator,Strategy,127
+99b20c4c-20f0-4f4d-aee4-50570053e6e5,https://mermaid.js.org/,Mermaid Diagramming,Strategy,128
+01df424f-f954-4709-9196-65f0d649602c,https://www.omnicalculator.com/other/pixels-to-print-size,Pixels to Print SizCalculator,Strategy,129
+4e590c33-34f1-40ce-86a5-1accb1aa1552,https://w.computerhope.com/jargon/w/w3c-color-names.htm,W3C Color Names?,Strategy,130
+a4be4180-327c-424d-91fc-918f0ff55930,https://huggingface.co/,Hugging Face - The AI community building the future.,AI,131
+3a54b926-509f-4c86-a783-cb9cf3394d73,https://letsenhance.io/boost,My images | LetsEnhance.io - Image enhancement powered by AI,AI,132
+7cb73af4-bbc8-4887-8cb8-e1fba7ee6c3e,https://theresanaiforthat.com/,There's An AI For That (TAAFT) - AI Aregator,AI,133
+e7e4da01-f13a-4476-8fcc-4bcdb646cbd0,https://wwweavely.ai/,Weavely | Design & Publish Forms in Figma,AI,134
+75765e9f-f386-462a-ace1-e9ca5e3806d1,http://adaptive-images.com/,Adaptive Images in HTML,Development,135
+1fecf9f0-f3bd-4ea3-a786-5b6ef72d8ffe,http://basehold.it/,Basehold,Development,136
+b70ae6d9-9bf1-4c08-91d2-6a1c76572ed2,http://designmodo.com/startup/,Startup Design Framework | Designmodo,Development,137
+07b287c2-e4f4-49ef-b028-9c807a28e607,http://keyes.ie/things/baseliner/,Baseliner,Development,138
+5a3a523d-641d-4f1b-9990-c40d8647b6af,http://nativeformelements.com/,Native Form Elements,Development,139
+d56afab9-772c-4cb8-b293-d8d5037a888c,http://palette.site/,Site Palette - Get the essential colours from a website,Development,140
+33bc31e9-7e31-47b8-9650-025dcf061826,http://tedgoas.github.io/Cerberus/,Cerberus Email Patterns,Development,141
+287049ea-6117-4efb-839b-215746f0f153,http://who.is/,Who.is,Development,142
+30d2571d-2d76-4438-8ca7-93fe21f480cc,https://blisk.io/,Blisk | A browser for web developers,Development,143
+14902737-959d-4891-afa1-2752b9d79165,https://caniuse.com/,"Can I use... Support tables for HTML5, CSS3, etc",Development,144
+614875d3-28c8-450f-99cf-a84fed22f4a4,https://clickclickclick.click/,Click 👈 👆 ↗️ 〰️,Development,145
+bacb712c-f977-4ce8-ac30-5e4351c3fa78,https://coolify.io/,Coolify,Development,146
+3e562a23-c061-4f9c-9236-d97b330e52ef,https://css-tricks.com/snippets/css/a-guide-to-flexbox/,A Complete Guide To Flexbox | CSS-Tricks,Development,147
+302f48ae-2384-44ed-b870-782fa1c4a030,https://cssgrid-generator.netlify.app/,CSS Grid Generator,Development,148
+e6d47c42-cbd1-4b15-b66b-a99688ab8d84,https://cssstats.com/,CSS Stats,Development,149
+54bdf60c-3462-41c6-b3e6-8891be3a361c,https://dashboard.render.com/,Render Dashboard,Development,150
+041d031e-7b63-4390-a262-1284ac6ceee9,https://developer.mozilla.org/en-US/,MDN Web Docs,Development,151
+0dc70e48-0829-4ddd-b5c0-4d595b11b2a6,https://developer.mozilla.org/en-US/docs/Web/CSS,CSS,Development,152
+f20fdc6e-9979-4166-a4e0-e6d878ed3ee9,https://developers.google.com/web/fundamentals/web-app-manifest/,The Web App Manifest,Development,153
+a268b2ec-25d3-4037-b1ce-0513582b4c47,https://developers.google.com/web/progressive-web-apps/checklist,Progressive Web App Checklist,Development,154
+f9188ccf-f770-4746-8f1e-e5736067417c,https://deviceatlas.com/blog/list-of-user-agent-strings,List of User Agent strings,Development,155
+7a77fe39-cf01-4098-81a4-1369da812eaa,https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax,"Basic
+    writing and formatting syntax - GitHub Docs",Development,156
+fabd7483-fbd0-4ee9-af40-59c38c30352d,https://editor.swagger.io/,Swagger | API Editor & Validator,Development,157
+72d8f0e7-007f-403f-8d89-aee65aed3e93,https://every-layout.dev/checkout/?ref=producthunt,Every Layout,Development,158
+4ded6f8f-c8f8-4158-a082-6593510e4c4b,https://flaviocopes.com/tailwind-cheat-sheet/,The Tailwind Cheat Sheet,Development,159
+d83ca045-6505-44ee-8690-ad82dab651d9,https://frontmatter.codes/,Headless CMS right in your code editor | Front Matter,Development,160
+6849830e-1933-4d23-867f-b56eb66b0f22,https://github.com/renderghost?tab=repositories,GitHub Repositories,Development,161
+df17ea2b-53ce-4c17-863c-4a786c8e8162,https://github.com/renderghost,GitHub Profile,Development,162
+5a4b98dd-4437-4ecc-b3ea-38341f62e3e2,https://inclusive-components.design/cards/,Cards,Development,163
+582e7280-0db4-4df9-8f3f-7827b6d25bfc,https://lucide.dev/icons/,Lucide,Development,164
+fdaf433d-e133-4fa4-a611-9d465d16ab5b,https://lucide.dev/icons/figma,Lucide,Development,165
+bfe3322a-bdd9-43f8-ac4d-1e4534f16776,https://material.io/collections/machine-learning/object-detection-live-camera.html#experience,"Object
+    Detection: Live Camera - Material Design",Development,166
+74613712-e825-4f7e-a3fc-ea204275c38e,https://meyerweb.com/eric/tools/dencoder/,URL Decoder/Encoder,Development,167
+ce26cd7a-2ffb-4e19-942b-d2c49a7433b8,https://mixmark-io.github.io/turndown/,Turndown Demo,Development,168
+36d82e51-0efa-4520-b8b8-3cd13b521e57,https://mkfizi.dev/tailbone/,Tailbone - TailwindCSS UX Skeleton Generator,Development,169
+20048d08-05e4-489f-8c5a-9039f642ba07,https://motion.dev/,Motion - A modern animation library for JavaScript and React,Development,170
+6bffd192-2196-413e-8ea4-5e536184a32a,https://readme.so/,readme.so,Development,171
+d394f4a1-6573-42a3-b2e1-498ac9890710,https://remix.run/docs/en/main/discussion/introduction#introduction-technical-explanation,"Introduction,
+    Technical Explanation | Remix",Development,172
+b9554c5e-aa3a-4e2c-bebe-a33e1b4e18be,https://serpapi.com/users/welcome#,Welcome - SerpApi,Development,173
+a445ba0b-aafa-47de-9552-06bfd1a62670,https://sizzy.co/,Sizzy,Development,174
+7b29d932-f9fc-4465-992a-67d346e87a94,https://strapi.io/,Strapi - Open source Node.js Headless CMS 🚀,Development,175
+f11554d0-938b-46e7-a2ae-656418b0cd27,https://tailtools.app/palette-generator,Palette Generator | Tailtools: Tailwind CSS Tools,Development,176
+27053d6c-d1e3-4fc5-9e85-6f3505e5a7cc,https://tailwind-generator.com/,Tailwind Generator,Development,177
+59715b59-f0b7-4dea-b2ad-a137d8b0c5cf,https://tailwind.ink/,Tailwind Ink | AI color palette generator for Tailwindcss,Development,178
+629a15e6-7f46-483d-93dd-bc9ca4d03f49,https://tailwindcss.504b.cc/,Tailwind CSS Cheatsheet,Development,179
+1dd58944-1466-41fe-a3be-e4a37e6ae7e7,https://tailwindflex.com/,TailwindFlex: Components + Samples,Development,180
+372a2cb2-ae98-4c2e-a100-56a97e2f7c59,https://tailwindui.com/components/preview,Tailwind CSS Component Playground - Tailwind UI,Development,181
+7f7e5850-1805-4335-ab55-615199da7203,https://uicolors.app/create,Tailwind CSS Color Generator,Development,182
+ad8607d6-d173-4e50-ad14-4726a3e48a31,https://vercel.com/renderghost-projects,Vercel,Development,183
+4a2d42c7-3a85-4cc3-9ff2-aec6825b17a4,https://voideditor.com/,Void,Development,184
+bcf9b5cc-a6b1-4fed-9221-ac72eb13af70,https://webflow.com/dashboard?workspace=job-finding,WebFlow,Development,185
+eef5a908-4aa6-4122-9476-caca416d3b43,https://wpdean.com/tuikit/modals.html,Tailwind CSS Modals | Interactive Popup & Dialog Components,Development,186
+63791506-d9f2-4947-ad15-516023c39b90,https://www.composerize.com/,Composerize,Development,187
+76a6fa14-95b4-49e7-bc89-f78f71cdc0dd,https://www.design-tokens.dev/,Design Tokens Generator - For Web Developers and Designers,Development,188
+4f9327ac-a84e-4ac3-9833-4b680b7e58c5,https://www.figma.com/plugin-docs/css-variables/#list-of-all-available-color-tokens,"CSS Variables and Theming
+    | Plugin API",Development,189
+425cf93e-0d3d-4d9c-8cd5-40e5297fa998,https://www.mysitemapgenerator.com/,Sitemap Generator. Create XML Sitemaps Online,Development,190
+3304aba3-3ccb-4f96-8f7e-bcfe2f6c301e,https://www.projectwallace.com/,CSS Analytics - Project Wallace,Development,191
+585f7536-0a70-4200-ae1d-9ac90af959c3,https://www.rgbtohex.net/,RGB to HEX,Development,192
+87b9b98d-4d46-4b28-bdcd-8d53d39f8fa6,https://www.tailwindgen.com/,Tailwind Grid Generator,Development,193
+1fe1bb82-b045-429e-bb50-5aa28b8d2013,https://www.transition.style/#in:circle:hesitate,Transition.css - easy transitions with clip-path,Development,194
+f5575b16-6ff3-4e71-b1d9-8a4a90c4cbe0,https://backsideofdawn.github.io/csscolorfinder/,Color Finder,Development,195
+4788462a-4c43-435d-843b-297f8af23b41,https://worditout.com/word-cloud/create,Create word clouds - WordItOut,Development,196
+e85078e7-d096-43dc-a09d-88605d0dce36,https://fffuel.co/,"Free SVG generators, color tools & web design tools",Development,197
+bb410d46-5f0c-4a62-852b-21348b857ff6,https://hexp3.com/,HEX <> P3 | Quickly convert your HEX colors to Dplay P3 color space.,Development,198
+9897d838-127c-4245-bc32-a35575a67edb,https://keywordsheeter.com/,Keyword Sheeter - Free Keyword Ideas Tool,Development,199
+2a4de74f-9423-420a-8d08-14cee9d66a0f,https://maze.toys/,Maze Toys,Development,200
+4077a0bf-c34f-40a0-95f1-66bd05818e36,https://www.mentimeter.com/app/home,Mentimeter,Development,201
+f87e53e4-9220-487b-afa9-ead02a20c165,https://app.mochi.cards/,Mochi,Development,202
+564a326e-9f17-4677-aa80-5378e0c74750,https://www.nerdfonts.com/font-dowoads,"Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts
+    patcher",Development,203
+d268cdb7-76fc-45f5-a193-10a245ef83b0,https://nocodb.com/,NocoDB Cloud,Development,204
+1c1c6f82-7618-46f5-9ba1-5f792adc379b,htt://www.notion.so/,Notion,Development,205
+d9c1b89f-e6e0-48e8-ba61-34604b21e635,http://bokardo.com/,Bokardo,Blog,206
+52848c08-e80c-49b9-8a2a-293d618a5113,http://worrydream.com/,Bret Victor,Blog,207
+f946f7a8-5d2c-4638-970f-fc347e2efc61,https://danielburka.com/,Daniel Burka,Blog,208
+2c5825ed-1532-4600-9ad7-a1f6ebba32a1,https://daringfireball.net/,Daring Fireball,Blog,209
+70bea5e1-b40d-4251-abc9-543b34ccae67,https://userpilot.com/blog/navigation-ux/,Navigation UX: Pattern Types and Tips to Enhance User Experien,Blog,210
+764ea132-c7c2-4f06-a58a-959a441c3575,https://tomblomfield.com/post/1743528547367/the-age-of-abundance,The Age Of Abundance - Tom Blomfield,Blog,211
+3259c97e-9c92-4e8a-baf8-9920f2669d12,https://alistapart.com/,A List Apart,Magazine,212
+c6e5f9aa-7056-4582-b289-946ec2f41ebc,https://boxesandarrows.com/,Boxes & Arrows,Magazine,213
+6c6e3114-2ca5-48e8-95f9-1d94a43484fc,https://hbr.org/1998/11/how-venture-capital-works,How Venture Capital Works,Magazine,214
+cf94fe24-cc74-40db-9f20-1766c6e8184a,https://www.theverge.com/,The Verge,Magazine,215
+0c2b7777-a7fa-4cf0-a441-ebd5a6208c19,http://www.usabilitycounts.com/,ability Counts,Magazine,216
+70b93d5b-bf06-42cf-98d1-845d557cca72,https://uxbth.com/,UX Booth,Magazine,217
+4ef0b15d-7998-4438-9039-d1053937d9de,https://www.smashingmagazine.com/2013/06/13-tenets-user-experience/,"13 Tenets Of User
+    Experience",Reading List,218
+e08e3427-3130-4a1f-b5e1-04ab149b9d00,https://www.nngroup.com/articles/start-designops/,3 Steps for Getting Started with DesignOps,Reading List,219
+220c48cd-28f3-49eb-b1c4-b975117515e8,https://www.gamified.uk/2015/01/05/neurotransmitters-you-should-know-about-in-gamification/,"4 essential
+    Neurotransmitters in gamification",Reading List,220
+e1dde479-8450-4868-acba-68c88c7b594e,https://lifehacker.com/7-of-the-best-evernote-alternatives-and-why-you-should-1848592934,"7 of the Best
+    Evernote Alternatives (and Why You Should Finally Switch)",Reading List,221
+b2233027-7bc8-4c4b-bd76-6c440e7e4d58,https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda,"7 Rules for Creating
+    Gorgeous UI",Reading List,222
+80b10a7b-62f6-41bc-acae-825ccfb63ffc,https://uxmovement.com/forms/8-reasons-users-arent-filling-out-your-sign-up-form/,"8 Reasons Users Don't Fill
+    Out Sign Up Forms",Reading List,223
+3253ded6-8304-45cb-bda9-a4e99d784208,https://www.uxbooth.com/articles/a-lesson-in-gradual-engagement/,A Lesson in Gradual Engagement,Reading List,224
+8b88a3fe-a7cc-4cdc-9429-433743242230,https://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/,"Absolute vs. Relative
+    Timestamps: When to Use Which",Reading List,225
+f54d5e89-6b4d-44fd-8cbe-6f907fa4c87f,https://medium.com/habit-of-introspection/affordances-matter-cab064b40b4b,Affordances matter,Reading List,226
+121b8152-c0b9-4c11-8399-e68f68ea4946,https://stratechery.com/2015/aggregation-theory/,Aggregation Theory,Reading List,227
+30166c02-1765-4f74-9b34-7cb6c63c454c,https://stratechery.com/concept/aggregation-theory/,Aggregation Theory - Stratechery by Ben Thompson,Reading List,228
+fd42d785-3de1-4528-97ed-e1f806505920,https://boxesandarrows.com/an-answer-to-the-pains-of-integrating-agile-and-ux/,"An Answer to the Pains of
+    Integrating Agile and UX",Reading List,229
+0e320d49-93bc-49a2-b730-1a42b823cd5b,https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/,"An Excellent
+    Beginner's Guide to Information Architecture",Reading List,230
+f6d216dc-964c-42c3-86e0-19b92ee7a42a,https://webdesign.tutsplus.com/articles/an-introduction-to-hierarchy--webdesign-14947,"An Introduction to
+    Hierarchy",Reading List,231
+8a71edbb-a672-43dc-bf55-9063a5dec3d7,https://www.gamedeveloper.com/design/analysis-option-availability-and-loss-aversion-in-game-design,"Analysis:
+    Option Availability And Loss Aversion in Game Design",Reading List,232
+eaa34131-5db4-4f05-bfbd-329615262d0b,https://www.uxmatters.com/mt/archives/2013/01/are-personas-still-relevant-to-ux-strategy.php,"Are Personas
+    Still Relevant to UX Strategy?",Reading List,233
+02a12a40-3bc5-40ad-9b64-6513ba3078ed,https://uxmovement.com/thinking/are-you-meeting-the-user-experience-hierarchy-of-needs/,"Are You Meeting the
+    User Experience Hierarchy of Needs?",Reading List,234
+1cdb02fc-ce85-46db-92d8-e598ca17d73b,https://uxmovement.com/navigation/avoid-the-pains-of-pagination/,Avoid the Pains of Pagination,Reading List,235
+af250dd3-a8aa-4562-a8b7-f6101d63c7e2,https://www.youtube.com/watch?v=Yp_qfB1FA0Y,"Build it in Figma: Create a Design System V: Documentation -
+    YouTube",Reading List,236
+ce5c6fce-b18f-4e12-913f-be3a730abb77,https://gotechark.com/blog/common-design-principles-for-a-progressive-web-app/,"Common Design Principles for a
+    Progressive Web App",Reading List,237
+8cfce018-c27c-47fd-994c-877662aedd8b,https://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php,"Common Misconceptions
+    About Touch",Reading List,238
+66406c22-ffe0-47c5-ba3c-1565c4d93828,https://bradfrost.com/blog/post/complex-navigation-patterns-for-responsive-design/,"Complex Navigation Patterns
+    for Responsive Design",Reading List,239
+43d44666-f4a4-417d-bc7a-ff3065a200d0,https://stratechery.com/concepts/,Concepts,Reading List,240
+756935aa-d950-4449-a395-593632c33dd2,https://www.usability.gov/how-to-and-tools/methods/content-inventory.html,Content Inventory,Reading List,241
+8545d945-55d4-4f00-b918-381b1f60c421,https://www.smashingmagazine.com/2013/05/converting-our-stories-into-multi-screen-experiences/,"Converting Our
+    Stories Into Multi-Screen Experiences",Reading List,242
+81ae2e97-788c-466e-b32f-34434dece9ea,https://www.newyorker.com/magazine/2018/09/17/can-mark-zuckerberg-fix-facebook-before-it-breaks-democracy,"courted
+    comparisons to the Roman emperor Augustus",Reading List,243
+33579aa0-7cea-4ce0-8196-4b8aa2db3373,https://uxdesign.cc/creating-space-for-design-reviews-bd23a14f307d,"Creating space for design reviews | by
+    Lauren Smith | UX Collective",Reading List,244
+87ec95cd-c732-42af-865e-c494846f7cb6,https://www.uxmatters.com/mt/archives/2014/05/dealing-with-long-field-names-analyzing-users-tasks.php,"Dealing
+    with Long Field Names | Analyzing Users' Tasks",Reading List,245
+48b3348f-97ae-431f-92e8-9ba920b37a86,https://stratechery.com/2017/defining-aggregators/,Defining Aggregators,Reading List,246
+a4768504-48f7-4ae2-9cc8-d72203fcfe4a,https://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it/,"Design Patterns: You Already Know How
+    To Use It",Reading List,247
+9571de93-5b1c-4319-b52b-3b37dde911c6,https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/,"Design
+    Principles: Visual Perception And The Principles Of Gestalt",Reading List,248
+80b1b02b-7ad8-4d9e-88ad-a8155ee7dc41,https://www.smartsheet.com/content/design-review-process?amp,Design Review Process Essentials | Smartsheet,Reading List,249
+72ee29b3-edf4-4215-953d-886e46d0cfa6,https://design.google/library/going-beyond-the-surface/,"Design Reviews: Going Beyond the Surface - Library -
+    Google Design",Reading List,250
+8d174f95-d855-4608-9f83-3b375d79afe0,https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f,Design tokens with Figma,Reading List,251
+b5ab9733-c941-40eb-b665-0b5f8252a398,http://web.cs.wpi.edu/~matt/courses/cs563/talks/smartin/int_design.html,"Designing Effective User
+    Interfaces",Reading List,252
+9056f6c7-869b-4c3f-b08d-324f51bf68f3,https://www.lukew.com/ff/entry.asp?1927,Designing for Large Screen Smartphones,Reading List,253
+69615b55-0ab2-418b-99c0-0bf71aad6a1b,https://www.uxbooth.com/articles/designing-mobile-part-3-visual-design/,"Designing for Mobile Part 3: Visual
+    design",Reading List,254
+6352cc20-fdfe-4f7f-8e56-dcb9212b91d0,https://www.webfx.com/blog/web-design/designing-hyperlinks-tips-and-best-practices/,"Designing Hyperlinks: Tips
+    and Best Practices",Reading List,255
+607cf7b4-bd43-4d85-ae24-3f9334c2c3db,https://boxesandarrows.com/designing-screens-using-cores-and-paths/,"Designing Screens Using Cores and
+    Paths",Reading List,256
+902ffdd1-a0dd-46f7-af97-61386276b937,https://www.webfx.com/blog/web-design/hyperlink-design/,"Designing the Perfect Hyperlink - It's Not as Simple
+    as You Think",Reading List,257
+3d3e45a4-41b1-4a06-8da1-839a463424ca,https://css-tricks.com/diy-priority-plus-nav/,DIY Priority+ Navigation,Reading List,258
+1c5821bc-4648-4629-a53d-21ec2ec4d1e7,https://www.smashingmagazine.com/2013/01/effectively-planning-ux-design-projects/,"Effectively Planning UX
+    Design Projects",Reading List,259
+3a781fdb-b494-471e-8326-c922b05ddabe,https://bradfrost.com/blog/post/extending-atomic-design/,Extending Atomic Design,Reading List,260
+99617907-357a-43c1-aefd-c75d9b27b26a,https://uxdesign.cc/figma-design-thinking-building-a-design-system-for-an-existing-product-388bfdeb844b,"Figma
+    & design thinking: Building a design system for an existing product | by Tammy Taabassum | Sep, 2020 | UX
+    Collective",Reading List,261
+9626478a-081e-4b2c-924d-10f7ebd8eab6,https://ux.stackexchange.com/questions/13939/filtering-stats-what-are-some-good-patterns-to-follow-for-filtering-a-time-date,"Filtering
+    stats: What are some good patterns to follow for filtering a time/date range?",Reading List,262
+9e0edb93-955e-486c-8ef4-33bd5cb0a0b7,https://asktog.com/atc/principles-of-interaction-design/,"First Principles of Interaction Design (Revised &
+    Expanded)",Reading List,263
+f6868685-7420-46da-95fb-9e4b4c14a3a6,https://www.smashingmagazine.com/2012/09/fixing-broken-user-experience/,Fixing A Broken User Experience,Reading List,264
+f90c6b19-f6b5-46b1-8967-5159af524ecf,https://www.gamified.uk/2014/05/07/game-design-process-framework/,GAME: A design process framework,Reading List,265
+a90dccf7-10b5-4413-b27d-51b1e39e002b,https://www.gamified.uk/2014/07/24/gamification-users-perspective/,Gamification: The users perspective,Reading List,266
+0686c8e0-5fcf-4ae1-b6da-a82bf7cc6765,https://www.sitepoint.com/gestalt-principles-psychology-design/,"Gestalt Principles and the Psychology of
+    Design",Reading List,267
+9d6e7576-2ceb-4d78-a712-4ecf1a0c682d,https://www.uxbooth.com/articles/good-call-to-action-buttons/,Good Call-To-Action Buttons,Reading List,268
+da11ea27-49d5-4357-bf4e-008101b5cd7e,http://toastytech.com/guis/uirant.html,Good User Interface Design Tips,Reading List,269
+4084f69c-49ae-49aa-8d4f-ed2ce996950d,https://designstrategy.guide/ux/ux-research-guide/,How to conduct user research: A step-by-step guide,Reading List,270
+cebfa112-5ef4-4dc4-8702-2b4aed358748,https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops/,"How To Design Outstanding Feedback
+    Loops",Reading List,271
+b95f61ba-85ea-41db-acba-79fbaf1096ed,https://uxmovement.com/buttons/how-to-make-sure-users-dont-accidentally-delete/,"How to Make Sure Users Don't
+    Accidentally Delete",Reading List,272
+530c738f-eb8f-459a-9f9e-c43f4f7bae03,https://www.uxbooth.com/articles/how-to-run-a-successful-design-review/,"How to Run a Successful Design Review
+    | UX Booth",Reading List,273
+ecd90bbf-41e3-46d6-b4c9-ea71a9c75163,https://www.invisionapp.com/inside-design/remote-design-critique/,"How to run an efficient remote design
+    critique |...",Reading List,274
+2f6426e7-6372-47ea-a930-89f597a4466d,https://www.smashingmagazine.com/2011/12/effective-user-research-transforming-minds-of-clients/,"How To
+    Transform The Minds Of Clients",Reading List,275
+718892d3-24ac-4575-99ff-2004ea8930ef,https://www.gamified.uk/2014/10/08/game-thinking-getting-tools/,How to Use Game Thinking,Reading List,276
+5cb83fc0-2671-45b1-ab72-187da73e8858,https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/02/how-to-increase-your-influence-at-work,https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/02/how-to-increase-your-influence-at-work,Reading List,277
+05e07acc-8775-4325-b266-0a309dc82b21,https://www.nngroup.com/articles/icon-usability/,Icon Usability,Reading List,278
+8fc60ab5-b036-425b-b93d-d2e810754bcf,https://legacy.cs.indiana.edu/~port/teach/103/sign.symbol.html,"ICON, INDEX and SYMBOL (Long Version)",Reading List,279
+79178248-3b7b-4796-8a92-2fbe451c5278,https://vanseodesign.com/web-design/icon-index-symbol/,"Icon, Index, and Symbol - Three Categories of Signs",Reading List,280
+6ee28a13-1735-4d0b-9eaf-c13ef12f378a,http://userexperienceexperience.blogspot.com/2012/07/if-heuristics-were-written-from.html,"If heuristics were
+    written from the customer's point of view?",Reading List,281
+c8c03623-6ae0-4a32-b2c5-4e48304dd9d4,https://www.designnews.com/implement-design-reviews-right-way,Implement design reviews the right way,Reading List,282
+7a35c108-a6d8-4ace-ad46-1c0d5f7f64b4,https://www.usability.gov/how-to-and-tools/methods/information-architecture/index.html,"Information
+    Architecture Methods | Usability.gov",Reading List,283
+7c8ef875-a3cb-424e-b0f8-ef6b41e5c658,https://www.nngroup.com/articles/information-scent/,Information Scent: How Users Decide Where to Go Next,Reading List,284
+1c6aaebe-f68c-4c78-8f42-44c5b6ab84ac,https://www.designbetter.co/design-systems-handbook/introducing-design-systems,Introducing design systems,Reading List,285
+623c1c1b-07aa-4855-9173-788145a33a4b,https://designstrategy.guide/interviews/investing-in-design-strategy-means-investing-in-greater-confidence/,"Investing
+    in design strategy means investing in greater confidence",Reading List,286
+780b3fe5-b7cd-46da-9d23-1c426970ea26,https://verbivore.com/ipso-facto-every-day-we-speak-and-write-latin/,"Ipso facto: Every Day We Speak and Write
+    Latin",Reading List,287
+638a90f2-fd56-4bdc-ac12-cea6d51b8663,https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/,"Lean UX - Getting
+    Out Of The Deliverables Business",Reading List,288
+d9f014b1-8e96-401a-80ae-2152d82bdaba,https://ux.stackexchange.com/questions/525/unambiguous-way-to-display-timezone-information-in-a-compact-manner,"lists
+    - Unambiguous way to display timezone information in a compact manner - User Experience Stack Exchange",Reading List,289
+96ca5eff-5210-4a66-b07b-acd09d5f04a8,https://dev.to/psqrrl/managing-design-tokens-using-storybook-5975,Managing Design Tokens Using Storybook,Reading List,290
+b20ae05e-ef62-4e9b-8272-520c76843f82,https://www.nngroup.com/topic/ux-management/#articles,"Managing UX Teams Articles, Videos, Reports, Training
+    Courses, and Online Seminars by NN/g",Reading List,291
+792988ad-2940-45de-a352-dcca15256642,https://www.headway.io/blog/managing-your-design-system-in-figma,Managing Your Design System in Figma,Reading List,292
+236932dd-1a82-4d3b-aec1-16efadfc6412,https://www.nngroup.com/articles/mobile-subnavigation/,Mobile Subnavigation,Reading List,293
+1dc00abd-8b95-4aba-aff4-4c727bb16cf2,https://www.lukew.com/ff/entry.asp?1514,Multi-Device Layout Patterns,Reading List,294
+e994de91-d2a0-4c27-931a-93a6036774f8,https://medium.com/@cameronmoll/nine-patterns-among-great-ux-teams-3cc37252b59a,"Nine patterns among great UX
+    teams",Reading List,295
+29a52d86-db21-40b0-b8e5-7769a981bcf9,http://christianheilmann.com/2011/12/28/on-single-page-apps/,On single page apps,Reading List,296
+4b9bc27c-da53-442a-98fd-b3d54f964047,https://boxesandarrows.com/optimizing-ui-icons-for-faster-recognition/#fn3,"Optimizing UI icons for faster
+    recognition",Reading List,297
+3c766caf-77bb-4f2e-a36e-367ae3ed955a,https://www.usability.gov/how-to-and-tools/methods/organization-schemes.html,Organization Schemes,Reading List,298
+84218d5b-2093-4b20-94fc-65d1428b3cb1,https://www.usability.gov/how-to-and-tools/methods/organization-structures.html,Organization Structures,Reading List,299
+d4af4f36-adfb-4c17-ba4d-6101c95e0a65,https://stratechery.com/concept/aggregation-theory/platforms-vs-aggregators/,"Platforms vs Aggregators -
+    Stratechery by Ben Thompson",Reading List,300
+5030db1c-06fb-40f0-80c0-20870e5a5b27,http://www.tersiiska.com/design/principles/,Principles,Reading List,301
+31d29bd6-f4c2-4c84-b0bf-d296dcaa8f6c,https://medium.com/@mibosc/responsive-design-why-and-how-we-ditched-the-good-old-select-element-bc190d62eff5,"Responsive
+    Design: Why and how we ditched the good old select element",Reading List,302
+70214cef-b917-40b6-b90a-072befa0f6ce,https://bradfrost.com/blog/post/responsive-nav-patterns/,Responsive Navigation Patterns,Reading List,303
+1277cc3d-647f-40d9-a33f-e2a164988690,https://bradfrost.com/blog/post/revisiting-the-priority-pattern/,Revisiting the Priority+ Pattern,Reading List,304
+e209eeb1-fd99-4f2e-90de-13a6031e1d32,https://www.gamified.uk/2014/08/08/smart-gamification-goal-setting/#.U-SyYfldUeg,"S.M.A.R.T Gamification - Goal
+    Setting",Reading List,305
+cf931ba7-a4e0-4b04-83f0-89d5b8ddf7e1,https://drpodcastingsolutions.com/,Shopify and Platforms,Reading List,306
+ec284372-17cd-418e-822c-6806ae4ca294,https://uxplanet.org/struggle-to-give-verbal-feedback-during-design-critiques-try-silent-feedback-instead-cb852f339eb,"Struggle
+    to give verbal feedback during Design Cr...",Reading List,307
+1ba308e0-578f-4868-bc01-fcf83bf8bde7,https://uxplanet.org/the-design-review-between-designers-and-developers-75152868f717,"The 'Design Review'
+    Between Designers and Developers | by Aurélie Radom | UX Planet",Reading List,308
+b2a08fa8-c7fb-49b0-92a8-5628a4a395ab,https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/,"The Art of Guerrilla Usability
+    Testing",Reading List,309
+f0033909-1c33-4422-bd25-fa3c3960943b,https://www.bloomberg.com/news/articles/2013-01-10/the-dunbar-number-from-the-guru-of-social-networks#r=rss,"The
+    Dunbar Number, From the Guru of Social Networks",Reading List,310
+1a644291-0a3c-45f7-982b-13b65e118450,https://www.gamified.uk/2014/04/30/eeee-user-journey-framework/,The EEEE User Journey Framework,Reading List,311
+3446700c-6c98-48c7-848b-031e7329a997,https://uxmag.com/articles/the-elements-of-player-experience,The Elements of Player Experience,Reading List,312
+d01fc68f-a0ff-4fcc-ba90-c7817a18253f,https://www.thedrum.com/opinion/2013/11/29/importance-gestalt-laws-ux-design-planning,"The importance of
+    Gestalt laws for UX design planning",Reading List,313
+a3843f46-9116-4a18-98bd-dbe9f873c892,https://alistapart.com/article/the-infinite-grid/,The Infinite Grid,Reading List,314
+eddcc8d5-0353-42bb-917f-2a584ff85f14,https://www.gamified.uk/gamification-framework/the-intrinsic-motivation-ramp/,"The Intrinsic Motivation
+    RAMP",Reading List,315
+52b117bc-c662-4781-9078-78ba808925f1,https://medium.com/@lajules/the-online-meeting-facilitator-canvas-map-your-virtual-meeting-on-one-page-make-it-productive-5ce23a2e1e07,"The
+    Online Meeting Facilitator Canvas: Map your Virtual Meeting on One Page & make it productive | by Julia Kolm |
+    Medium",Reading List,316
+0609afef-d336-4657-84c9-0e8732938413,https://css-tricks.com/the-priority-navigation-pattern/,The Priority+ Navigation Pattern,Reading List,317
+d5b47fac-bcea-42d6-aa90-dbba5411f323,https://www.webfx.com/blog/web-design/proxority-principle/,The Proxority Principle in Web Design,Reading List,318
+2783ba5d-4304-47a6-9b0b-ba7464bf6290,http://alistapart.com/article/the-role-of-the-web/,"The Role of the Web, an Excerpt from Understanding
+    Context",Reading List,319
+e2f92392-70b3-471a-9aa6-3c131df3d17b,https://medium.com/@pasql/transitional-interfaces-926eb80d64e3,Transitional Interfaces,Reading List,320
+8dd612a9-0766-4935-9a3e-2ec8b87261b2,https://medium.com/@slhenty/ui-response-times-acec744f3157,UI Response Times,Reading List,321
+b6bce067-3fac-4e1c-b89b-d1e7306cfaaa,http://www.billverplank.com/Lecture/,Untitled Document,Reading List,322
+95955dc7-e06f-4f6c-9e95-55d2ea9a7563,https://en.99designs.de/blog/web-digital/user-interface-design/,"User interface design: 4 rules you need to
+    know",Reading List,323
+0c7985ed-9d5e-4aec-a3c1-45565da940e1,https://medium.com/@simon_norris/ux-maturity-the-reality-of-performance-547303b39efd#.6d2mbsdto,"UX Maturity:
+    The Reality of Performance",Reading List,324
+c1cd647b-d53c-4284-a533-a3d562ee8c68,https://uxmyths.com/,UX Myths,Reading List,325
+2ddae842-77ce-4847-a234-732de1ee896e,https://boxesandarrows.com/ux-one-liners/,UX One-liners,Reading List,326
+81a7221f-14c2-41fa-88ee-e7e1de1f85a3,https://www.lukew.com/ff/entry.asp?981,Visible Narratives: Understanding Visual Organization,Reading List,327
+b03e031a-578d-496d-ba14-7f6696632adc,https://cxl.com/blog/website-information-architecture-optimal-user-experience/#.,"Website Information
+    Architecture: How to Optimize for UX",Reading List,328
+284af2a3-69c8-492e-a067-6a5154335f74,https://medium.com/@dealville/whales-synchronize-their-songs-across-oceans-and-theres-sheet-music-to-prove-it-b1667f603844,"Whale
+    Song Explained",Reading List,329
+d86d020f-7b9b-4e4c-a26b-9ec1a7e25f8e,https://web.dev/pwa-checklist/,What makes a good Progressive Web App?,Reading List,330
+0f112942-8c36-49f2-bed2-209f9affc5a0,https://www.uxmatters.com/mt/archives/2013/01/when-agile-and-user-experience-click.php,"When Agile and User
+    Experience Click",Reading List,331
+93e91a13-62f9-4ec1-8c8b-89d1604e9f48,https://venturebeat.com/2013/01/11/who-owns-your-ux-philosophy/,Who owns your UX philosophy?,Reading List,332
+70bcd019-d9f9-4b59-aeba-88d8e3097f85,https://archive.uie.com/brainsparks/2013/07/16/why-is-not-enough-overcoming-flaws-of-the-five-whys/,"Why Is Not
+    Enough: Overcoming Flaws of the Five Whys",Reading List,333
+079e16eb-7fc9-4fe8-8d94-ca90591df539,https://www.usability.gov/how-to-and-tools/methods/wireframing.html,Wireframing,Reading List,334
+ed579c8c-67da-41c0-aee5-b63b12f138b6,https://stratechery.com/2018/zillow-aggregation-and-integration/,"Zillow, Aggregation, and Integration",Reading List,335

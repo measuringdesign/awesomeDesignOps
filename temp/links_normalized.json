@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "6e7dc0b9-0b73-447c-8751-2bcef5f95979",
+    "href_raw": "https://codepen.io/awoodall/full/XbpMbo",
+    "href_norm": "https://codepen.io/awoodall/full/XbpMbo",
+    "text_norm": "Email Subject Test",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a672f4bc-89bc-4823-b747-4b5120ce34dd",
+    "href_raw": "https://hemingwayapp.com/",
+    "href_norm": "https://hemingwayapp.com",
+    "text_norm": "Hemingway Editor",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6c9f19a9-5339-4a52-ba28-7a8e28941fb4",
+    "href_raw": "https://instatext.io/editor/",
+    "href_norm": "https://instatext.io/editor",
+    "text_norm": "InstaText | Write like a native speaker",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b37eb01c-5616-414e-a38d-de4a93998d17",
+    "href_raw": "https://languagetool.org/",
+    "href_norm": "https://languagetool.org",
+    "text_norm": "LanguageTool - Online Grammar, Style & Spell Checker",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6eecfa84-8687-4d8a-a3e3-fbbbf1b87dde",
+    "href_raw": "https://www.random.org/",
+    "href_norm": "https://www.random.org",
+    "text_norm": "Random",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e7fed9ba-d657-4fff-ad97-7be19534abf5",
+    "href_raw": "https://www.randomlists.com/",
+    "href_norm": "https://www.randomlists.com",
+    "text_norm": "Random Lists",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "dda9b22a-5e6a-44bd-af79-4114b31539d5",
+    "href_raw": "https://www.rhymezone.com/",
+    "href_norm": "https://www.rhymezone.com",
+    "text_norm": "RhymeZone",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "48933cf4-f00e-4a9d-b334-4ef2d385839e",
+    "href_raw": "https://www.sudowrite.com/app",
+    "href_norm": "https://www.sudowrite.com/app",
+    "text_norm": "Sudowrite",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "61c78455-0149-4719-8e50-ce36539c3279",
+    "href_raw": "https://www.thesaurus.com/",
+    "href_norm": "https://www.thesaurus.com",
+    "text_norm": "Thesaurus",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "215f15de-b89f-4f0b-9865-43d975fe25fd",
+    "href_raw": "https://analytics.amplitude.com/morressier/workspace",
+    "href_norm": "https://analytics.amplitude.com/morressier/workspace",
+    "text_norm": "Amplitude",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8e851a1d-3da8-46b4-8627-6230bf4ccee0",
+    "href_raw": "https://analytics.google.com/analytics/web/#/my-reports/EGq30SmVSv-LL_oe-C8-Ww/a100748317w176012425p174935628/_r.tabId=729",
+    "href_norm": "https://analytics.google.com/analytics/web",
+    "text_norm": "Analytics",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8a135bb9-bc28-4bd2-860a-72d0d03da7c9",
+    "href_raw": "https://apify.com/",
+    "href_norm": "https://apify.com",
+    "text_norm": "Apify: Web Scraping and Data Extraction platform",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "bdad399f-7b4a-4437-88a5-4f2903733bbd",
+    "href_raw": "https://datawrapper.de/",
+    "href_norm": "https://datawrapper.de",
+    "text_norm": "Datawrapper",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "cf1a112f-8106-4419-9e5c-219aeb17d98a",
+    "href_raw": "http://dimplejs.org/",
+    "href_norm": "http://dimplejs.org",
+    "text_norm": "Dimple JS",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0ab94afb-cbb6-420d-a5b6-79f22f3852aa",
+    "href_raw": "https://gephi.github.io/",
+    "href_norm": "https://gephi.github.io",
+    "text_norm": "Gephi | Open Graph Viz Platform",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d47adbfc-bfac-480f-be88-903c53889f92",
+    "href_raw": "https://www.jsoneditoronline.org/",
+    "href_norm": "https://www.jsoneditoronline.org",
+    "text_norm": "JSON Editor",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e3bd3ebf-e69f-46bc-a9ae-a9bf8d166408",
+    "href_raw": "https://jsonformatter.curiousconcept.com/",
+    "href_norm": "https://jsonformatter.curiousconcept.com",
+    "text_norm": "JSON Formatter & Validator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8822bc55-b68f-4221-a29f-92270d42cfa6",
+    "href_raw": "http://www.cleancss.com/json-minify/",
+    "href_norm": "http://www.cleancss.com/json-minify",
+    "text_norm": "JSON Minify and Compress",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3aa603e1-4791-4248-88bd-986090db419f",
+    "href_raw": "http://konklone.io/json/",
+    "href_norm": "http://konklone.io/json",
+    "text_norm": "JSON to CSV",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8be69417-984c-4fd6-afc5-1566eb51f282",
+    "href_raw": "http://guidetodatamining.com/ngramAnalyzer/",
+    "href_norm": "http://guidetodatamining.com/ngramAnalyzer",
+    "text_norm": "Ngram Analyzer",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "68e1920a-c95b-4a4a-b407-3efa42e553dc",
+    "href_raw": "https://chart-studio.plotly.com/create/#/",
+    "href_norm": "https://chart-studio.plotly.com/create",
+    "text_norm": "Online Graph Maker · Plotly Chart Studio",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1739c28a-fc71-4442-b028-eb53de92d08b",
+    "href_raw": "http://app.rawgraphs.io/",
+    "href_norm": "http://app.rawgraphs.io",
+    "text_norm": "RAW Graphs",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "074bb4df-b481-4ff8-91b0-99f12eb5b751",
+    "href_raw": "http://sankeymatic.com/build/",
+    "href_norm": "http://sankeymatic.com/build",
+    "text_norm": "SankeyMATIC",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "93142a11-7a29-47d3-a910-061d524faad0",
+    "href_raw": "https://sorta.app/",
+    "href_norm": "https://sorta.app",
+    "text_norm": "Sorta - Rank stuff",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b257304b-bccb-49d1-a8ce-99b19b089ffe",
+    "href_raw": "https://tableconvert.com/",
+    "href_norm": "https://tableconvert.com",
+    "text_norm": "Table Convert Online",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "adbca405-ad45-4a98-ac5c-1296dcdb3434",
+    "href_raw": "https://www.online-utility.org/text/analyzer.jsp",
+    "href_norm": "https://www.online-utility.org/text/analyzer.jsp",
+    "text_norm": "Text Analyzer",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e50ee308-6229-4e98-8d8f-3f592951246b",
+    "href_raw": "https://datavizcatalogue.com/index.html",
+    "href_norm": "https://datavizcatalogue.com/index.html",
+    "text_norm": "The Data Visualisation Catalogue",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "7a77a461-f42e-4f45-9027-77eaed00af0b",
+    "href_raw": "https://theonegenerator.com/",
+    "href_norm": "https://theonegenerator.com",
+    "text_norm": "The One Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0f5bbd96-5bdb-4afb-8d83-a40fef68a463",
+    "href_raw": "https://developers.cloudflare.com/cloudflare-one/faq/cloudflare-tunnels-faq/#how-can-i-troubleshoot-a-tunnel-that-was-configured-from-the-zero-trust-dashboard",
+    "href_norm": "https://developers.cloudflare.com/cloudflare-one/faq/cloudflare-tunnels-faq",
+    "text_norm": "Tunnels\n    · Cloudflare Zero Trust docs",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "02c5d849-826c-4cbd-8fcb-7be8f2c0c45e",
+    "href_raw": "https://admin.typeform.com/accounts/01DRE51W7S5HPMAT91QZ232MQA/workspaces/QcFxs2",
+    "href_norm": "https://admin.typeform.com/accounts/01DRE51W7S5HPMAT91QZ232MQA/workspaces/QcFxs2",
+    "text_norm": "Typeform",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "492320f1-201b-47e3-bc32-3f4193b741d1",
+    "href_raw": "https://www.unicode.org/reports/tr35/tr35-31/tr35-dates.html#Date_Format_Paerns",
+    "href_norm": "https://www.unicode.org/reports/tr35/tr35-31/tr35-dates.html",
+    "text_norm": "Unicode Date formats »\n    UTS5",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "14c4ef16-c626-4094-bfc4-a0ce2a69010d",
+    "href_raw": "http://www.worldometers.info/",
+    "href_norm": "http://www.worldometers.info",
+    "text_norm": "Worldometers - real time world statistics",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "50dfa840-7266-4eda-a664-bd5ac5c8456a",
+    "href_raw": "https://component.gallery/",
+    "href_norm": "https://component.gallery",
+    "text_norm": "The Component Gallery - UX Design Patterns",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d52999d2-59a4-4c27-a9b1-827212594f56",
+    "href_raw": "https://automator.design/",
+    "href_norm": "https://automator.design",
+    "text_norm": "Automator for Figma",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "60dbd86f-c2c1-480e-902c-036d3844f30e",
+    "href_raw": "https://balsamiq.cloud/s9zzjxi/pvndnpd/r200F",
+    "href_norm": "https://balsamiq.cloud/s9zzjxi/pvndnpd/r200F",
+    "text_norm": "Balsamiq",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "794497a0-6ec6-4fe3-91a6-3c11a003b352",
+    "href_raw": "https://boords.com/",
+    "href_norm": "https://boords.com",
+    "text_norm": "Boords | Storyboard Creator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "dc8015fe-859d-4de6-9a11-21cdbfa97f4c",
+    "href_raw": "https://www.joshwcomeau.com/shadow-palette/",
+    "href_norm": "https://www.joshwcomeau.com/shadow-palette",
+    "text_norm": "CSS Shadow Palette Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "da222210-eb5e-4b38-a769-c3e615f38329",
+    "href_raw": "http://framerjs.com/",
+    "href_norm": "http://framerjs.com",
+    "text_norm": "Framer - Prototype Interaction and Animation",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8728243f-e574-45c3-8419-671e92a3e4a7",
+    "href_raw": "https://www.thinkmoto.de/gestures",
+    "href_norm": "https://www.thinkmoto.de/gestures",
+    "text_norm": "IxD Gesture Icons",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "acd18cdd-a6f8-49ef-b7e4-91d0665731db",
+    "href_raw": "https://dashboard.kardsort.com/",
+    "href_norm": "https://dashboard.kardsort.com",
+    "text_norm": "KardSort",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4bbf57d3-2370-47e2-80e5-b39baa42ec0b",
+    "href_raw": "https://www.modulz.app/",
+    "href_norm": "https://www.modulz.app",
+    "text_norm": "Modulz",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8b89b5fb-0f49-4b36-9c77-6588f3cb92a9",
+    "href_raw": "https://relate.app/",
+    "href_norm": "https://relate.app",
+    "text_norm": "Relate - The open platform to create for the web",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "52826b9e-4e99-4210-84a3-e68497491c62",
+    "href_raw": "https://screensiz.es/",
+    "href_norm": "https://screensiz.es",
+    "text_norm": "Screen Sizes | Viewport Sizes and Pixel Densities for Popular Devices",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "43fee859-71ca-4910-9cbb-0deab8fcd0a4",
+    "href_raw": "https://sketch.systems/",
+    "href_norm": "https://sketch.systems",
+    "text_norm": "Sketch.systems",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "22982b38-c11a-4a84-a449-669d29a67ec4",
+    "href_raw": "https://ui-patterns.com/",
+    "href_norm": "https://ui-patterns.com",
+    "text_norm": "UI-Patterns.com",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "573e1be4-a34c-4986-8068-1644477044bb",
+    "href_raw": "https://www.useronboard.com/user-onboarding-teardowns/",
+    "href_norm": "https://www.useronboard.com/user-onboarding-teardowns",
+    "text_norm": "User Onboarding | A frequently-updated compendium of\n    web app first-run experiences",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b2053168-b018-4ad3-ae2e-95e84f4155b1",
+    "href_raw": "https://www.mit.ed~jtidwell/interaction_patterns.html",
+    "href_norm": "https://www.mit.ed~jtidwell/interaction_patterns.html",
+    "text_norm": "Common Ground",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "fb30841c-50fb-4cf9-9c74-c2286d51920a",
+    "href_raw": "https://spec.fm/specifics/8-pt-grid",
+    "href_norm": "https://spec.fm/specifics/8-pt-grid",
+    "text_norm": "8-Point Grid",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8af5b6e5-20b3-4df8-b6dc-9d893a46235a",
+    "href_raw": "http://cssfontstack.com/",
+    "href_norm": "http://cssfontstack.com",
+    "text_norm": "A CSS Font Stack",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "673b8066-ad95-4dbf-a915-54cf662ee995",
+    "href_raw": "https://ui.aceternity.com/",
+    "href_norm": "https://ui.aceternity.com",
+    "text_norm": "Aceternity UI Library",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4c9c0f36-71b6-41af-9296-ab83faf2b6f6",
+    "href_raw": "https://browserframe.com/",
+    "href_norm": "https://browserframe.com",
+    "text_norm": "Browser Frame for Screenshots",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "96338fe2-9b9b-4cab-a3b8-5ff70912dd81",
+    "href_raw": "https://color.adobe.com/create/color-contrast-analyzer",
+    "href_norm": "https://color.adobe.com/create/color-contrast-analyzer",
+    "text_norm": "Color contrast checker analyzer tool | Adobe Color",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "728263d4-64d1-405a-9405-6f4dbc031b50",
+    "href_raw": "https://colordesigner.io/",
+    "href_norm": "https://colordesigner.io",
+    "text_norm": "Color Palette Generator | ColorDesigner",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e128b146-d77e-48b2-953b-bd078c8a8c33",
+    "href_raw": "https://mycolor.space/",
+    "href_norm": "https://mycolor.space",
+    "text_norm": "Color Space - Palette and Gradient Tool",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d4e5657b-30cf-44c5-82de-e410621ba50d",
+    "href_raw": "https://material.io/resources/color/#!/?view.left=0&view.right=0",
+    "href_norm": "https://material.io/resources/color",
+    "text_norm": "Color Tool - Material Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "54f5130d-d143-4b19-905b-302da661ca8c",
+    "href_raw": "https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp",
+    "href_norm": "https://contrast-grid.eightshapes.com?version=1.1.0&foreground-colors=#FFFFFF, White\r\n#F2F2F2\r\n#DDDDDD\r\n#CCCCCC\r\n#888888\r\n#404040, Charcoal\r\n#000000, Black\r\n#2F78C5, Effective on Extremes\r\n#0F60B6, Effective on Lights\r\n#398EEA, Ineffective\r\n&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp",
+    "text_norm": "Colour\n    Contrast Tool - Grid | EightShapes",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d7ef5a9d-8c68-4bf8-aa51-9e05781b0c90",
+    "href_raw": "https://convertingcolors.com/",
+    "href_norm": "https://convertingcolors.com",
+    "text_norm": "Converting Colors - Conversion, Gradients, Harmonies and More",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "34479388-2fb9-4ea8-96c0-08112885ac12",
+    "href_raw": "http://www.css-color-extractor.com/",
+    "href_norm": "http://www.css-color-extractor.com",
+    "text_norm": "CSS Color Extractor",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "ec319cbc-30a4-4f65-b135-7e62f3fab724",
+    "href_raw": "https://learnui.design/tools/data-color-picker.html",
+    "href_norm": "https://learnui.design/tools/data-color-picker.html",
+    "text_norm": "Data Viz Color Palette Generator (for Charts &\n    Dashboards)",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "039c3324-706a-41ae-a486-415a4be503a3",
+    "href_raw": "https://fontawesome.com/search",
+    "href_norm": "https://fontawesome.com/search",
+    "text_norm": "FA",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "84d3c9ca-e026-4994-b5ca-d3bb869ca693",
+    "href_raw": "https://fontawesome.com/cheatsheet/pro",
+    "href_norm": "https://fontawesome.com/cheatsheet/pro",
+    "text_norm": "Fontawesome Cheatsheet",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9b90d3cd-a51b-4f12-8aa0-87ec555a900a",
+    "href_raw": "https://grtcalculator.com/",
+    "href_norm": "https://grtcalculator.com",
+    "text_norm": "Golden Ratio Typography Calculator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "2adb90ec-fd32-45a0-9cfa-6b5d57aee647",
+    "href_raw": "https://fonts.google.com/",
+    "href_norm": "https://fonts.google.com",
+    "text_norm": "Google Fonts",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "85b91584-b63f-481a-b8f0-b81adb56302e",
+    "href_raw": "https://colordesigner.io/gradient-generator",
+    "href_norm": "https://colordesigner.io/gradient-generator",
+    "text_norm": "Gradient Generator | ColorDesigner",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "abd4b473-7cb4-416f-bf48-7e8942429699",
+    "href_raw": "https://www.gridlover.net/try",
+    "href_norm": "https://www.gridlover.net/try",
+    "text_norm": "Grid lover for Type Scales",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "417c67f8-1a82-4bd2-8d8d-e6956655881e",
+    "href_raw": "https://materialpalettes.com/",
+    "href_norm": "https://materialpalettes.com",
+    "text_norm": "Material Color Palette Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9c76e136-3154-4161-9b87-fb4aadb04d6c",
+    "href_raw": "http://www.modularscale.com/",
+    "href_norm": "http://www.modularscale.com",
+    "text_norm": "Modular Type Scale",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "562d78ce-e4b4-491d-b953-31d49dc8f380",
+    "href_raw": "https://hihayk.github.io/modulator/",
+    "href_norm": "https://hihayk.github.io/modulator",
+    "text_norm": "Modulator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1c1244e7-e77a-4df9-839c-afa8519cc364",
+    "href_raw": "https://ui.shadcn.com/",
+    "href_norm": "https://ui.shadcn.com",
+    "text_norm": "SHADCN/UI Library",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9fc590fa-e9c1-461c-89a6-eb2005ad388f",
+    "href_raw": "https://noeldelgado.github.io/shadowlord/#0011ff",
+    "href_norm": "https://noeldelgado.github.io/shadowlord",
+    "text_norm": "Shadowlord - Tints and Shades Generator Tool",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "adba0f56-07fa-464b-a57b-18f4716d17f1",
+    "href_raw": "https://hypejunction.github.io/color-wizard/",
+    "href_norm": "https://hypejunction.github.io/color-wizard",
+    "text_norm": "Systematic Color Palette Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f2093652-b129-4a4f-b8fe-9531a81c2ab6",
+    "href_raw": "https://material.io/blog/science-of-color-design",
+    "href_norm": "https://material.io/blog/science-of-color-design",
+    "text_norm": "The Science of Color & Design - Material Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "39837082-da86-4631-b146-3dd4211c6d57",
+    "href_raw": "https://www.tints.dev/brand/2522FC",
+    "href_norm": "https://www.tints.dev/brand/2522FC",
+    "text_norm": "tts.dev",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4a98b0d4-7900-435f-b8c6-6029af0748b5",
+    "href_raw": "http://type-scale.c/",
+    "href_norm": "http://type-scale.c",
+    "text_norm": "Type Scale",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "091f4173-221f-4e05-ae04-883d0a53235b",
+    "href_raw": "https://www.goabstract.com/",
+    "href_norm": "https://www.goabstract.com",
+    "text_norm": "Abstract",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "86b8d05c-22ef-4fd2-bdb7-b0589b3f27f3",
+    "href_raw": "https://agile.18f.gov/",
+    "href_norm": "https://agile.18f.gov",
+    "text_norm": "Agile Principles and 18F Practices",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9777a6ce-a576-4cd7-94bc-e52868e7f8fd",
+    "href_raw": "https://www.animaapp.com/",
+    "href_norm": "https://www.animaapp.com",
+    "text_norm": "Anima",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a2b53d9c-7fc5-4505-bf95-64d3a2ccef05",
+    "href_raw": "https://www.chromatic.com/",
+    "href_norm": "https://www.chromatic.com",
+    "text_norm": "Chromatic: Storybook deployment, review, and test",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "82b1b7f4-b5a9-4229-ad70-953e4213503d",
+    "href_raw": "https://fractal.build/",
+    "href_norm": "https://fractal.build",
+    "text_norm": "Fractal",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "c6a967b7-516b-4ae7-845e-9f66fd9f1b48",
+    "href_raw": "https://gamestorming.com/",
+    "href_norm": "https://gamestorming.com",
+    "text_norm": "Gamestorming | Co-creation tools",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a538476f-4bd8-4165-b284-4acfb20472df",
+    "href_raw": "https://www.mockaroo.com/datasets/143643",
+    "href_norm": "https://www.mockaroo.com/datasets/143643",
+    "text_norm": "Mockaroo",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f1a3b179-040c-4191-a7c6-cca3d9188365",
+    "href_raw": "https://patternlab.io/",
+    "href_norm": "https://patternlab.io",
+    "text_norm": "Pattern Lab",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0827f261-e9eb-4793-bf9b-23153cbf6c57",
+    "href_raw": "https://trello.com/b/DhxG8ozo/professional-development-framework-v11",
+    "href_norm": "https://trello.com/b/DhxG8ozo/professional-development-framework-v11",
+    "text_norm": "Professional Development Framework (v1.1)\n    | Trello",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "265fced5-2a21-4e83-9e87-be0674e5e581",
+    "href_raw": "https://progressionapp.com/",
+    "href_norm": "https://progressionapp.com",
+    "text_norm": "Progression: Helping teams to grow, together",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "71fb086c-a441-485d-a377-b5a86e1e0c3c",
+    "href_raw": "https://zeplin.io/",
+    "href_norm": "https://zeplin.io",
+    "text_norm": "Zeplin",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "877547f6-8cb2-4fb8-b089-aeb0ac569435",
+    "href_raw": "https://zeroheight.com/",
+    "href_norm": "https://zeroheight.com",
+    "text_norm": "ZeHeight",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "09898c9d-7bf2-4065-9212-cb0ba54da350",
+    "href_raw": "https://www.eleken.co/blog-posts/how-design-operations-work-at-eleken",
+    "href_norm": "https://www.eleken.co/blog-posts/how-design-operations-work-at-eleken",
+    "text_norm": "DesignOps at Elen: How Our Business\n    Operates",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "cc85458e-f39a-4935-bd1c-7b3ee7c9650d",
+    "href_raw": "https://www.frog.co/designmind/designops101",
+    "href_norm": "https://www.frog.co/designmind/designops101",
+    "text_norm": "DesignOps 101 | What is Design Operations? | frog, part of\n    Capgemini Invent",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0b0cd1a6-b097-467e-81b3-6a8544f3c304",
+    "href_raw": "https://designlab.com/blog/grid-systems-history-ux-ui-layout",
+    "href_norm": "https://designlab.com/blog/grid-systems-history-ux-ui-layout",
+    "text_norm": "The Grid System:\n    Importance of a Solid UX/UI Layout | Designlab",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0cad98fa-1460-41e5-a604-f912103fbc33",
+    "href_raw": "https://coda.io/@designops-guide-and-glossary/dogg/design-ops-101-8",
+    "href_norm": "https://coda.io/@designops-guide-and-glossary/dogg/design-ops-101-8",
+    "text_norm": "Design Ops 101 · DesignOps Guide &\n    Glossary (DOGG)",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "c5b80c93-7543-4fa8-afa0-001a05eb12b0",
+    "href_raw": "https://uxplanet.org/everything-you-should-know-about-8-point-grid-system-in-ux-design-b69cb945b18d",
+    "href_norm": "https://uxplanet.org/everything-you-should-know-about-8-point-grid-system-in-ux-design-b69cb945b18d",
+    "text_norm": "Everything\n    you should know about 8 point grid system in UX design | by Ashphiar Raihan Rumman | UX Planet",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "ec835406-0a65-47fd-a770-486eb55ca97a",
+    "href_raw": "https://www.designops.lol/resources/",
+    "href_norm": "https://www.designops.lol/resources",
+    "text_norm": "Resources - DesignOps LOL",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a0f96bce-fd58-4436-a465-150eb50ecc94",
+    "href_raw": "https://www.uxpin.com/studio/blog/designops-rescources/",
+    "href_norm": "https://www.uxpin.com/studio/blog/designops-rescources",
+    "text_norm": "A Go-To Article for the Best DesignOps Resources",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "7d7eb599-8db2-47d8-b8d2-d6790ca9e2ae",
+    "href_raw": "https://medium.com/@vicdesign/a-mini-designops-resource-list-8a95c7e3bb15",
+    "href_norm": "https://medium.com/@vicdesign/a-mini-designops-resource-list-8a95c7e3bb15",
+    "text_norm": "A mini DesignOpresource list. Unlock\n    the power of DesignOps with this… | by Victor | Medium",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b948fe6a-dfbc-47f3-ab73-fc1a0df5ff42",
+    "href_raw": "https://www.nngroup.c/articles/design-ops-study-guide/",
+    "href_norm": "https://www.nngroup.c/articles/design-ops-study-guide",
+    "text_norm": "DesignOps: Study Guide - NN/g",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "ae56ec57-c324-4d4a-a9f0-4d615dd9e296",
+    "href_raw": "https://52weeksofux.com/",
+    "href_norm": "https://52weeksofux.com",
+    "text_norm": "52 Weeks of UX",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "c5934d98-1843-4eba-ad45-351c6071f9b9",
+    "href_raw": "https://accessible-colors.com/",
+    "href_norm": "https://accessible-colors.com",
+    "text_norm": "Accessible Colors | WCAG 2.0 AA and AAA color contrast checker",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "c2c2f284-0bbf-46c1-90fd-0c731140dff3",
+    "href_raw": "http://behaviormodel.org/",
+    "href_norm": "http://behaviormodel.org",
+    "text_norm": "BJ Fogg Behavior Model",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4ea02086-72d3-40d6-8e0a-81cf975ab3e3",
+    "href_raw": "https://coolors.co/contrast-checker/112a46-acc8e5",
+    "href_norm": "https://coolors.co/contrast-checker/112a46-acc8e5",
+    "text_norm": "Color Contrast Checker - Coolors",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e5b91357-e9e0-474b-a787-983137a167e5",
+    "href_raw": "http://lpetrich.org/Science/ColorBlindnessSim/ColorBlindnessSim.html",
+    "href_norm": "http://lpetrich.org/Science/ColorBlindnessSim/ColorBlindnessSim.html",
+    "text_norm": "Color-Blindness Simulators",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "219bf5ba-49d6-4cbf-8afa-1bf57689b559",
+    "href_raw": "https://colourcontrast.cc/",
+    "href_norm": "https://colourcontrast.cc",
+    "text_norm": "Colour Contrast Checker",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "68a52ac5-8b44-49ee-8505-d97ec52ed57c",
+    "href_raw": "https://design-can.com/",
+    "href_norm": "https://design-can.com",
+    "text_norm": "Design Can",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a16ad5ed-c65b-4deb-b630-9a87513bda83",
+    "href_raw": "https://digitalpsychology.io/",
+    "href_norm": "https://digitalpsychology.io",
+    "text_norm": "Digital Psychology",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1968e325-b24c-4dd6-af27-a0e767be55e4",
+    "href_raw": "https://empathyprompts.net/",
+    "href_norm": "https://empathyprompts.net",
+    "text_norm": "Empathy Prompts",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1aac0f78-a009-46ae-8498-3205050a54dd",
+    "href_raw": "https://en.wikipedia.org/wiki/Fitts%27s_law",
+    "href_norm": "https://en.wikipedia.org/wiki/Fitts%27s_law",
+    "text_norm": "Fitts's law - Wikipedia",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "86aacb64-888b-400b-b06a-2a56c56181dd",
+    "href_raw": "https://lawsofux.com/",
+    "href_norm": "https://lawsofux.com",
+    "text_norm": "Laws of UX",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a5558ebb-6248-4d62-9744-92b1b5cb7393",
+    "href_raw": "https://pair.withgoogle.com/",
+    "href_norm": "https://pair.withgoogle.com",
+    "text_norm": "People + AI Guidebook | Google",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "bcafdb41-ec79-491c-b801-0704d5a589e1",
+    "href_raw": "https://principles.design/examples/",
+    "href_norm": "https://principles.design/examples",
+    "text_norm": "principles.design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3e419315-0283-47e7-a387-a73d737ce81f",
+    "href_raw": "https://www.w3.org/WAI/WCAG21/quickref/",
+    "href_norm": "https://www.w3.org/WAI/WCAG21/quickref",
+    "text_norm": "WCAG Accessibility Guidelines",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d814f54c-4030-4fb7-80a8-05e1d0d590e6",
+    "href_raw": "https://www.w3.org/TR/WCAG21/",
+    "href_norm": "https://www.w3.org/TR/WCAG21",
+    "text_norm": "Web Content Accessibility Guidelines",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "88d4cf97-029b-4d4a-9f0c-012a2fa9a19e",
+    "href_raw": "https://www.w3.org/WAI/ARIA/apg/",
+    "href_norm": "https://www.w3.org/WAI/ARIA/apg",
+    "text_norm": "ARIA Authoring Practices Guide | APG | WAI | W3C",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6593501f-8cf6-48e3-a643-77e9f4846502",
+    "href_raw": "https://accessibleweb.com/",
+    "href_norm": "https://accessibleweb.com",
+    "text_norm": "Accessible Web | WCAG & ADA",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4fe42304-b067-47a2-b632-8d1f964ce61c",
+    "href_raw": "https://www.gamified.uk/user-types/#player",
+    "href_norm": "https://www.gamified.uk/user-types",
+    "text_norm": "A Player Type Framework For Gamification Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "de4aedc0-09aa-45c1-b91d-24ac5ee0fa68",
+    "href_raw": "https://goodux.appcues.com/",
+    "href_norm": "https://goodux.appcues.com",
+    "text_norm": "GoodUX",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b9867ce3-bfff-4219-8803-ce81550c2711",
+    "href_raw": "https://www.gamified.uk/2014/09/19/language-gamification-short-glossary/",
+    "href_norm": "https://www.gamified.uk/2014/09/19/language-gamification-short-glossary",
+    "text_norm": "The Language Of Gamification",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "496cc100-328f-4854-a611-a3a8e54baa1c",
+    "href_raw": "https://www.luma-institute.com/about-luma/luma-system-explore-methods/",
+    "href_norm": "https://www.luma-institute.com/about-luma/luma-system-explore-methods",
+    "text_norm": "Human-centered design framework | LUMA\n    System",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b6a29c2e-8484-487b-82f0-41bfeb5676ec",
+    "href_raw": "https://digital.gov/guides/accessibility-for-teams/",
+    "href_norm": "https://digital.gov/guides/accessibility-for-teams",
+    "text_norm": "Accessibility r teams - Digital.gov",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "75fc2bd3-6e45-4cf0-a5f4-8f72bed28ab4",
+    "href_raw": "https:/reativecommons.org/chooser/",
+    "href_norm": null,
+    "text_norm": "Chooser - Creative Commons",
+    "valid_url": false,
+    "invalid_reason": "Missing scheme or domain: https:/reativecommons.org/chooser/"
+  },
+  {
+    "id": "db7add1b-b59c-4713-b023-ec571f27cd7f",
+    "href_raw": "https://www.gamified.uk/user-types/",
+    "href_norm": "https://www.gamified.uk/user-types",
+    "text_norm": "A Player Type Framework For Gamification Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4fcbfaf4-a54d-4cac-a790-ca5cfce37df9",
+    "href_raw": "https://helio.app/",
+    "href_norm": "https://helio.app",
+    "text_norm": "Helio - Test prototypes, screens, concepts, and design ideas. Learn from real people in\n    minutes",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "37c74ace-d3c6-4535-80fc-200dab11d61d",
+    "href_raw": "https://www.optimalworkshop.com/treejack",
+    "href_norm": "https://www.optimalworkshop.com/treejack",
+    "text_norm": "Optimal Workshop | Information architecture validation software",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6767dcf9-1881-4b24-9966-06a82c0eec1e",
+    "href_raw": "https://infodesign.com.au/usabilityresources.html",
+    "href_norm": "https://infodesign.com.au/usabilityresources.html",
+    "text_norm": "Usability resources",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8e61df66-50f9-4ac0-8f3a-a275ef137273",
+    "href_raw": "https://www.uxtweak.com/",
+    "href_norm": "https://www.uxtweak.com",
+    "text_norm": "UX Tweak",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "fc091772-5c2e-44c7-baab-74161e913049",
+    "href_raw": "https://www.wordclouds.com/",
+    "href_norm": "https://www.wordclouds.com",
+    "text_norm": "Word Cloud",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "c943c862-6844-43aa-9e42-fb72d0800854",
+    "href_raw": "https://answerthepublic.com/",
+    "href_norm": "https://answerthepublic.com",
+    "text_norm": "AnswerThePublic | Seah listening tool for market, customer & content research",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "2765ff4c-5407-4be9-bc54-7615c2e5f712",
+    "href_raw": "https:/aserow.io/",
+    "href_norm": null,
+    "text_norm": "BaseRow | Free AirTable Alt",
+    "valid_url": false,
+    "invalid_reason": "Missing scheme or domain: https:/aserow.io/"
+  },
+  {
+    "id": "b730d740-4e02-4172-a7d0-6f1bfaadffd9",
+    "href_raw": "http://colormind.io/",
+    "href_norm": "http://colormind.io",
+    "text_norm": "Colormind - the AI powered color palette generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6be04f6d-9d9b-4f7e-873f-207556ce979b",
+    "href_raw": "https://loading.io/",
+    "href_norm": "https://loading.io",
+    "text_norm": "loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "99b20c4c-20f0-4f4d-aee4-50570053e6e5",
+    "href_raw": "https://mermaid.js.org/",
+    "href_norm": "https://mermaid.js.org",
+    "text_norm": "Mermaid Diagramming",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "01df424f-f954-4709-9196-65f0d649602c",
+    "href_raw": "https://www.omnicalculator.com/other/pixels-to-print-size",
+    "href_norm": "https://www.omnicalculator.com/other/pixels-to-print-size",
+    "text_norm": "Pixels to Print SizCalculator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4e590c33-34f1-40ce-86a5-1accb1aa1552",
+    "href_raw": "https://w.computerhope.com/jargon/w/w3c-color-names.htm",
+    "href_norm": "https://w.computerhope.com/jargon/w/w3c-color-names.htm",
+    "text_norm": "W3C Color Names?",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a4be4180-327c-424d-91fc-918f0ff55930",
+    "href_raw": "https://huggingface.co/",
+    "href_norm": "https://huggingface.co",
+    "text_norm": "Hugging Face - The AI community building the future.",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3a54b926-509f-4c86-a783-cb9cf3394d73",
+    "href_raw": "https://letsenhance.io/boost",
+    "href_norm": "https://letsenhance.io/boost",
+    "text_norm": "My images | LetsEnhance.io - Image enhancement powered by AI",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "7cb73af4-bbc8-4887-8cb8-e1fba7ee6c3e",
+    "href_raw": "https://theresanaiforthat.com/",
+    "href_norm": "https://theresanaiforthat.com",
+    "text_norm": "There's An AI For That (TAAFT) - AI Aregator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e7e4da01-f13a-4476-8fcc-4bcdb646cbd0",
+    "href_raw": "https://wwweavely.ai/",
+    "href_norm": "https://wwweavely.ai",
+    "text_norm": "Weavely | Design & Publish Forms in Figma",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "75765e9f-f386-462a-ace1-e9ca5e3806d1",
+    "href_raw": "http://adaptive-images.com/",
+    "href_norm": "http://adaptive-images.com",
+    "text_norm": "Adaptive Images in HTML",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1fecf9f0-f3bd-4ea3-a786-5b6ef72d8ffe",
+    "href_raw": "http://basehold.it/",
+    "href_norm": "http://basehold.it",
+    "text_norm": "Basehold",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b70ae6d9-9bf1-4c08-91d2-6a1c76572ed2",
+    "href_raw": "http://designmodo.com/startup/",
+    "href_norm": "http://designmodo.com/startup",
+    "text_norm": "Startup Design Framework | Designmodo",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "07b287c2-e4f4-49ef-b028-9c807a28e607",
+    "href_raw": "http://keyes.ie/things/baseliner/",
+    "href_norm": "http://keyes.ie/things/baseliner",
+    "text_norm": "Baseliner",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "5a3a523d-641d-4f1b-9990-c40d8647b6af",
+    "href_raw": "http://nativeformelements.com/",
+    "href_norm": "http://nativeformelements.com",
+    "text_norm": "Native Form Elements",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d56afab9-772c-4cb8-b293-d8d5037a888c",
+    "href_raw": "http://palette.site/",
+    "href_norm": "http://palette.site",
+    "text_norm": "Site Palette - Get the essential colours from a website",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "33bc31e9-7e31-47b8-9650-025dcf061826",
+    "href_raw": "http://tedgoas.github.io/Cerberus/",
+    "href_norm": "http://tedgoas.github.io/Cerberus",
+    "text_norm": "Cerberus Email Patterns",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "287049ea-6117-4efb-839b-215746f0f153",
+    "href_raw": "http://who.is/",
+    "href_norm": "http://who.is",
+    "text_norm": "Who.is",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "30d2571d-2d76-4438-8ca7-93fe21f480cc",
+    "href_raw": "https://blisk.io/",
+    "href_norm": "https://blisk.io",
+    "text_norm": "Blisk | A browser for web developers",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "14902737-959d-4891-afa1-2752b9d79165",
+    "href_raw": "https://caniuse.com/",
+    "href_norm": "https://caniuse.com",
+    "text_norm": "Can I use... Support tables for HTML5, CSS3, etc",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "614875d3-28c8-450f-99cf-a84fed22f4a4",
+    "href_raw": "https://clickclickclick.click/",
+    "href_norm": "https://clickclickclick.click",
+    "text_norm": "Click 👈 👆 ↗️ 〰️",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "bacb712c-f977-4ce8-ac30-5e4351c3fa78",
+    "href_raw": "https://coolify.io/",
+    "href_norm": "https://coolify.io",
+    "text_norm": "Coolify",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3e562a23-c061-4f9c-9236-d97b330e52ef",
+    "href_raw": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "href_norm": "https://css-tricks.com/snippets/css/a-guide-to-flexbox",
+    "text_norm": "A Complete Guide To Flexbox | CSS-Tricks",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "302f48ae-2384-44ed-b870-782fa1c4a030",
+    "href_raw": "https://cssgrid-generator.netlify.app/",
+    "href_norm": "https://cssgrid-generator.netlify.app",
+    "text_norm": "CSS Grid Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e6d47c42-cbd1-4b15-b66b-a99688ab8d84",
+    "href_raw": "https://cssstats.com/",
+    "href_norm": "https://cssstats.com",
+    "text_norm": "CSS Stats",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "54bdf60c-3462-41c6-b3e6-8891be3a361c",
+    "href_raw": "https://dashboard.render.com/",
+    "href_norm": "https://dashboard.render.com",
+    "text_norm": "Render Dashboard",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "041d031e-7b63-4390-a262-1284ac6ceee9",
+    "href_raw": "https://developer.mozilla.org/en-US/",
+    "href_norm": "https://developer.mozilla.org/en-US",
+    "text_norm": "MDN Web Docs",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0dc70e48-0829-4ddd-b5c0-4d595b11b2a6",
+    "href_raw": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "href_norm": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "text_norm": "CSS",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f20fdc6e-9979-4166-a4e0-e6d878ed3ee9",
+    "href_raw": "https://developers.google.com/web/fundamentals/web-app-manifest/",
+    "href_norm": "https://developers.google.com/web/fundamentals/web-app-manifest",
+    "text_norm": "The Web App Manifest",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a268b2ec-25d3-4037-b1ce-0513582b4c47",
+    "href_raw": "https://developers.google.com/web/progressive-web-apps/checklist",
+    "href_norm": "https://developers.google.com/web/progressive-web-apps/checklist",
+    "text_norm": "Progressive Web App Checklist",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f9188ccf-f770-4746-8f1e-e5736067417c",
+    "href_raw": "https://deviceatlas.com/blog/list-of-user-agent-strings",
+    "href_norm": "https://deviceatlas.com/blog/list-of-user-agent-strings",
+    "text_norm": "List of User Agent strings",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "7a77fe39-cf01-4098-81a4-1369da812eaa",
+    "href_raw": "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "href_norm": "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+    "text_norm": "Basic\n    writing and formatting syntax - GitHub Docs",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "fabd7483-fbd0-4ee9-af40-59c38c30352d",
+    "href_raw": "https://editor.swagger.io/",
+    "href_norm": "https://editor.swagger.io",
+    "text_norm": "Swagger | API Editor & Validator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "72d8f0e7-007f-403f-8d89-aee65aed3e93",
+    "href_raw": "https://every-layout.dev/checkout/?ref=producthunt",
+    "href_norm": "https://every-layout.dev/checkout?ref=producthunt",
+    "text_norm": "Every Layout",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4ded6f8f-c8f8-4158-a082-6593510e4c4b",
+    "href_raw": "https://flaviocopes.com/tailwind-cheat-sheet/",
+    "href_norm": "https://flaviocopes.com/tailwind-cheat-sheet",
+    "text_norm": "The Tailwind Cheat Sheet",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d83ca045-6505-44ee-8690-ad82dab651d9",
+    "href_raw": "https://frontmatter.codes/",
+    "href_norm": "https://frontmatter.codes",
+    "text_norm": "Headless CMS right in your code editor | Front Matter",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6849830e-1933-4d23-867f-b56eb66b0f22",
+    "href_raw": "https://github.com/renderghost?tab=repositories",
+    "href_norm": "https://github.com/renderghost?tab=repositories",
+    "text_norm": "GitHub Repositories",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "df17ea2b-53ce-4c17-863c-4a786c8e8162",
+    "href_raw": "https://github.com/renderghost",
+    "href_norm": "https://github.com/renderghost",
+    "text_norm": "GitHub Profile",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "5a4b98dd-4437-4ecc-b3ea-38341f62e3e2",
+    "href_raw": "https://inclusive-components.design/cards/",
+    "href_norm": "https://inclusive-components.design/cards",
+    "text_norm": "Cards",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "582e7280-0db4-4df9-8f3f-7827b6d25bfc",
+    "href_raw": "https://lucide.dev/icons/",
+    "href_norm": "https://lucide.dev/icons",
+    "text_norm": "Lucide",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "fdaf433d-e133-4fa4-a611-9d465d16ab5b",
+    "href_raw": "https://lucide.dev/icons/figma",
+    "href_norm": "https://lucide.dev/icons/figma",
+    "text_norm": "Lucide",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "bfe3322a-bdd9-43f8-ac4d-1e4534f16776",
+    "href_raw": "https://material.io/collections/machine-learning/object-detection-live-camera.html#experience",
+    "href_norm": "https://material.io/collections/machine-learning/object-detection-live-camera.html",
+    "text_norm": "Object\n    Detection: Live Camera - Material Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "74613712-e825-4f7e-a3fc-ea204275c38e",
+    "href_raw": "https://meyerweb.com/eric/tools/dencoder/",
+    "href_norm": "https://meyerweb.com/eric/tools/dencoder",
+    "text_norm": "URL Decoder/Encoder",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "ce26cd7a-2ffb-4e19-942b-d2c49a7433b8",
+    "href_raw": "https://mixmark-io.github.io/turndown/",
+    "href_norm": "https://mixmark-io.github.io/turndown",
+    "text_norm": "Turndown Demo",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "36d82e51-0efa-4520-b8b8-3cd13b521e57",
+    "href_raw": "https://mkfizi.dev/tailbone/",
+    "href_norm": "https://mkfizi.dev/tailbone",
+    "text_norm": "Tailbone - TailwindCSS UX Skeleton Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "20048d08-05e4-489f-8c5a-9039f642ba07",
+    "href_raw": "https://motion.dev/",
+    "href_norm": "https://motion.dev",
+    "text_norm": "Motion - A modern animation library for JavaScript and React",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6bffd192-2196-413e-8ea4-5e536184a32a",
+    "href_raw": "https://readme.so/",
+    "href_norm": "https://readme.so",
+    "text_norm": "readme.so",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d394f4a1-6573-42a3-b2e1-498ac9890710",
+    "href_raw": "https://remix.run/docs/en/main/discussion/introduction#introduction-technical-explanation",
+    "href_norm": "https://remix.run/docs/en/main/discussion/introduction",
+    "text_norm": "Introduction,\n    Technical Explanation | Remix",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b9554c5e-aa3a-4e2c-bebe-a33e1b4e18be",
+    "href_raw": "https://serpapi.com/users/welcome#",
+    "href_norm": "https://serpapi.com/users/welcome",
+    "text_norm": "Welcome - SerpApi",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a445ba0b-aafa-47de-9552-06bfd1a62670",
+    "href_raw": "https://sizzy.co/",
+    "href_norm": "https://sizzy.co",
+    "text_norm": "Sizzy",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "7b29d932-f9fc-4465-992a-67d346e87a94",
+    "href_raw": "https://strapi.io/",
+    "href_norm": "https://strapi.io",
+    "text_norm": "Strapi - Open source Node.js Headless CMS 🚀",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f11554d0-938b-46e7-a2ae-656418b0cd27",
+    "href_raw": "https://tailtools.app/palette-generator",
+    "href_norm": "https://tailtools.app/palette-generator",
+    "text_norm": "Palette Generator | Tailtools: Tailwind CSS Tools",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "27053d6c-d1e3-4fc5-9e85-6f3505e5a7cc",
+    "href_raw": "https://tailwind-generator.com/",
+    "href_norm": "https://tailwind-generator.com",
+    "text_norm": "Tailwind Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "59715b59-f0b7-4dea-b2ad-a137d8b0c5cf",
+    "href_raw": "https://tailwind.ink/",
+    "href_norm": "https://tailwind.ink",
+    "text_norm": "Tailwind Ink | AI color palette generator for Tailwindcss",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "629a15e6-7f46-483d-93dd-bc9ca4d03f49",
+    "href_raw": "https://tailwindcss.504b.cc/",
+    "href_norm": "https://tailwindcss.504b.cc",
+    "text_norm": "Tailwind CSS Cheatsheet",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1dd58944-1466-41fe-a3be-e4a37e6ae7e7",
+    "href_raw": "https://tailwindflex.com/",
+    "href_norm": "https://tailwindflex.com",
+    "text_norm": "TailwindFlex: Components + Samples",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "372a2cb2-ae98-4c2e-a100-56a97e2f7c59",
+    "href_raw": "https://tailwindui.com/components/preview",
+    "href_norm": "https://tailwindui.com/components/preview",
+    "text_norm": "Tailwind CSS Component Playground - Tailwind UI",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "7f7e5850-1805-4335-ab55-615199da7203",
+    "href_raw": "https://uicolors.app/create",
+    "href_norm": "https://uicolors.app/create",
+    "text_norm": "Tailwind CSS Color Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "ad8607d6-d173-4e50-ad14-4726a3e48a31",
+    "href_raw": "https://vercel.com/renderghost-projects",
+    "href_norm": "https://vercel.com/renderghost-projects",
+    "text_norm": "Vercel",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4a2d42c7-3a85-4cc3-9ff2-aec6825b17a4",
+    "href_raw": "https://voideditor.com/",
+    "href_norm": "https://voideditor.com",
+    "text_norm": "Void",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "bcf9b5cc-a6b1-4fed-9221-ac72eb13af70",
+    "href_raw": "https://webflow.com/dashboard?workspace=job-finding",
+    "href_norm": "https://webflow.com/dashboard?workspace=job-finding",
+    "text_norm": "WebFlow",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "eef5a908-4aa6-4122-9476-caca416d3b43",
+    "href_raw": "https://wpdean.com/tuikit/modals.html",
+    "href_norm": "https://wpdean.com/tuikit/modals.html",
+    "text_norm": "Tailwind CSS Modals | Interactive Popup & Dialog Components",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "63791506-d9f2-4947-ad15-516023c39b90",
+    "href_raw": "https://www.composerize.com/",
+    "href_norm": "https://www.composerize.com",
+    "text_norm": "Composerize",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "76a6fa14-95b4-49e7-bc89-f78f71cdc0dd",
+    "href_raw": "https://www.design-tokens.dev/",
+    "href_norm": "https://www.design-tokens.dev",
+    "text_norm": "Design Tokens Generator - For Web Developers and Designers",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4f9327ac-a84e-4ac3-9833-4b680b7e58c5",
+    "href_raw": "https://www.figma.com/plugin-docs/css-variables/#list-of-all-available-color-tokens",
+    "href_norm": "https://www.figma.com/plugin-docs/css-variables",
+    "text_norm": "CSS Variables and Theming\n    | Plugin API",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "425cf93e-0d3d-4d9c-8cd5-40e5297fa998",
+    "href_raw": "https://www.mysitemapgenerator.com/",
+    "href_norm": "https://www.mysitemapgenerator.com",
+    "text_norm": "Sitemap Generator. Create XML Sitemaps Online",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3304aba3-3ccb-4f96-8f7e-bcfe2f6c301e",
+    "href_raw": "https://www.projectwallace.com/",
+    "href_norm": "https://www.projectwallace.com",
+    "text_norm": "CSS Analytics - Project Wallace",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "585f7536-0a70-4200-ae1d-9ac90af959c3",
+    "href_raw": "https://www.rgbtohex.net/",
+    "href_norm": "https://www.rgbtohex.net",
+    "text_norm": "RGB to HEX",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "87b9b98d-4d46-4b28-bdcd-8d53d39f8fa6",
+    "href_raw": "https://www.tailwindgen.com/",
+    "href_norm": "https://www.tailwindgen.com",
+    "text_norm": "Tailwind Grid Generator",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1fe1bb82-b045-429e-bb50-5aa28b8d2013",
+    "href_raw": "https://www.transition.style/#in:circle:hesitate",
+    "href_norm": "https://www.transition.style",
+    "text_norm": "Transition.css - easy transitions with clip-path",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f5575b16-6ff3-4e71-b1d9-8a4a90c4cbe0",
+    "href_raw": "https://backsideofdawn.github.io/csscolorfinder/",
+    "href_norm": "https://backsideofdawn.github.io/csscolorfinder",
+    "text_norm": "Color Finder",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4788462a-4c43-435d-843b-297f8af23b41",
+    "href_raw": "https://worditout.com/word-cloud/create",
+    "href_norm": "https://worditout.com/word-cloud/create",
+    "text_norm": "Create word clouds - WordItOut",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e85078e7-d096-43dc-a09d-88605d0dce36",
+    "href_raw": "https://fffuel.co/",
+    "href_norm": "https://fffuel.co",
+    "text_norm": "Free SVG generators, color tools & web design tools",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "bb410d46-5f0c-4a62-852b-21348b857ff6",
+    "href_raw": "https://hexp3.com/",
+    "href_norm": "https://hexp3.com",
+    "text_norm": "HEX <> P3 | Quickly convert your HEX colors to Dplay P3 color space.",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9897d838-127c-4245-bc32-a35575a67edb",
+    "href_raw": "https://keywordsheeter.com/",
+    "href_norm": "https://keywordsheeter.com",
+    "text_norm": "Keyword Sheeter - Free Keyword Ideas Tool",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "2a4de74f-9423-420a-8d08-14cee9d66a0f",
+    "href_raw": "https://maze.toys/",
+    "href_norm": "https://maze.toys",
+    "text_norm": "Maze Toys",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4077a0bf-c34f-40a0-95f1-66bd05818e36",
+    "href_raw": "https://www.mentimeter.com/app/home",
+    "href_norm": "https://www.mentimeter.com/app/home",
+    "text_norm": "Mentimeter",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f87e53e4-9220-487b-afa9-ead02a20c165",
+    "href_raw": "https://app.mochi.cards/",
+    "href_norm": "https://app.mochi.cards",
+    "text_norm": "Mochi",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "564a326e-9f17-4677-aa80-5378e0c74750",
+    "href_raw": "https://www.nerdfonts.com/font-dowoads",
+    "href_norm": "https://www.nerdfonts.com/font-dowoads",
+    "text_norm": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts\n    patcher",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d268cdb7-76fc-45f5-a193-10a245ef83b0",
+    "href_raw": "https://nocodb.com/",
+    "href_norm": "https://nocodb.com",
+    "text_norm": "NocoDB Cloud",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1c1c6f82-7618-46f5-9ba1-5f792adc379b",
+    "href_raw": "htt://www.notion.so/",
+    "href_norm": null,
+    "text_norm": "Notion",
+    "valid_url": false,
+    "invalid_reason": "Unsupported scheme 'htt': htt://www.notion.so/"
+  },
+  {
+    "id": "d9c1b89f-e6e0-48e8-ba61-34604b21e635",
+    "href_raw": "http://bokardo.com/",
+    "href_norm": "http://bokardo.com",
+    "text_norm": "Bokardo",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "52848c08-e80c-49b9-8a2a-293d618a5113",
+    "href_raw": "http://worrydream.com/",
+    "href_norm": "http://worrydream.com",
+    "text_norm": "Bret Victor",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f946f7a8-5d2c-4638-970f-fc347e2efc61",
+    "href_raw": "https://danielburka.com/",
+    "href_norm": "https://danielburka.com",
+    "text_norm": "Daniel Burka",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "2c5825ed-1532-4600-9ad7-a1f6ebba32a1",
+    "href_raw": "https://daringfireball.net/",
+    "href_norm": "https://daringfireball.net",
+    "text_norm": "Daring Fireball",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "70bea5e1-b40d-4251-abc9-543b34ccae67",
+    "href_raw": "https://userpilot.com/blog/navigation-ux/",
+    "href_norm": "https://userpilot.com/blog/navigation-ux",
+    "text_norm": "Navigation UX: Pattern Types and Tips to Enhance User Experien",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "764ea132-c7c2-4f06-a58a-959a441c3575",
+    "href_raw": "https://tomblomfield.com/post/1743528547367/the-age-of-abundance",
+    "href_norm": "https://tomblomfield.com/post/1743528547367/the-age-of-abundance",
+    "text_norm": "The Age Of Abundance - Tom Blomfield",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3259c97e-9c92-4e8a-baf8-9920f2669d12",
+    "href_raw": "https://alistapart.com/",
+    "href_norm": "https://alistapart.com",
+    "text_norm": "A List Apart",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "c6e5f9aa-7056-4582-b289-946ec2f41ebc",
+    "href_raw": "https://boxesandarrows.com/",
+    "href_norm": "https://boxesandarrows.com",
+    "text_norm": "Boxes & Arrows",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6c6e3114-2ca5-48e8-95f9-1d94a43484fc",
+    "href_raw": "https://hbr.org/1998/11/how-venture-capital-works",
+    "href_norm": "https://hbr.org/1998/11/how-venture-capital-works",
+    "text_norm": "How Venture Capital Works",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "cf94fe24-cc74-40db-9f20-1766c6e8184a",
+    "href_raw": "https://www.theverge.com/",
+    "href_norm": "https://www.theverge.com",
+    "text_norm": "The Verge",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0c2b7777-a7fa-4cf0-a441-ebd5a6208c19",
+    "href_raw": "http://www.usabilitycounts.com/",
+    "href_norm": "http://www.usabilitycounts.com",
+    "text_norm": "ability Counts",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "70b93d5b-bf06-42cf-98d1-845d557cca72",
+    "href_raw": "https://uxbth.com/",
+    "href_norm": "https://uxbth.com",
+    "text_norm": "UX Booth",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4ef0b15d-7998-4438-9039-d1053937d9de",
+    "href_raw": "https://www.smashingmagazine.com/2013/06/13-tenets-user-experience/",
+    "href_norm": "https://www.smashingmagazine.com/2013/06/13-tenets-user-experience",
+    "text_norm": "13 Tenets Of User\n    Experience",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e08e3427-3130-4a1f-b5e1-04ab149b9d00",
+    "href_raw": "https://www.nngroup.com/articles/start-designops/",
+    "href_norm": "https://www.nngroup.com/articles/start-designops",
+    "text_norm": "3 Steps for Getting Started with DesignOps",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "220c48cd-28f3-49eb-b1c4-b975117515e8",
+    "href_raw": "https://www.gamified.uk/2015/01/05/neurotransmitters-you-should-know-about-in-gamification/",
+    "href_norm": "https://www.gamified.uk/2015/01/05/neurotransmitters-you-should-know-about-in-gamification",
+    "text_norm": "4 essential\n    Neurotransmitters in gamification",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e1dde479-8450-4868-acba-68c88c7b594e",
+    "href_raw": "https://lifehacker.com/7-of-the-best-evernote-alternatives-and-why-you-should-1848592934",
+    "href_norm": "https://lifehacker.com/7-of-the-best-evernote-alternatives-and-why-you-should-1848592934",
+    "text_norm": "7 of the Best\n    Evernote Alternatives (and Why You Should Finally Switch)",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b2233027-7bc8-4c4b-bd76-6c440e7e4d58",
+    "href_raw": "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda",
+    "href_norm": "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda",
+    "text_norm": "7 Rules for Creating\n    Gorgeous UI",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "80b10a7b-62f6-41bc-acae-825ccfb63ffc",
+    "href_raw": "https://uxmovement.com/forms/8-reasons-users-arent-filling-out-your-sign-up-form/",
+    "href_norm": "https://uxmovement.com/forms/8-reasons-users-arent-filling-out-your-sign-up-form",
+    "text_norm": "8 Reasons Users Don't Fill\n    Out Sign Up Forms",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3253ded6-8304-45cb-bda9-a4e99d784208",
+    "href_raw": "https://www.uxbooth.com/articles/a-lesson-in-gradual-engagement/",
+    "href_norm": "https://www.uxbooth.com/articles/a-lesson-in-gradual-engagement",
+    "text_norm": "A Lesson in Gradual Engagement",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8b88a3fe-a7cc-4cdc-9429-433743242230",
+    "href_raw": "https://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/",
+    "href_norm": "https://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which",
+    "text_norm": "Absolute vs. Relative\n    Timestamps: When to Use Which",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f54d5e89-6b4d-44fd-8cbe-6f907fa4c87f",
+    "href_raw": "https://medium.com/habit-of-introspection/affordances-matter-cab064b40b4b",
+    "href_norm": "https://medium.com/habit-of-introspection/affordances-matter-cab064b40b4b",
+    "text_norm": "Affordances matter",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "121b8152-c0b9-4c11-8399-e68f68ea4946",
+    "href_raw": "https://stratechery.com/2015/aggregation-theory/",
+    "href_norm": "https://stratechery.com/2015/aggregation-theory",
+    "text_norm": "Aggregation Theory",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "30166c02-1765-4f74-9b34-7cb6c63c454c",
+    "href_raw": "https://stratechery.com/concept/aggregation-theory/",
+    "href_norm": "https://stratechery.com/concept/aggregation-theory",
+    "text_norm": "Aggregation Theory - Stratechery by Ben Thompson",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "fd42d785-3de1-4528-97ed-e1f806505920",
+    "href_raw": "https://boxesandarrows.com/an-answer-to-the-pains-of-integrating-agile-and-ux/",
+    "href_norm": "https://boxesandarrows.com/an-answer-to-the-pains-of-integrating-agile-and-ux",
+    "text_norm": "An Answer to the Pains of\n    Integrating Agile and UX",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0e320d49-93bc-49a2-b730-1a42b823cd5b",
+    "href_raw": "https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/",
+    "href_norm": "https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture",
+    "text_norm": "An Excellent\n    Beginner's Guide to Information Architecture",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f6d216dc-964c-42c3-86e0-19b92ee7a42a",
+    "href_raw": "https://webdesign.tutsplus.com/articles/an-introduction-to-hierarchy--webdesign-14947",
+    "href_norm": "https://webdesign.tutsplus.com/articles/an-introduction-to-hierarchy--webdesign-14947",
+    "text_norm": "An Introduction to\n    Hierarchy",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8a71edbb-a672-43dc-bf55-9063a5dec3d7",
+    "href_raw": "https://www.gamedeveloper.com/design/analysis-option-availability-and-loss-aversion-in-game-design",
+    "href_norm": "https://www.gamedeveloper.com/design/analysis-option-availability-and-loss-aversion-in-game-design",
+    "text_norm": "Analysis:\n    Option Availability And Loss Aversion in Game Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "eaa34131-5db4-4f05-bfbd-329615262d0b",
+    "href_raw": "https://www.uxmatters.com/mt/archives/2013/01/are-personas-still-relevant-to-ux-strategy.php",
+    "href_norm": "https://www.uxmatters.com/mt/archives/2013/01/are-personas-still-relevant-to-ux-strategy.php",
+    "text_norm": "Are Personas\n    Still Relevant to UX Strategy?",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "02a12a40-3bc5-40ad-9b64-6513ba3078ed",
+    "href_raw": "https://uxmovement.com/thinking/are-you-meeting-the-user-experience-hierarchy-of-needs/",
+    "href_norm": "https://uxmovement.com/thinking/are-you-meeting-the-user-experience-hierarchy-of-needs",
+    "text_norm": "Are You Meeting the\n    User Experience Hierarchy of Needs?",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1cdb02fc-ce85-46db-92d8-e598ca17d73b",
+    "href_raw": "https://uxmovement.com/navigation/avoid-the-pains-of-pagination/",
+    "href_norm": "https://uxmovement.com/navigation/avoid-the-pains-of-pagination",
+    "text_norm": "Avoid the Pains of Pagination",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "af250dd3-a8aa-4562-a8b7-f6101d63c7e2",
+    "href_raw": "https://www.youtube.com/watch?v=Yp_qfB1FA0Y",
+    "href_norm": "https://www.youtube.com/watch?v=Yp_qfB1FA0Y",
+    "text_norm": "Build it in Figma: Create a Design System V: Documentation -\n    YouTube",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "ce5c6fce-b18f-4e12-913f-be3a730abb77",
+    "href_raw": "https://gotechark.com/blog/common-design-principles-for-a-progressive-web-app/",
+    "href_norm": "https://gotechark.com/blog/common-design-principles-for-a-progressive-web-app",
+    "text_norm": "Common Design Principles for a\n    Progressive Web App",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8cfce018-c27c-47fd-994c-877662aedd8b",
+    "href_raw": "https://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php",
+    "href_norm": "https://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php",
+    "text_norm": "Common Misconceptions\n    About Touch",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "66406c22-ffe0-47c5-ba3c-1565c4d93828",
+    "href_raw": "https://bradfrost.com/blog/post/complex-navigation-patterns-for-responsive-design/",
+    "href_norm": "https://bradfrost.com/blog/post/complex-navigation-patterns-for-responsive-design",
+    "text_norm": "Complex Navigation Patterns\n    for Responsive Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "43d44666-f4a4-417d-bc7a-ff3065a200d0",
+    "href_raw": "https://stratechery.com/concepts/",
+    "href_norm": "https://stratechery.com/concepts",
+    "text_norm": "Concepts",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "756935aa-d950-4449-a395-593632c33dd2",
+    "href_raw": "https://www.usability.gov/how-to-and-tools/methods/content-inventory.html",
+    "href_norm": "https://www.usability.gov/how-to-and-tools/methods/content-inventory.html",
+    "text_norm": "Content Inventory",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8545d945-55d4-4f00-b918-381b1f60c421",
+    "href_raw": "https://www.smashingmagazine.com/2013/05/converting-our-stories-into-multi-screen-experiences/",
+    "href_norm": "https://www.smashingmagazine.com/2013/05/converting-our-stories-into-multi-screen-experiences",
+    "text_norm": "Converting Our\n    Stories Into Multi-Screen Experiences",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "81ae2e97-788c-466e-b32f-34434dece9ea",
+    "href_raw": "https://www.newyorker.com/magazine/2018/09/17/can-mark-zuckerberg-fix-facebook-before-it-breaks-democracy",
+    "href_norm": "https://www.newyorker.com/magazine/2018/09/17/can-mark-zuckerberg-fix-facebook-before-it-breaks-democracy",
+    "text_norm": "courted\n    comparisons to the Roman emperor Augustus",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "33579aa0-7cea-4ce0-8196-4b8aa2db3373",
+    "href_raw": "https://uxdesign.cc/creating-space-for-design-reviews-bd23a14f307d",
+    "href_norm": "https://uxdesign.cc/creating-space-for-design-reviews-bd23a14f307d",
+    "text_norm": "Creating space for design reviews | by\n    Lauren Smith | UX Collective",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "87ec95cd-c732-42af-865e-c494846f7cb6",
+    "href_raw": "https://www.uxmatters.com/mt/archives/2014/05/dealing-with-long-field-names-analyzing-users-tasks.php",
+    "href_norm": "https://www.uxmatters.com/mt/archives/2014/05/dealing-with-long-field-names-analyzing-users-tasks.php",
+    "text_norm": "Dealing\n    with Long Field Names | Analyzing Users' Tasks",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "48b3348f-97ae-431f-92e8-9ba920b37a86",
+    "href_raw": "https://stratechery.com/2017/defining-aggregators/",
+    "href_norm": "https://stratechery.com/2017/defining-aggregators",
+    "text_norm": "Defining Aggregators",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a4768504-48f7-4ae2-9cc8-d72203fcfe4a",
+    "href_raw": "https://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it/",
+    "href_norm": "https://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it",
+    "text_norm": "Design Patterns: You Already Know How\n    To Use It",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9571de93-5b1c-4319-b52b-3b37dde911c6",
+    "href_raw": "https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/",
+    "href_norm": "https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt",
+    "text_norm": "Design\n    Principles: Visual Perception And The Principles Of Gestalt",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "80b1b02b-7ad8-4d9e-88ad-a8155ee7dc41",
+    "href_raw": "https://www.smartsheet.com/content/design-review-process?amp",
+    "href_norm": "https://www.smartsheet.com/content/design-review-process",
+    "text_norm": "Design Review Process Essentials | Smartsheet",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "72ee29b3-edf4-4215-953d-886e46d0cfa6",
+    "href_raw": "https://design.google/library/going-beyond-the-surface/",
+    "href_norm": "https://design.google/library/going-beyond-the-surface",
+    "text_norm": "Design Reviews: Going Beyond the Surface - Library -\n    Google Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8d174f95-d855-4608-9f83-3b375d79afe0",
+    "href_raw": "https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f",
+    "href_norm": "https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f",
+    "text_norm": "Design tokens with Figma",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b5ab9733-c941-40eb-b665-0b5f8252a398",
+    "href_raw": "http://web.cs.wpi.edu/~matt/courses/cs563/talks/smartin/int_design.html",
+    "href_norm": "http://web.cs.wpi.edu/~matt/courses/cs563/talks/smartin/int_design.html",
+    "text_norm": "Designing Effective User\n    Interfaces",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9056f6c7-869b-4c3f-b08d-324f51bf68f3",
+    "href_raw": "https://www.lukew.com/ff/entry.asp?1927",
+    "href_norm": "https://www.lukew.com/ff/entry.asp",
+    "text_norm": "Designing for Large Screen Smartphones",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "69615b55-0ab2-418b-99c0-0bf71aad6a1b",
+    "href_raw": "https://www.uxbooth.com/articles/designing-mobile-part-3-visual-design/",
+    "href_norm": "https://www.uxbooth.com/articles/designing-mobile-part-3-visual-design",
+    "text_norm": "Designing for Mobile Part 3: Visual\n    design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6352cc20-fdfe-4f7f-8e56-dcb9212b91d0",
+    "href_raw": "https://www.webfx.com/blog/web-design/designing-hyperlinks-tips-and-best-practices/",
+    "href_norm": "https://www.webfx.com/blog/web-design/designing-hyperlinks-tips-and-best-practices",
+    "text_norm": "Designing Hyperlinks: Tips\n    and Best Practices",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "607cf7b4-bd43-4d85-ae24-3f9334c2c3db",
+    "href_raw": "https://boxesandarrows.com/designing-screens-using-cores-and-paths/",
+    "href_norm": "https://boxesandarrows.com/designing-screens-using-cores-and-paths",
+    "text_norm": "Designing Screens Using Cores and\n    Paths",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "902ffdd1-a0dd-46f7-af97-61386276b937",
+    "href_raw": "https://www.webfx.com/blog/web-design/hyperlink-design/",
+    "href_norm": "https://www.webfx.com/blog/web-design/hyperlink-design",
+    "text_norm": "Designing the Perfect Hyperlink - It's Not as Simple\n    as You Think",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3d3e45a4-41b1-4a06-8da1-839a463424ca",
+    "href_raw": "https://css-tricks.com/diy-priority-plus-nav/",
+    "href_norm": "https://css-tricks.com/diy-priority-plus-nav",
+    "text_norm": "DIY Priority+ Navigation",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1c5821bc-4648-4629-a53d-21ec2ec4d1e7",
+    "href_raw": "https://www.smashingmagazine.com/2013/01/effectively-planning-ux-design-projects/",
+    "href_norm": "https://www.smashingmagazine.com/2013/01/effectively-planning-ux-design-projects",
+    "text_norm": "Effectively Planning UX\n    Design Projects",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3a781fdb-b494-471e-8326-c922b05ddabe",
+    "href_raw": "https://bradfrost.com/blog/post/extending-atomic-design/",
+    "href_norm": "https://bradfrost.com/blog/post/extending-atomic-design",
+    "text_norm": "Extending Atomic Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "99617907-357a-43c1-aefd-c75d9b27b26a",
+    "href_raw": "https://uxdesign.cc/figma-design-thinking-building-a-design-system-for-an-existing-product-388bfdeb844b",
+    "href_norm": "https://uxdesign.cc/figma-design-thinking-building-a-design-system-for-an-existing-product-388bfdeb844b",
+    "text_norm": "Figma\n    & design thinking: Building a design system for an existing product | by Tammy Taabassum | Sep, 2020 | UX\n    Collective",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9626478a-081e-4b2c-924d-10f7ebd8eab6",
+    "href_raw": "https://ux.stackexchange.com/questions/13939/filtering-stats-what-are-some-good-patterns-to-follow-for-filtering-a-time-date",
+    "href_norm": "https://ux.stackexchange.com/questions/13939/filtering-stats-what-are-some-good-patterns-to-follow-for-filtering-a-time-date",
+    "text_norm": "Filtering\n    stats: What are some good patterns to follow for filtering a time/date range?",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9e0edb93-955e-486c-8ef4-33bd5cb0a0b7",
+    "href_raw": "https://asktog.com/atc/principles-of-interaction-design/",
+    "href_norm": "https://asktog.com/atc/principles-of-interaction-design",
+    "text_norm": "First Principles of Interaction Design (Revised &\n    Expanded)",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f6868685-7420-46da-95fb-9e4b4c14a3a6",
+    "href_raw": "https://www.smashingmagazine.com/2012/09/fixing-broken-user-experience/",
+    "href_norm": "https://www.smashingmagazine.com/2012/09/fixing-broken-user-experience",
+    "text_norm": "Fixing A Broken User Experience",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f90c6b19-f6b5-46b1-8967-5159af524ecf",
+    "href_raw": "https://www.gamified.uk/2014/05/07/game-design-process-framework/",
+    "href_norm": "https://www.gamified.uk/2014/05/07/game-design-process-framework",
+    "text_norm": "GAME: A design process framework",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a90dccf7-10b5-4413-b27d-51b1e39e002b",
+    "href_raw": "https://www.gamified.uk/2014/07/24/gamification-users-perspective/",
+    "href_norm": "https://www.gamified.uk/2014/07/24/gamification-users-perspective",
+    "text_norm": "Gamification: The users perspective",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0686c8e0-5fcf-4ae1-b6da-a82bf7cc6765",
+    "href_raw": "https://www.sitepoint.com/gestalt-principles-psychology-design/",
+    "href_norm": "https://www.sitepoint.com/gestalt-principles-psychology-design",
+    "text_norm": "Gestalt Principles and the Psychology of\n    Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "9d6e7576-2ceb-4d78-a712-4ecf1a0c682d",
+    "href_raw": "https://www.uxbooth.com/articles/good-call-to-action-buttons/",
+    "href_norm": "https://www.uxbooth.com/articles/good-call-to-action-buttons",
+    "text_norm": "Good Call-To-Action Buttons",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "da11ea27-49d5-4357-bf4e-008101b5cd7e",
+    "href_raw": "http://toastytech.com/guis/uirant.html",
+    "href_norm": "http://toastytech.com/guis/uirant.html",
+    "text_norm": "Good User Interface Design Tips",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4084f69c-49ae-49aa-8d4f-ed2ce996950d",
+    "href_raw": "https://designstrategy.guide/ux/ux-research-guide/",
+    "href_norm": "https://designstrategy.guide/ux/ux-research-guide",
+    "text_norm": "How to conduct user research: A step-by-step guide",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "cebfa112-5ef4-4dc4-8702-2b4aed358748",
+    "href_raw": "https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops/",
+    "href_norm": "https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops",
+    "text_norm": "How To Design Outstanding Feedback\n    Loops",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b95f61ba-85ea-41db-acba-79fbaf1096ed",
+    "href_raw": "https://uxmovement.com/buttons/how-to-make-sure-users-dont-accidentally-delete/",
+    "href_norm": "https://uxmovement.com/buttons/how-to-make-sure-users-dont-accidentally-delete",
+    "text_norm": "How to Make Sure Users Don't\n    Accidentally Delete",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "530c738f-eb8f-459a-9f9e-c43f4f7bae03",
+    "href_raw": "https://www.uxbooth.com/articles/how-to-run-a-successful-design-review/",
+    "href_norm": "https://www.uxbooth.com/articles/how-to-run-a-successful-design-review",
+    "text_norm": "How to Run a Successful Design Review\n    | UX Booth",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "ecd90bbf-41e3-46d6-b4c9-ea71a9c75163",
+    "href_raw": "https://www.invisionapp.com/inside-design/remote-design-critique/",
+    "href_norm": "https://www.invisionapp.com/inside-design/remote-design-critique",
+    "text_norm": "How to run an efficient remote design\n    critique |...",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "2f6426e7-6372-47ea-a930-89f597a4466d",
+    "href_raw": "https://www.smashingmagazine.com/2011/12/effective-user-research-transforming-minds-of-clients/",
+    "href_norm": "https://www.smashingmagazine.com/2011/12/effective-user-research-transforming-minds-of-clients",
+    "text_norm": "How To\n    Transform The Minds Of Clients",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "718892d3-24ac-4575-99ff-2004ea8930ef",
+    "href_raw": "https://www.gamified.uk/2014/10/08/game-thinking-getting-tools/",
+    "href_norm": "https://www.gamified.uk/2014/10/08/game-thinking-getting-tools",
+    "text_norm": "How to Use Game Thinking",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "5cb83fc0-2671-45b1-ab72-187da73e8858",
+    "href_raw": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/02/how-to-increase-your-influence-at-work",
+    "href_norm": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/02/how-to-increase-your-influence-at-work",
+    "text_norm": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/02/how-to-increase-your-influence-at-work",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "05e07acc-8775-4325-b266-0a309dc82b21",
+    "href_raw": "https://www.nngroup.com/articles/icon-usability/",
+    "href_norm": "https://www.nngroup.com/articles/icon-usability",
+    "text_norm": "Icon Usability",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8fc60ab5-b036-425b-b93d-d2e810754bcf",
+    "href_raw": "https://legacy.cs.indiana.edu/~port/teach/103/sign.symbol.html",
+    "href_norm": "https://legacy.cs.indiana.edu/~port/teach/103/sign.symbol.html",
+    "text_norm": "ICON, INDEX and SYMBOL (Long Version)",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "79178248-3b7b-4796-8a92-2fbe451c5278",
+    "href_raw": "https://vanseodesign.com/web-design/icon-index-symbol/",
+    "href_norm": "https://vanseodesign.com/web-design/icon-index-symbol",
+    "text_norm": "Icon, Index, and Symbol - Three Categories of Signs",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "6ee28a13-1735-4d0b-9eaf-c13ef12f378a",
+    "href_raw": "http://userexperienceexperience.blogspot.com/2012/07/if-heuristics-were-written-from.html",
+    "href_norm": "http://userexperienceexperience.blogspot.com/2012/07/if-heuristics-were-written-from.html",
+    "text_norm": "If heuristics were\n    written from the customer's point of view?",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "c8c03623-6ae0-4a32-b2c5-4e48304dd9d4",
+    "href_raw": "https://www.designnews.com/implement-design-reviews-right-way",
+    "href_norm": "https://www.designnews.com/implement-design-reviews-right-way",
+    "text_norm": "Implement design reviews the right way",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "7a35c108-a6d8-4ace-ad46-1c0d5f7f64b4",
+    "href_raw": "https://www.usability.gov/how-to-and-tools/methods/information-architecture/index.html",
+    "href_norm": "https://www.usability.gov/how-to-and-tools/methods/information-architecture/index.html",
+    "text_norm": "Information\n    Architecture Methods | Usability.gov",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "7c8ef875-a3cb-424e-b0f8-ef6b41e5c658",
+    "href_raw": "https://www.nngroup.com/articles/information-scent/",
+    "href_norm": "https://www.nngroup.com/articles/information-scent",
+    "text_norm": "Information Scent: How Users Decide Where to Go Next",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1c6aaebe-f68c-4c78-8f42-44c5b6ab84ac",
+    "href_raw": "https://www.designbetter.co/design-systems-handbook/introducing-design-systems",
+    "href_norm": "https://www.designbetter.co/design-systems-handbook/introducing-design-systems",
+    "text_norm": "Introducing design systems",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "623c1c1b-07aa-4855-9173-788145a33a4b",
+    "href_raw": "https://designstrategy.guide/interviews/investing-in-design-strategy-means-investing-in-greater-confidence/",
+    "href_norm": "https://designstrategy.guide/interviews/investing-in-design-strategy-means-investing-in-greater-confidence",
+    "text_norm": "Investing\n    in design strategy means investing in greater confidence",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "780b3fe5-b7cd-46da-9d23-1c426970ea26",
+    "href_raw": "https://verbivore.com/ipso-facto-every-day-we-speak-and-write-latin/",
+    "href_norm": "https://verbivore.com/ipso-facto-every-day-we-speak-and-write-latin",
+    "text_norm": "Ipso facto: Every Day We Speak and Write\n    Latin",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "638a90f2-fd56-4bdc-ac12-cea6d51b8663",
+    "href_raw": "https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/",
+    "href_norm": "https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business",
+    "text_norm": "Lean UX - Getting\n    Out Of The Deliverables Business",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d9f014b1-8e96-401a-80ae-2152d82bdaba",
+    "href_raw": "https://ux.stackexchange.com/questions/525/unambiguous-way-to-display-timezone-information-in-a-compact-manner",
+    "href_norm": "https://ux.stackexchange.com/questions/525/unambiguous-way-to-display-timezone-information-in-a-compact-manner",
+    "text_norm": "lists\n    - Unambiguous way to display timezone information in a compact manner - User Experience Stack Exchange",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "96ca5eff-5210-4a66-b07b-acd09d5f04a8",
+    "href_raw": "https://dev.to/psqrrl/managing-design-tokens-using-storybook-5975",
+    "href_norm": "https://dev.to/psqrrl/managing-design-tokens-using-storybook-5975",
+    "text_norm": "Managing Design Tokens Using Storybook",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b20ae05e-ef62-4e9b-8272-520c76843f82",
+    "href_raw": "https://www.nngroup.com/topic/ux-management/#articles",
+    "href_norm": "https://www.nngroup.com/topic/ux-management",
+    "text_norm": "Managing UX Teams Articles, Videos, Reports, Training\n    Courses, and Online Seminars by NN/g",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "792988ad-2940-45de-a352-dcca15256642",
+    "href_raw": "https://www.headway.io/blog/managing-your-design-system-in-figma",
+    "href_norm": "https://www.headway.io/blog/managing-your-design-system-in-figma",
+    "text_norm": "Managing Your Design System in Figma",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "236932dd-1a82-4d3b-aec1-16efadfc6412",
+    "href_raw": "https://www.nngroup.com/articles/mobile-subnavigation/",
+    "href_norm": "https://www.nngroup.com/articles/mobile-subnavigation",
+    "text_norm": "Mobile Subnavigation",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1dc00abd-8b95-4aba-aff4-4c727bb16cf2",
+    "href_raw": "https://www.lukew.com/ff/entry.asp?1514",
+    "href_norm": "https://www.lukew.com/ff/entry.asp",
+    "text_norm": "Multi-Device Layout Patterns",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e994de91-d2a0-4c27-931a-93a6036774f8",
+    "href_raw": "https://medium.com/@cameronmoll/nine-patterns-among-great-ux-teams-3cc37252b59a",
+    "href_norm": "https://medium.com/@cameronmoll/nine-patterns-among-great-ux-teams-3cc37252b59a",
+    "text_norm": "Nine patterns among great UX\n    teams",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "29a52d86-db21-40b0-b8e5-7769a981bcf9",
+    "href_raw": "http://christianheilmann.com/2011/12/28/on-single-page-apps/",
+    "href_norm": "http://christianheilmann.com/2011/12/28/on-single-page-apps",
+    "text_norm": "On single page apps",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "4b9bc27c-da53-442a-98fd-b3d54f964047",
+    "href_raw": "https://boxesandarrows.com/optimizing-ui-icons-for-faster-recognition/#fn3",
+    "href_norm": "https://boxesandarrows.com/optimizing-ui-icons-for-faster-recognition",
+    "text_norm": "Optimizing UI icons for faster\n    recognition",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3c766caf-77bb-4f2e-a36e-367ae3ed955a",
+    "href_raw": "https://www.usability.gov/how-to-and-tools/methods/organization-schemes.html",
+    "href_norm": "https://www.usability.gov/how-to-and-tools/methods/organization-schemes.html",
+    "text_norm": "Organization Schemes",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "84218d5b-2093-4b20-94fc-65d1428b3cb1",
+    "href_raw": "https://www.usability.gov/how-to-and-tools/methods/organization-structures.html",
+    "href_norm": "https://www.usability.gov/how-to-and-tools/methods/organization-structures.html",
+    "text_norm": "Organization Structures",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d4af4f36-adfb-4c17-ba4d-6101c95e0a65",
+    "href_raw": "https://stratechery.com/concept/aggregation-theory/platforms-vs-aggregators/",
+    "href_norm": "https://stratechery.com/concept/aggregation-theory/platforms-vs-aggregators",
+    "text_norm": "Platforms vs Aggregators -\n    Stratechery by Ben Thompson",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "5030db1c-06fb-40f0-80c0-20870e5a5b27",
+    "href_raw": "http://www.tersiiska.com/design/principles/",
+    "href_norm": "http://www.tersiiska.com/design/principles",
+    "text_norm": "Principles",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "31d29bd6-f4c2-4c84-b0bf-d296dcaa8f6c",
+    "href_raw": "https://medium.com/@mibosc/responsive-design-why-and-how-we-ditched-the-good-old-select-element-bc190d62eff5",
+    "href_norm": "https://medium.com/@mibosc/responsive-design-why-and-how-we-ditched-the-good-old-select-element-bc190d62eff5",
+    "text_norm": "Responsive\n    Design: Why and how we ditched the good old select element",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "70214cef-b917-40b6-b90a-072befa0f6ce",
+    "href_raw": "https://bradfrost.com/blog/post/responsive-nav-patterns/",
+    "href_norm": "https://bradfrost.com/blog/post/responsive-nav-patterns",
+    "text_norm": "Responsive Navigation Patterns",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1277cc3d-647f-40d9-a33f-e2a164988690",
+    "href_raw": "https://bradfrost.com/blog/post/revisiting-the-priority-pattern/",
+    "href_norm": "https://bradfrost.com/blog/post/revisiting-the-priority-pattern",
+    "text_norm": "Revisiting the Priority+ Pattern",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e209eeb1-fd99-4f2e-90de-13a6031e1d32",
+    "href_raw": "https://www.gamified.uk/2014/08/08/smart-gamification-goal-setting/#.U-SyYfldUeg",
+    "href_norm": "https://www.gamified.uk/2014/08/08/smart-gamification-goal-setting",
+    "text_norm": "S.M.A.R.T Gamification - Goal\n    Setting",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "cf931ba7-a4e0-4b04-83f0-89d5b8ddf7e1",
+    "href_raw": "https://drpodcastingsolutions.com/",
+    "href_norm": "https://drpodcastingsolutions.com",
+    "text_norm": "Shopify and Platforms",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "ec284372-17cd-418e-822c-6806ae4ca294",
+    "href_raw": "https://uxplanet.org/struggle-to-give-verbal-feedback-during-design-critiques-try-silent-feedback-instead-cb852f339eb",
+    "href_norm": "https://uxplanet.org/struggle-to-give-verbal-feedback-during-design-critiques-try-silent-feedback-instead-cb852f339eb",
+    "text_norm": "Struggle\n    to give verbal feedback during Design Cr...",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1ba308e0-578f-4868-bc01-fcf83bf8bde7",
+    "href_raw": "https://uxplanet.org/the-design-review-between-designers-and-developers-75152868f717",
+    "href_norm": "https://uxplanet.org/the-design-review-between-designers-and-developers-75152868f717",
+    "text_norm": "The 'Design Review'\n    Between Designers and Developers | by Aurélie Radom | UX Planet",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b2a08fa8-c7fb-49b0-92a8-5628a4a395ab",
+    "href_raw": "https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/",
+    "href_norm": "https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing",
+    "text_norm": "The Art of Guerrilla Usability\n    Testing",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "f0033909-1c33-4422-bd25-fa3c3960943b",
+    "href_raw": "https://www.bloomberg.com/news/articles/2013-01-10/the-dunbar-number-from-the-guru-of-social-networks#r=rss",
+    "href_norm": "https://www.bloomberg.com/news/articles/2013-01-10/the-dunbar-number-from-the-guru-of-social-networks",
+    "text_norm": "The\n    Dunbar Number, From the Guru of Social Networks",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "1a644291-0a3c-45f7-982b-13b65e118450",
+    "href_raw": "https://www.gamified.uk/2014/04/30/eeee-user-journey-framework/",
+    "href_norm": "https://www.gamified.uk/2014/04/30/eeee-user-journey-framework",
+    "text_norm": "The EEEE User Journey Framework",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "3446700c-6c98-48c7-848b-031e7329a997",
+    "href_raw": "https://uxmag.com/articles/the-elements-of-player-experience",
+    "href_norm": "https://uxmag.com/articles/the-elements-of-player-experience",
+    "text_norm": "The Elements of Player Experience",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d01fc68f-a0ff-4fcc-ba90-c7817a18253f",
+    "href_raw": "https://www.thedrum.com/opinion/2013/11/29/importance-gestalt-laws-ux-design-planning",
+    "href_norm": "https://www.thedrum.com/opinion/2013/11/29/importance-gestalt-laws-ux-design-planning",
+    "text_norm": "The importance of\n    Gestalt laws for UX design planning",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "a3843f46-9116-4a18-98bd-dbe9f873c892",
+    "href_raw": "https://alistapart.com/article/the-infinite-grid/",
+    "href_norm": "https://alistapart.com/article/the-infinite-grid",
+    "text_norm": "The Infinite Grid",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "eddcc8d5-0353-42bb-917f-2a584ff85f14",
+    "href_raw": "https://www.gamified.uk/gamification-framework/the-intrinsic-motivation-ramp/",
+    "href_norm": "https://www.gamified.uk/gamification-framework/the-intrinsic-motivation-ramp",
+    "text_norm": "The Intrinsic Motivation\n    RAMP",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "52b117bc-c662-4781-9078-78ba808925f1",
+    "href_raw": "https://medium.com/@lajules/the-online-meeting-facilitator-canvas-map-your-virtual-meeting-on-one-page-make-it-productive-5ce23a2e1e07",
+    "href_norm": "https://medium.com/@lajules/the-online-meeting-facilitator-canvas-map-your-virtual-meeting-on-one-page-make-it-productive-5ce23a2e1e07",
+    "text_norm": "The\n    Online Meeting Facilitator Canvas: Map your Virtual Meeting on One Page & make it productive | by Julia Kolm |\n    Medium",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0609afef-d336-4657-84c9-0e8732938413",
+    "href_raw": "https://css-tricks.com/the-priority-navigation-pattern/",
+    "href_norm": "https://css-tricks.com/the-priority-navigation-pattern",
+    "text_norm": "The Priority+ Navigation Pattern",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d5b47fac-bcea-42d6-aa90-dbba5411f323",
+    "href_raw": "https://www.webfx.com/blog/web-design/proxority-principle/",
+    "href_norm": "https://www.webfx.com/blog/web-design/proxority-principle",
+    "text_norm": "The Proxority Principle in Web Design",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "2783ba5d-4304-47a6-9b0b-ba7464bf6290",
+    "href_raw": "http://alistapart.com/article/the-role-of-the-web/",
+    "href_norm": "http://alistapart.com/article/the-role-of-the-web",
+    "text_norm": "The Role of the Web, an Excerpt from Understanding\n    Context",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "e2f92392-70b3-471a-9aa6-3c131df3d17b",
+    "href_raw": "https://medium.com/@pasql/transitional-interfaces-926eb80d64e3",
+    "href_norm": "https://medium.com/@pasql/transitional-interfaces-926eb80d64e3",
+    "text_norm": "Transitional Interfaces",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "8dd612a9-0766-4935-9a3e-2ec8b87261b2",
+    "href_raw": "https://medium.com/@slhenty/ui-response-times-acec744f3157",
+    "href_norm": "https://medium.com/@slhenty/ui-response-times-acec744f3157",
+    "text_norm": "UI Response Times",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b6bce067-3fac-4e1c-b89b-d1e7306cfaaa",
+    "href_raw": "http://www.billverplank.com/Lecture/",
+    "href_norm": "http://www.billverplank.com/Lecture",
+    "text_norm": "Untitled Document",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "95955dc7-e06f-4f6c-9e95-55d2ea9a7563",
+    "href_raw": "https://en.99designs.de/blog/web-digital/user-interface-design/",
+    "href_norm": "https://en.99designs.de/blog/web-digital/user-interface-design",
+    "text_norm": "User interface design: 4 rules you need to\n    know",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0c7985ed-9d5e-4aec-a3c1-45565da940e1",
+    "href_raw": "https://medium.com/@simon_norris/ux-maturity-the-reality-of-performance-547303b39efd#.6d2mbsdto",
+    "href_norm": "https://medium.com/@simon_norris/ux-maturity-the-reality-of-performance-547303b39efd",
+    "text_norm": "UX Maturity:\n    The Reality of Performance",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "c1cd647b-d53c-4284-a533-a3d562ee8c68",
+    "href_raw": "https://uxmyths.com/",
+    "href_norm": "https://uxmyths.com",
+    "text_norm": "UX Myths",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "2ddae842-77ce-4847-a234-732de1ee896e",
+    "href_raw": "https://boxesandarrows.com/ux-one-liners/",
+    "href_norm": "https://boxesandarrows.com/ux-one-liners",
+    "text_norm": "UX One-liners",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "81a7221f-14c2-41fa-88ee-e7e1de1f85a3",
+    "href_raw": "https://www.lukew.com/ff/entry.asp?981",
+    "href_norm": "https://www.lukew.com/ff/entry.asp",
+    "text_norm": "Visible Narratives: Understanding Visual Organization",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "b03e031a-578d-496d-ba14-7f6696632adc",
+    "href_raw": "https://cxl.com/blog/website-information-architecture-optimal-user-experience/#.",
+    "href_norm": "https://cxl.com/blog/website-information-architecture-optimal-user-experience",
+    "text_norm": "Website Information\n    Architecture: How to Optimize for UX",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "284af2a3-69c8-492e-a067-6a5154335f74",
+    "href_raw": "https://medium.com/@dealville/whales-synchronize-their-songs-across-oceans-and-theres-sheet-music-to-prove-it-b1667f603844",
+    "href_norm": "https://medium.com/@dealville/whales-synchronize-their-songs-across-oceans-and-theres-sheet-music-to-prove-it-b1667f603844",
+    "text_norm": "Whale\n    Song Explained",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "d86d020f-7b9b-4e4c-a26b-9ec1a7e25f8e",
+    "href_raw": "https://web.dev/pwa-checklist/",
+    "href_norm": "https://web.dev/pwa-checklist",
+    "text_norm": "What makes a good Progressive Web App?",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "0f112942-8c36-49f2-bed2-209f9affc5a0",
+    "href_raw": "https://www.uxmatters.com/mt/archives/2013/01/when-agile-and-user-experience-click.php",
+    "href_norm": "https://www.uxmatters.com/mt/archives/2013/01/when-agile-and-user-experience-click.php",
+    "text_norm": "When Agile and User\n    Experience Click",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "93e91a13-62f9-4ec1-8c8b-89d1604e9f48",
+    "href_raw": "https://venturebeat.com/2013/01/11/who-owns-your-ux-philosophy/",
+    "href_norm": "https://venturebeat.com/2013/01/11/who-owns-your-ux-philosophy",
+    "text_norm": "Who owns your UX philosophy?",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "70bcd019-d9f9-4b59-aeba-88d8e3097f85",
+    "href_raw": "https://archive.uie.com/brainsparks/2013/07/16/why-is-not-enough-overcoming-flaws-of-the-five-whys/",
+    "href_norm": "https://archive.uie.com/brainsparks/2013/07/16/why-is-not-enough-overcoming-flaws-of-the-five-whys",
+    "text_norm": "Why Is Not\n    Enough: Overcoming Flaws of the Five Whys",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "079e16eb-7fc9-4fe8-8d94-ca90591df539",
+    "href_raw": "https://www.usability.gov/how-to-and-tools/methods/wireframing.html",
+    "href_norm": "https://www.usability.gov/how-to-and-tools/methods/wireframing.html",
+    "text_norm": "Wireframing",
+    "valid_url": true,
+    "invalid_reason": null
+  },
+  {
+    "id": "ed579c8c-67da-41c0-aee5-b63b12f138b6",
+    "href_raw": "https://stratechery.com/2018/zillow-aggregation-and-integration/",
+    "href_norm": "https://stratechery.com/2018/zillow-aggregation-and-integration",
+    "text_norm": "Zillow, Aggregation, and Integration",
+    "valid_url": true,
+    "invalid_reason": null
+  }
+]

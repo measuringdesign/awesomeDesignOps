@@ -1,0 +1,262 @@
+# DesignOps Categorization Rules
+# Fixed taxonomy - NO new categories can be added
+# Rules are ordered by specificity (most specific first)
+
+categories:
+  # 3.A Testing & Accessibility (highest priority for accessibility terms)
+  "3.A":
+    name: "Testing & Accessibility"
+    keywords:
+      - "wcag"
+      - "accessibility"
+      - "accessible"
+      - "a11y"
+      - "contrast"
+      - "aria"
+      - "color contrast"
+      - "colour contrast"
+      - "color-blindness"
+      - "colour-blindness"
+      - "screen reader"
+      - "inclusive"
+      - "inclusive-components"
+
+  # 2.A.1 Foundations (color, typography, spacing)
+  "2.A.1":
+    name: "Foundations (colour, type, spacing)"
+    keywords:
+      - "color"
+      - "colour"
+      - "typography"
+      - "type scale"
+      - "spacing"
+      - "modular scale"
+      - "grid"
+      - "8-point"
+      - "8-pt"
+      - "golden ratio"
+      - "font"
+      - "fonts"
+      - "gradient"
+      - "palette"
+      - "tints"
+      - "shades"
+      - "css font"
+      - "google fonts"
+      - "colormind"
+      - "colordesigner"
+      - "mycolor.space"
+      - "material.io/resources/color"
+      - "shadowlord"
+      - "color-wizard"
+      - "convertingcolors"
+
+  # 2.A.2 Components (UI kits, patterns)  
+  "2.A.2":
+    name: "Components (UI kits, patterns)"
+    keywords:
+      - "component"
+      - "components"
+      - "pattern"
+      - "patterns"
+      - "ui kit"
+      - "ui-patterns"
+      - "shadcn"
+      - "aceternity"
+      - "tailwindui"
+      - "library"
+      - "design system"
+      - "atomic design"
+      - "ui library"
+      - "component gallery"
+      - "cards"
+      - "buttons"
+      - "modals"
+
+  # 2.A.3 Documentation (usage guidelines, principles)
+  "2.A.3": 
+    name: "Documentation (usage guidelines, principles)"
+    keywords:
+      - "guidelines"
+      - "principles"
+      - "authoring"
+      - "docs"
+      - "documentation" 
+      - "apg"
+      - "principles.design"
+      - "design principles"
+      - "design tokens"
+      - "readme"
+      - "markdown"
+      - "writing"
+
+  # 2.B Toolchains & Platforms (design tools)
+  "2.B":
+    name: "Toolchains & Platforms"
+    keywords:
+      - "figma"
+      - "storybook"
+      - "chromatic"
+      - "zeplin"
+      - "zeroheight"
+      - "strapi"
+      - "vercel"
+      - "render"
+      - "webflow"
+      - "tailwindcss"
+      - "tailwind"
+      - "abstract"
+      - "anima"
+      - "fractal"
+      - "pattern lab"
+      - "modulz"
+      - "balsamiq"
+      - "framer"
+      - "sketch.systems"
+
+  # 2.C Workflow Optimisation (productivity tools)
+  "2.C":
+    name: "Workflow Optimisation"
+    keywords:
+      - "cheatsheet"
+      - "generator"
+      - "template"
+      - "boilerplate"
+      - "productivity"
+      - "plugin"
+      - "helper"
+      - "automation"
+      - "automator"
+      - "css generator"
+      - "grid generator"
+      - "palette generator"
+      - "loading.io"
+      - "transition.css"
+      - "css-tricks"
+
+  # 2.D Collaboration with Engineering
+  "2.D":
+    name: "Collaboration with Engineering"  
+    keywords:
+      - "developer"
+      - "dev"
+      - "api"
+      - "swagger"
+      - "handoff"
+      - "design review"
+      - "css"
+      - "html"
+      - "responsive"
+      - "progressive web app"
+      - "pwa"
+      - "mdn"
+      - "mozilla"
+      - "github"
+      - "git"
+
+  # 3.B Metrics & Measurement (analytics, data)
+  "3.B":
+    name: "Metrics & Measurement"
+    keywords:
+      - "analytics"
+      - "amplitude"
+      - "dataviz"
+      - "data viz"
+      - "metrics"
+      - "measurement"
+      - "datawrapper"
+      - "plotly"
+      - "chart"
+      - "dashboard"
+      - "data"
+      - "visualization"
+      - "raw graphs"
+      - "sankey"
+      - "dimple"
+      - "gephi"
+
+  # 1.A Team Models (org structure)
+  "1.A":
+    name: "Team Models (centralised, embedded, hybrid)"
+    keywords:
+      - "managing ux teams"
+      - "team models"
+      - "centralized"
+      - "centralised" 
+      - "embedded"
+      - "hybrid"
+      - "design ops 101"
+      - "designops 101"
+      - "patterns among great ux teams"
+      - "ux management"
+      - "design operations"
+      - "designops"
+
+  # 1.B Capacity & Resource Planning
+  "1.B":
+    name: "Capacity & Resource Planning"
+    keywords:
+      - "capacity"
+      - "resource"
+      - "planning"
+      - "roadmap"
+      - "allocation"
+      - "professional development"
+      - "progression"
+
+  # 1.C Governance & Standards  
+  "1.C":
+    name: "Governance & Standards"
+    keywords:
+      - "governance"
+      - "standards"
+      - "laws of ux"
+      - "web standards"
+      - "w3c"
+      - "heuristics"
+      - "guidelines"
+      - "fitts"
+      - "gestalt"
+
+  # 1.D Onboarding & Knowledge Sharing
+  "1.D":
+    name: "Onboarding & Knowledge Sharing"
+    keywords:
+      - "onboarding"
+      - "knowledge"
+      - "playbook"
+      - "glossary"
+      - "study guide"
+      - "user onboarding"
+      - "teardowns"
+
+  # 3.C Feedback Loops (critique, testing)
+  "3.C":
+    name: "Feedback Loops"
+    keywords:
+      - "feedback"
+      - "critique"
+      - "reviews"
+      - "helio"
+      - "survey"
+      - "form"
+      - "testing"
+      - "usability testing"
+      - "guerrilla testing"
+      - "optimal workshop"
+      - "treejack"
+      - "kardSort"
+
+  # 3.D Continuous Improvement  
+  "3.D":
+    name: "Continuous Improvement"
+    keywords:
+      - "continuous improvement"
+      - "lean"
+      - "retrospectives"
+      - "maturity"
+      - "process improvement"
+      - "agile"
+      - "lean ux"
+      - "design maturity"
+      - "ux maturity"
