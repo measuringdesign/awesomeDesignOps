@@ -1,0 +1,433 @@
+<h2>Design</h2>
+<h3>Content & Metadata</h3>
+<a href="https://codepen.io/awoodall/full/XbpMbo">Email Subject Test</a>
+<a href="https://hemingwayapp.com/">Hemingway Editor</a>
+<a href="https://instatext.io/editor/">InstaText | Write like a native speaker</a>
+<a href="https://languagetool.org/">LanguageTool - Online Grammar, Style & Spell Checker</a>
+<a href="https://www.random.org/">Random</a>
+<a href="https://www.randomlists.com/">Random Lists</a>
+<a href="https://www.rhymezone.com/">RhymeZone</a>
+<a href="https://www.sudowrite.com/app">Sudowrite</a>
+<a href="https://www.thesaurus.com/">Thesaurus</a>
+<a href="https://analytics.amplitude.com/morressier/workspace">Amplitude</a>
+<a
+    href="https://analytics.google.com/analytics/web/#/my-reports/EGq30SmVSv-LL_oe-C8-Ww/a100748317w176012425p174935628/_r.tabId=729">Analytics</a>
+<a href="https://apify.com/">Apify: Web Scraping and Data Extraction platform</a>
+<a href="https://datawrapper.de/">Datawrapper</a>
+<a href="http://dimplejs.org/">Dimple JS</a>
+<a href="https://gephi.github.io/">Gephi | Open Graph Viz Platform</a>
+<a href="https://www.jsoneditoronline.org/">JSON Editor</a>
+<a href="https://jsonformatter.curiousconcept.com/">JSON Formatter & Validator</a>
+<a href="http://www.cleancss.com/json-minify/">JSON Minify and Compress</a>
+<a href="http://konklone.io/json/">JSON to CSV</a>
+<a href="http://guidetodatamining.com/ngramAnalyzer/">Ngram Analyzer</a>
+<a href="https://chart-studio.plotly.com/create/#/">Online Graph Maker · Plotly Chart Studio</a>
+<a href="http://app.rawgraphs.io/">RAW Graphs</a>
+<a href="http://sankeymatic.com/build/">SankeyMATIC</a>
+<a href="https://sorta.app/">Sorta - Rank stuff</a>
+<a href="https://tableconvert.com/">Table Convert Online</a>
+<a href="https://www.online-utility.org/text/analyzer.jsp">Text Analyzer</a>
+<a href="https://datavizcatalogue.com/index.html">The Data Visualisation Catalogue</a>
+<a href="https://theonegenerator.com/">The One Generator</a>
+<a
+    href="https://developers.cloudflare.com/cloudflare-one/faq/cloudflare-tunnels-faq/#how-can-i-troubleshoot-a-tunnel-that-was-configured-from-the-zero-trust-dashboard">Tunnels
+    · Cloudflare Zero Trust docs</a>
+<a href="https://admin.typeform.com/accounts/01DRE51W7S5HPMAT91QZ232MQA/workspaces/QcFxs2">Typeform</a>
+<a href="https://www.unicode.org/reports/tr35/tr35-31/tr35-dates.html#Date_Format_Paerns">Unicode Date formats »
+    UTS5</a>
+<a href="http://www.worldometers.info/">Worldometers - real time world statistics</a>
+<h3>Interactions & Interfaces</h3><a href="https://component.gallery/">The Component Gallery - UX Design Patterns</a>
+<a href="https://automator.design/">Automator for Figma</a>
+<a href="https://balsamiq.cloud/s9zzjxi/pvndnpd/r200F">Balsamiq</a>
+<a href="https://boords.com/">Boords | Storyboard Creator</a>
+<a href="https://www.joshwcomeau.com/shadow-palette/">CSS Shadow Palette Generator</a>
+<a href="http://framerjs.com/">Framer - Prototype Interaction and Animation</a>
+<a href="https://www.thinkmoto.de/gestures">IxD Gesture Icons</a>
+<a href="https://dashboard.kardsort.com/">KardSort</a>
+<a href="https://www.modulz.app/">Modulz</a>
+<a href="https://relate.app/">Relate - The open platform to create for the web</a>
+<a href="https://screensiz.es/">Screen Sizes | Viewport Sizes and Pixel Densities for Popular Devices</a>
+<a href="https://sketch.systems/">Sketch.systems</a>
+<a href="https://ui-patterns.com/">UI-Patterns.com</a>
+<a href="https://www.useronboard.com/user-onboarding-teardowns/">User Onboarding | A frequently-updated compendium of
+    web app first-run experiences</a>
+<a href="https://www.mit.ed~jtidwell/interaction_patterns.html">Common Ground</a>
+<h3>Languages & Systems</h3><a href="https://spec.fm/specifics/8-pt-grid">8-Point Grid</a>
+<a href="http://cssfontstack.com/">A CSS Font Stack</a>
+<a href="https://ui.aceternity.com/">Aceternity UI Library</a>
+<a href="https://browserframe.com/">Browser Frame for Screenshots</a>
+<a href="https://color.adobe.com/create/color-contrast-analyzer">Color contrast checker analyzer tool | Adobe Color</a>
+<a href="https://colordesigner.io/">Color Palette Generator | ColorDesigner</a>
+<a href="https://mycolor.space/">Color Space - Palette and Gradient Tool</a>
+<a href="https://material.io/resources/color/#!/?view.left=0&amp;view.right=0">Color Tool - Material Design</a>
+<a
+    href="https://contrast-grid.eightshapes.com/?version=1.1.0&amp;background-colors=&amp;foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&amp;es-color-form__tile-size=compact&amp;es-color-form__show-contrast=aaa&amp;es-color-form__show-contrast=aa&amp;es-color-form__show-contrast=aa18&amp;es-color-form__show-contrast=dnp">Colour
+    Contrast Tool - Grid | EightShapes</a>
+<a href="https://convertingcolors.com/">Converting Colors - Conversion, Gradients, Harmonies and More</a>
+<a href="http://www.css-color-extractor.com/">CSS Color Extractor</a>
+<a href="https://learnui.design/tools/data-color-picker.html">Data Viz Color Palette Generator (for Charts &
+    Dashboards)</a>
+<a href="https://fontawesome.com/search">FA</a>
+<a href="https://fontawesome.com/cheatsheet/pro">Fontawesome Cheatsheet</a>
+<a href="https://grtcalculator.com/">Golden Ratio Typography Calculator</a>
+<a href="https://fonts.google.com/">Google Fonts</a>
+<a href="https://colordesigner.io/gradient-generator">Gradient Generator | ColorDesigner</a>
+<a href="https://www.gridlover.net/try">Grid lover for Type Scales</a>
+<a href="https://materialpalettes.com/">Material Color Palette Generator</a>
+<a href="http://www.modularscale.com/">Modular Type Scale</a>
+<a href="https://hihayk.github.io/modulator/">Modulator</a>
+<a href="https://ui.shadcn.com/">SHADCN/UI Library</a>
+<a href="https://noeldelgado.github.io/shadowlord/#0011ff">Shadowlord - Tints and Shades Generator Tool</a>
+<a href="https://hypejunction.github.io/color-wizard/">Systematic Color Palette Generator</a>
+<a href="https://material.io/blog/science-of-color-design">The Science of Color & Design - Material Design</a>
+<a href="https://www.tints.dev/brand/2522FC">tts.dev</a>
+<a href="http://type-scale.c/">Type Scale</a>
+<h3>Operations & Tactics</h3><a href="https://www.goabstract.com/">Abstract</a>
+<a href="https://agile.18f.gov/">Agile Principles and 18F Practices</a>
+<a href="https://www.animaapp.com/">Anima</a>
+<a href="https://www.chromatic.com/">Chromatic: Storybook deployment, review, and test</a>
+<a href="https://fractal.build/">Fractal</a>
+<a href="https://gamestorming.com/">Gamestorming | Co-creation tools</a>
+<a href="https://www.mockaroo.com/datasets/143643">Mockaroo</a>
+<a href="https://patternlab.io/">Pattern Lab</a>
+<a href="https://trello.com/b/DhxG8ozo/professional-development-framework-v11">Professional Development Framework (v1.1)
+    | Trello</a>
+<a href="https://progressionapp.com/">Progression: Helping teams to grow, together</a>
+<a href="https://zeplin.io/">Zeplin</a><a href="https://zeroheight.com/">ZeHeight</a>
+<h3>DesignOps Thought-Leadership</h3><a
+    href="https://www.eleken.co/blog-posts/how-design-operations-work-at-eleken">DesignOps at Elen: How Our Business
+    Operates</a>
+<a href="https://www.frog.co/designmind/designops101">DesignOps 101 | What is Design Operations? | frog, part of
+    Capgemini Invent</a><a href="https://designlab.com/blog/grid-systems-history-ux-ui-layout">The Grid System:
+    Importance of a Solid UX/UI Layout | Designlab</a>
+<a href="https://coda.io/@designops-guide-and-glossary/dogg/design-ops-101-8">Design Ops 101 · DesignOps Guide &
+    Glossary (DOGG)</a>
+<a href="https://uxplanet.org/everything-you-should-know-about-8-point-grid-system-in-ux-design-b69cb945b18d">Everything
+    you should know about 8 point grid system in UX design | by Ashphiar Raihan Rumman | UX Planet</a>
+<a href="https://www.designops.lol/resources/">Resources - DesignOps LOL</a>
+<a href="https://www.uxpin.com/studio/blog/designops-rescources/">A Go-To Article for the Best DesignOps Resources</a>
+<a href="https://medium.com/@vicdesign/a-mini-designops-resource-list-8a95c7e3bb15">A mini DesignOpresource list. Unlock
+    the power of DesignOps with this… | by Victor | Medium</a>
+<a href="https://www.nngroup.c/articles/design-ops-study-guide/">DesignOps: Study Guide - NN/g</a>
+<h3>Principles & Standards</h3><a href="https://52weeksofux.com/">52 Weeks of UX</a>
+<a href="https://accessible-colors.com/">Accessible Colors | WCAG 2.0 AA and AAA color contrast checker</a>
+<a href="http://behaviormodel.org/">BJ Fogg Behavior Model</a>
+<a href="https://coolors.co/contrast-checker/112a46-acc8e5">Color Contrast Checker - Coolors</a>
+<a href="http://lpetrich.org/Science/ColorBlindnessSim/ColorBlindnessSim.html">Color-Blindness Simulators</a>
+<a href="https://colourcontrast.cc/">Colour Contrast Checker</a>
+<a href="https://design-can.com/">Design Can</a>
+<a href="https://digitalpsychology.io/">Digital Psychology</a>
+<a href="https://empathyprompts.net/">Empathy Prompts</a>
+<a href="https://en.wikipedia.org/wiki/Fitts%27s_law">Fitts's law - Wikipedia</a>
+<a href="https://lawsofux.com/">Laws of UX</a>
+<a href="https://pair.withgoogle.com/">People + AI Guidebook | Google</a>
+<a href="https://principles.design/examples/">principles.design</a>
+<a href="https://www.w3.org/WAI/WCAG21/quickref/">WCAG Accessibility Guidelines</a>
+<a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines</a>
+<a href="https://www.w3.org/WAI/ARIA/apg/">ARIA Authoring Practices Guide | APG | WAI | W3C</a>
+<a href="https://accessibleweb.com/">Accessible Web | WCAG & ADA</a>
+<a href="https://www.gamified.uk/user-types/#player">A Player Type Framework For Gamification Design</a>
+<a href="https://goodux.appcues.com/">GoodUX</a>
+<a href="https://www.gamified.uk/2014/09/19/language-gamification-short-glossary/">The Language Of Gamification</a>
+<a href="https://www.luma-institute.com/about-luma/luma-system-explore-methods/">Human-centered design framework | LUMA
+    System</a>
+<a href="https://digital.gov/guides/accessibility-for-teams/">Accessibility r teams - Digital.gov</a>
+<a href="https:/reativecommons.org/chooser/">Chooser - Creative Commons</a>
+<h3>Research</h3><a href="https://www.gamified.uk/user-types/">A Player Type Framework For Gamification Design</a>
+<a href="https://helio.app/">Helio - Test prototypes, screens, concepts, and design ideas. Learn from real people in
+    minutes</a>
+<a href="https://www.optimalworkshop.com/treejack">Optimal Workshop | Information architecture validation software</a>
+<a href="https://infodesign.com.au/usabilityresources.html">Usability resources</a>
+<a href="https://www.uxtweak.com/">UX Tweak</a>
+<a href="https://www.wordclouds.com/">Word Cloud</a>
+<a href="https://answerthepublic.com/">AnswerThePublic | Seah listening tool for market, customer & content research</a>
+<a href="https:/aserow.io/">BaseRow | Free AirTable Alt</a>
+<h3>Strategy</h3><a href="http://colormind.io/">Colormind - the AI powered color palette generator</a>
+<a href="https://loading.io/">loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator</a>
+<a href="https://mermaid.js.org/">Mermaid Diagramming</a>
+<a href="https://www.omnicalculator.com/other/pixels-to-print-size">Pixels to Print SizCalculator</a>
+<a href="https://w.computerhope.com/jargon/w/w3c-color-names.htm">W3C Color Names?</a>
+<h2>Technogy</h2>
+<h3>AI</h3><a href="https://huggingface.co/">Hugging Face - The AI community building the future.</a>
+<a href="https://letsenhance.io/boost">My images | LetsEnhance.io - Image enhancement powered by AI</a>
+<a href="https://theresanaiforthat.com/">There's An AI For That (TAAFT) - AI Aregator</a>
+<a href="https://wwweavely.ai/">Weavely | Design & Publish Forms in Figma</a>
+<h3>Development</h3><a href="http://adaptive-images.com/">Adaptive Images in HTML</a>
+<a href="http://basehold.it/">Basehold</a>
+<a href="http://designmodo.com/startup/">Startup Design Framework | Designmodo</a>
+<a href="http://keyes.ie/things/baseliner/">Baseliner</a>
+<a href="http://nativeformelements.com/">Native Form Elements</a>
+<a href="http://palette.site/">Site Palette - Get the essential colours from a website</a>
+<a href="http://tedgoas.github.io/Cerberus/">Cerberus Email Patterns</a>
+<a href="http://who.is/">Who.is</a>
+<a href="https://blisk.io/">Blisk | A browser for web developers</a>
+<a href="https://caniuse.com/">Can I use... Support tables for HTML5, CSS3, etc</a>
+<a href="https://clickclickclick.click/">Click 👈 👆 ↗️ 〰️</a>
+<a href="https://coolify.io/">Coolify</a>
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide To Flexbox | CSS-Tricks</a>
+<a href="https://cssgrid-generator.netlify.app/">CSS Grid Generator</a>
+<a href="https://cssstats.com/">CSS Stats</a>
+<a href="https://dashboard.render.com/">Render Dashboard</a>
+<a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+<a href="https://developers.google.com/web/fundamentals/web-app-manifest/">The Web App Manifest</a>
+<a href="https://developers.google.com/web/progressive-web-apps/checklist">Progressive Web App Checklist</a>
+<a href="https://deviceatlas.com/blog/list-of-user-agent-strings">List of User Agent strings</a>
+<a
+    href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Basic
+    writing and formatting syntax - GitHub Docs</a>
+<a href="https://editor.swagger.io/">Swagger | API Editor & Validator</a>
+<a href="https://every-layout.dev/checkout/?ref=producthunt">Every Layout</a>
+<a href="https://flaviocopes.com/tailwind-cheat-sheet/">The Tailwind Cheat Sheet</a>
+<a href="https://frontmatter.codes/">Headless CMS right in your code editor | Front Matter</a>
+<a href="https://github.com/renderghost?tab=repositories">GitHub Repositories</a>
+<a href="https://github.com/renderghost">GitHub Profile</a>
+<a href="https://inclusive-components.design/cards/">Cards</a>
+<a href="https://lucide.dev/icons/">Lucide</a>
+<a href="https://lucide.dev/icons/figma">Lucide</a>
+<a href="https://material.io/collections/machine-learning/object-detection-live-camera.html#experience">Object
+    Detection: Live Camera - Material Design</a>
+<a href="https://meyerweb.com/eric/tools/dencoder/">URL Decoder/Encoder</a>
+<a href="https://mixmark-io.github.io/turndown/">Turndown Demo</a>
+<a href="https://mkfizi.dev/tailbone/">Tailbone - TailwindCSS UX Skeleton Generator</a>
+<a href="https://motion.dev/">Motion - A modern animation library for JavaScript and React</a>
+<a href="https://readme.so/">readme.so</a>
+<a href="https://remix.run/docs/en/main/discussion/introduction#introduction-technical-explanation">Introduction,
+    Technical Explanation | Remix</a>
+<a href="https://serpapi.com/users/welcome#">Welcome - SerpApi</a>
+<a href="https://sizzy.co/">Sizzy</a>
+<a href="https://strapi.io/">Strapi - Open source Node.js Headless CMS 🚀</a>
+<a href="https://tailtools.app/palette-generator">Palette Generator | Tailtools: Tailwind CSS Tools</a>
+<a href="https://tailwind-generator.com/">Tailwind Generator</a>
+<a href="https://tailwind.ink/">Tailwind Ink | AI color palette generator for Tailwindcss</a>
+<a href="https://tailwindcss.504b.cc/">Tailwind CSS Cheatsheet</a>
+<a href="https://tailwindflex.com/">TailwindFlex: Components + Samples</a>
+<a href="https://tailwindui.com/components/preview">Tailwind CSS Component Playground - Tailwind UI</a>
+<a href="https://uicolors.app/create">Tailwind CSS Color Generator</a>
+<a href="https://vercel.com/renderghost-projects">Vercel</a>
+<a href="https://voideditor.com/">Void</a>
+<a href="https://webflow.com/dashboard?workspace=job-finding">WebFlow</a>
+<a href="https://wpdean.com/tuikit/modals.html">Tailwind CSS Modals | Interactive Popup & Dialog Components</a>
+<a href="https://www.composerize.com/">Composerize</a>
+<a href="https://www.design-tokens.dev/">Design Tokens Generator - For Web Developers and Designers</a>
+<a href="https://www.figma.com/plugin-docs/css-variables/#list-of-all-available-color-tokens">CSS Variables and Theming
+    | Plugin API</a>
+<a href="https://www.mysitemapgenerator.com/">Sitemap Generator. Create XML Sitemaps Online</a>
+<a href="https://www.projectwallace.com/">CSS Analytics - Project Wallace</a>
+<a href="https://www.rgbtohex.net/">RGB to HEX</a>
+<a href="https://www.tailwindgen.com/">Tailwind Grid Generator</a>
+<a href="https://www.transition.style/#in:circle:hesitate">Transition.css - easy transitions with clip-path</a>
+<a href="https://backsideofdawn.github.io/csscolorfinder/">Color Finder</a>
+<a href="https://worditout.com/word-cloud/create">Create word clouds - WordItOut</a>
+<a href="https://fffuel.co/">Free SVG generators, color tools & web design tools</a>
+<a href="https://hexp3.com/">HEX &lt;&gt; P3 | Quickly convert your HEX colors to Dplay P3 color space.</a>
+<a href="https://keywordsheeter.com/">Keyword Sheeter - Free Keyword Ideas Tool</a>
+<a href="https://maze.toys/">Maze Toys</a>
+<a href="https://www.mentimeter.com/app/home">Mentimeter</a>
+<a href="https://app.mochi.cards/">Mochi</a>
+<a href="https://www.nerdfonts.com/font-dowoads">Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts
+    patcher</a>
+<a href="https://nocodb.com/">NocoDB Cloud</a>
+<a href="htt://www.notion.so/">Notion</a>
+<h3>Blog</h3><a href="http://bokardo.com/">Bokardo</a>
+<a href="http://worrydream.com/">Bret Victor</a>
+<a href="https://danielburka.com/">Daniel Burka</a>
+<a href="https://daringfireball.net/">Daring Fireball</a>
+<a href="https://userpilot.com/blog/navigation-ux/">Navigation UX: Pattern Types and Tips to Enhance User Experien</a><a
+    href="https://tomblomfield.com/post/1743528547367/the-age-of-abundance">The Age Of Abundance - Tom Blomfield</a>
+<h3>Magazine</h3><a href="https://alistapart.com/">A List Apart</a>
+<a href="https://boxesandarrows.com/">Boxes & Arrows</a>
+<a href="https://hbr.org/1998/11/how-venture-capital-works">How Venture Capital Works</a>
+<a href="https://www.theverge.com/">The Verge</a>
+<a href="http://www.usabilitycounts.com/">ability Counts</a>
+<a href="https://uxbth.com/">UX Booth</a>
+<h3>Reading List</h3><a href="https://www.smashingmagazine.com/2013/06/13-tenets-user-experience/">13 Tenets Of User
+    Experience</a>
+<a href="https://www.nngroup.com/articles/start-designops/">3 Steps for Getting Started with DesignOps</a>
+<a href="https://www.gamified.uk/2015/01/05/neurotransmitters-you-should-know-about-in-gamification/">4 essential
+    Neurotransmitters in gamification</a>
+<a href="https://lifehacker.com/7-of-the-best-evernote-alternatives-and-why-you-should-1848592934">7 of the Best
+    Evernote Alternatives (and Why You Should Finally Switch)</a>
+<a href="https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda">7 Rules for Creating
+    Gorgeous UI</a>
+<a href="https://uxmovement.com/forms/8-reasons-users-arent-filling-out-your-sign-up-form/">8 Reasons Users Don't Fill
+    Out Sign Up Forms</a>
+<a href="https://www.uxbooth.com/articles/a-lesson-in-gradual-engagement/">A Lesson in Gradual Engagement</a>
+<a href="https://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/">Absolute vs. Relative
+    Timestamps: When to Use Which</a>
+<a href="https://medium.com/habit-of-introspection/affordances-matter-cab064b40b4b">Affordances matter</a>
+<a href="https://stratechery.com/2015/aggregation-theory/">Aggregation Theory</a>
+<a href="https://stratechery.com/concept/aggregation-theory/">Aggregation Theory - Stratechery by Ben Thompson</a>
+<a href="https://boxesandarrows.com/an-answer-to-the-pains-of-integrating-agile-and-ux/">An Answer to the Pains of
+    Integrating Agile and UX</a>
+<a href="https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/">An Excellent
+    Beginner's Guide to Information Architecture</a>
+<a href="https://webdesign.tutsplus.com/articles/an-introduction-to-hierarchy--webdesign-14947">An Introduction to
+    Hierarchy</a>
+<a href="https://www.gamedeveloper.com/design/analysis-option-availability-and-loss-aversion-in-game-design">Analysis:
+    Option Availability And Loss Aversion in Game Design</a>
+<a href="https://www.uxmatters.com/mt/archives/2013/01/are-personas-still-relevant-to-ux-strategy.php">Are Personas
+    Still Relevant to UX Strategy?</a>
+<a href="https://uxmovement.com/thinking/are-you-meeting-the-user-experience-hierarchy-of-needs/">Are You Meeting the
+    User Experience Hierarchy of Needs?</a>
+<a href="https://uxmovement.com/navigation/avoid-the-pains-of-pagination/">Avoid the Pains of Pagination</a>
+<a href="https://www.youtube.com/watch?v=Yp_qfB1FA0Y">Build it in Figma: Create a Design System V: Documentation -
+    YouTube</a>
+<a href="https://gotechark.com/blog/common-design-principles-for-a-progressive-web-app/">Common Design Principles for a
+    Progressive Web App</a>
+<a href="https://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php">Common Misconceptions
+    About Touch</a>
+<a href="https://bradfrost.com/blog/post/complex-navigation-patterns-for-responsive-design/">Complex Navigation Patterns
+    for Responsive Design</a>
+<a href="https://stratechery.com/concepts/">Concepts</a>
+<a href="https://www.usability.gov/how-to-and-tools/methods/content-inventory.html">Content Inventory</a>
+<a href="https://www.smashingmagazine.com/2013/05/converting-our-stories-into-multi-screen-experiences/">Converting Our
+    Stories Into Multi-Screen Experiences</a>
+<a href="https://www.newyorker.com/magazine/2018/09/17/can-mark-zuckerberg-fix-facebook-before-it-breaks-democracy">courted
+    comparisons to the Roman emperor Augustus</a>
+<a href="https://uxdesign.cc/creating-space-for-design-reviews-bd23a14f307d">Creating space for design reviews | by
+    Lauren Smith | UX Collective</a>
+<a href="https://www.uxmatters.com/mt/archives/2014/05/dealing-with-long-field-names-analyzing-users-tasks.php">Dealing
+    with Long Field Names | Analyzing Users' Tasks</a>
+<a href="https://stratechery.com/2017/defining-aggregators/">Defining Aggregators</a>
+<a href="https://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it/">Design Patterns: You Already Know How
+    To Use It</a>
+<a href="https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/">Design
+    Principles: Visual Perception And The Principles Of Gestalt</a>
+<a href="https://www.smartsheet.com/content/design-review-process?amp">Design Review Process Essentials | Smartsheet</a>
+<a href="https://design.google/library/going-beyond-the-surface/">Design Reviews: Going Beyond the Surface - Library -
+    Google Design</a>
+<a href="https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f">Design tokens with Figma</a>
+<a href="http://web.cs.wpi.edu/~matt/courses/cs563/talks/smartin/int_design.html">Designing Effective User
+    Interfaces</a>
+<a href="https://www.lukew.com/ff/entry.asp?1927">Designing for Large Screen Smartphones</a>
+<a href="https://www.uxbooth.com/articles/designing-mobile-part-3-visual-design/">Designing for Mobile Part 3: Visual
+    design</a>
+<a href="https://www.webfx.com/blog/web-design/designing-hyperlinks-tips-and-best-practices/">Designing Hyperlinks: Tips
+    and Best Practices</a>
+<a href="https://boxesandarrows.com/designing-screens-using-cores-and-paths/">Designing Screens Using Cores and
+    Paths</a>
+<a href="https://www.webfx.com/blog/web-design/hyperlink-design/">Designing the Perfect Hyperlink - It's Not as Simple
+    as You Think</a>
+<a href="https://css-tricks.com/diy-priority-plus-nav/">DIY Priority+ Navigation</a>
+<a href="https://www.smashingmagazine.com/2013/01/effectively-planning-ux-design-projects/">Effectively Planning UX
+    Design Projects</a>
+<a href="https://bradfrost.com/blog/post/extending-atomic-design/">Extending Atomic Design</a>
+<a href="https://uxdesign.cc/figma-design-thinking-building-a-design-system-for-an-existing-product-388bfdeb844b">Figma
+    &amp;amp; design thinking: Building a design system for an existing product | by Tammy Taabassum | Sep, 2020 | UX
+    Collective</a>
+<a
+    href="https://ux.stackexchange.com/questions/13939/filtering-stats-what-are-some-good-patterns-to-follow-for-filtering-a-time-date">Filtering
+    stats: What are some good patterns to follow for filtering a time/date range?</a>
+<a href="https://asktog.com/atc/principles-of-interaction-design/">First Principles of Interaction Design (Revised &
+    Expanded)</a>
+<a href="https://www.smashingmagazine.com/2012/09/fixing-broken-user-experience/">Fixing A Broken User Experience</a>
+<a href="https://www.gamified.uk/2014/05/07/game-design-process-framework/">GAME: A design process framework</a>
+<a href="https://www.gamified.uk/2014/07/24/gamification-users-perspective/">Gamification: The users perspective</a>
+<a href="https://www.sitepoint.com/gestalt-principles-psychology-design/">Gestalt Principles and the Psychology of
+    Design</a>
+<a href="https://www.uxbooth.com/articles/good-call-to-action-buttons/">Good Call-To-Action Buttons</a>
+<a href="http://toastytech.com/guis/uirant.html">Good User Interface Design Tips</a>
+<a href="https://designstrategy.guide/ux/ux-research-guide/">How to conduct user research: A step-by-step guide</a>
+<a href="https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops/">How To Design Outstanding Feedback
+    Loops</a>
+<a href="https://uxmovement.com/buttons/how-to-make-sure-users-dont-accidentally-delete/">How to Make Sure Users Don't
+    Accidentally Delete</a>
+<a href="https://www.uxbooth.com/articles/how-to-run-a-successful-design-review/">How to Run a Successful Design Review
+    | UX Booth</a>
+<a href="https://www.invisionapp.com/inside-design/remote-design-critique/">How to run an efficient remote design
+    critique |...</a>
+<a href="https://www.smashingmagazine.com/2011/12/effective-user-research-transforming-minds-of-clients/">How To
+    Transform The Minds Of Clients</a>
+<a href="https://www.gamified.uk/2014/10/08/game-thinking-getting-tools/">How to Use Game Thinking</a>
+<a
+    href="https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/02/how-to-increase-your-influence-at-work">https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/02/how-to-increase-your-influence-at-work</a>
+<a href="https://www.nngroup.com/articles/icon-usability/">Icon Usability</a>
+<a href="https://legacy.cs.indiana.edu/~port/teach/103/sign.symbol.html">ICON, INDEX and SYMBOL (Long Version)</a>
+<a href="https://vanseodesign.com/web-design/icon-index-symbol/">Icon, Index, and Symbol - Three Categories of Signs</a>
+<a href="http://userexperienceexperience.blogspot.com/2012/07/if-heuristics-were-written-from.html">If heuristics were
+    written from the customer's point of view?</a>
+<a href="https://www.designnews.com/implement-design-reviews-right-way">Implement design reviews the right way</a>
+<a href="https://www.usability.gov/how-to-and-tools/methods/information-architecture/index.html">Information
+    Architecture Methods | Usability.gov</a>
+<a href="https://www.nngroup.com/articles/information-scent/">Information Scent: How Users Decide Where to Go Next</a>
+<a href="https://www.designbetter.co/design-systems-handbook/introducing-design-systems">Introducing design systems</a>
+<a href="https://designstrategy.guide/interviews/investing-in-design-strategy-means-investing-in-greater-confidence/">Investing
+    in design strategy means investing in greater confidence</a>
+<a href="https://verbivore.com/ipso-facto-every-day-we-speak-and-write-latin/">Ipso facto: Every Day We Speak and Write
+    Latin</a>
+<a href="https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/">Lean UX - Getting
+    Out Of The Deliverables Business</a>
+<a
+    href="https://ux.stackexchange.com/questions/525/unambiguous-way-to-display-timezone-information-in-a-compact-manner">lists
+    - Unambiguous way to display timezone information in a compact manner - User Experience Stack Exchange</a>
+<a href="https://dev.to/psqrrl/managing-design-tokens-using-storybook-5975">Managing Design Tokens Using Storybook</a>
+<a href="https://www.nngroup.com/topic/ux-management/#articles">Managing UX Teams Articles, Videos, Reports, Training
+    Courses, and Online Seminars by NN/g</a>
+<a href="https://www.headway.io/blog/managing-your-design-system-in-figma">Managing Your Design System in Figma</a>
+<a href="https://www.nngroup.com/articles/mobile-subnavigation/">Mobile Subnavigation</a>
+<a href="https://www.lukew.com/ff/entry.asp?1514">Multi-Device Layout Patterns</a>
+<a href="https://medium.com/@cameronmoll/nine-patterns-among-great-ux-teams-3cc37252b59a">Nine patterns among great UX
+    teams</a>
+<a href="http://christianheilmann.com/2011/12/28/on-single-page-apps/">On single page apps</a>
+<a href="https://boxesandarrows.com/optimizing-ui-icons-for-faster-recognition/#fn3">Optimizing UI icons for faster
+    recognition</a>
+<a href="https://www.usability.gov/how-to-and-tools/methods/organization-schemes.html">Organization Schemes</a>
+<a href="https://www.usability.gov/how-to-and-tools/methods/organization-structures.html">Organization Structures</a>
+<a href="https://stratechery.com/concept/aggregation-theory/platforms-vs-aggregators/">Platforms vs Aggregators -
+    Stratechery by Ben Thompson</a>
+<a href="http://www.tersiiska.com/design/principles/">Principles</a>
+<a href="https://medium.com/@mibosc/responsive-design-why-and-how-we-ditched-the-good-old-select-element-bc190d62eff5">Responsive
+    Design: Why and how we ditched the good old select element</a>
+<a href="https://bradfrost.com/blog/post/responsive-nav-patterns/">Responsive Navigation Patterns</a>
+<a href="https://bradfrost.com/blog/post/revisiting-the-priority-pattern/">Revisiting the Priority+ Pattern</a>
+<a href="https://www.gamified.uk/2014/08/08/smart-gamification-goal-setting/#.U-SyYfldUeg">S.M.A.R.T Gamification - Goal
+    Setting</a>
+<a href="https://drpodcastingsolutions.com/">Shopify and Platforms</a>
+<a
+    href="https://uxplanet.org/struggle-to-give-verbal-feedback-during-design-critiques-try-silent-feedback-instead-cb852f339eb">Struggle
+    to give verbal feedback during Design Cr...</a>
+<a href="https://uxplanet.org/the-design-review-between-designers-and-developers-75152868f717">The 'Design Review'
+    Between Designers and Developers | by Aurélie Radom | UX Planet</a>
+<a href="https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability
+    Testing</a>
+<a href="https://www.bloomberg.com/news/articles/2013-01-10/the-dunbar-number-from-the-guru-of-social-networks#r=rss">The
+    Dunbar Number, From the Guru of Social Networks</a>
+<a href="https://www.gamified.uk/2014/04/30/eeee-user-journey-framework/">The EEEE User Journey Framework</a>
+<a href="https://uxmag.com/articles/the-elements-of-player-experience">The Elements of Player Experience</a>
+<a href="https://www.thedrum.com/opinion/2013/11/29/importance-gestalt-laws-ux-design-planning">The importance of
+    Gestalt laws for UX design planning</a>
+<a href="https://alistapart.com/article/the-infinite-grid/">The Infinite Grid</a>
+<a href="https://www.gamified.uk/gamification-framework/the-intrinsic-motivation-ramp/">The Intrinsic Motivation
+    RAMP</a>
+<a
+    href="https://medium.com/@lajules/the-online-meeting-facilitator-canvas-map-your-virtual-meeting-on-one-page-make-it-productive-5ce23a2e1e07">The
+    Online Meeting Facilitator Canvas: Map your Virtual Meeting on One Page & make it productive | by Julia Kolm |
+    Medium</a>
+<a href="https://css-tricks.com/the-priority-navigation-pattern/">The Priority+ Navigation Pattern</a>
+<a href="https://www.webfx.com/blog/web-design/proxority-principle/">The Proxority Principle in Web Design</a>
+<a href="http://alistapart.com/article/the-role-of-the-web/">The Role of the Web, an Excerpt from Understanding
+    Context</a>
+<a href="https://medium.com/@pasql/transitional-interfaces-926eb80d64e3">Transitional Interfaces</a>
+<a href="https://medium.com/@slhenty/ui-response-times-acec744f3157">UI Response Times</a>
+<a href="http://www.billverplank.com/Lecture/">Untitled Document</a>
+<a href="https://en.99designs.de/blog/web-digital/user-interface-design/">User interface design: 4 rules you need to
+    know</a>
+<a href="https://medium.com/@simon_norris/ux-maturity-the-reality-of-performance-547303b39efd#.6d2mbsdto">UX Maturity:
+    The Reality of Performance</a>
+<a href="https://uxmyths.com/">UX Myths</a>
+<a href="https://boxesandarrows.com/ux-one-liners/">UX One-liners</a>
+<a href="https://www.lukew.com/ff/entry.asp?981">Visible Narratives: Understanding Visual Organization</a>
+<a href="https://cxl.com/blog/website-information-architecture-optimal-user-experience/#.">Website Information
+    Architecture: How to Optimize for UX</a>
+<a
+    href="https://medium.com/@dealville/whales-synchronize-their-songs-across-oceans-and-theres-sheet-music-to-prove-it-b1667f603844">Whale
+    Song Explained</a>
+<a href="https://web.dev/pwa-checklist/">What makes a good Progressive Web App?</a>
+<a href="https://www.uxmatters.com/mt/archives/2013/01/when-agile-and-user-experience-click.php">When Agile and User
+    Experience Click</a>
+<a href="https://venturebeat.com/2013/01/11/who-owns-your-ux-philosophy/">Who owns your UX philosophy?</a>
+<a href="https://archive.uie.com/brainsparks/2013/07/16/why-is-not-enough-overcoming-flaws-of-the-five-whys/">Why Is Not
+    Enough: Overcoming Flaws of the Five Whys</a>
+<a href="https://www.usability.gov/how-to-and-tools/methods/wireframing.html">Wireframing</a>
+<a href="https://stratechery.com/2018/zillow-aggregation-and-integration/">Zillow, Aggregation, and Integration</a>

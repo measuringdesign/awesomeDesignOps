@@ -1,0 +1,1720 @@
+{
+  "generation_timestamp": "2025-08-19T21:20:00Z",
+  "summary": {
+    "total_links_extracted": 336,
+    "total_valid_urls": 333,
+    "total_invalid_urls": 3,
+    "total_links_added": 214,
+    "total_links_skipped": 122,
+    "processing_rate": "100.0%",
+    "success_rate": "64.3%"
+  },
+  "validation": {
+    "all_links_processed": true,
+    "unprocessed_link_ids": [],
+    "no_cross_category_duplicates": true,
+    "cross_category_duplicate_urls": {},
+    "unique_urls_added": 214,
+    "total_url_instances": 214
+  },
+  "categories": {
+    "3.B": {
+      "link_count": 10,
+      "links": [
+        {
+          "text": "Amplitude",
+          "url": "https://analytics.amplitude.com/morressier/workspace"
+        },
+        {
+          "text": "Analytics",
+          "url": "https://analytics.google.com/analytics/web"
+        },
+        {
+          "text": "Datawrapper",
+          "url": "https://datawrapper.de"
+        },
+        {
+          "text": "Dimple JS",
+          "url": "http://dimplejs.org"
+        },
+        {
+          "text": "Ngram Analyzer",
+          "url": "http://guidetodatamining.com/ngramAnalyzer"
+        },
+        {
+          "text": "Online Graph Maker · Plotly Chart Studio",
+          "url": "https://chart-studio.plotly.com/create"
+        },
+        {
+          "text": "RAW Graphs",
+          "url": "http://app.rawgraphs.io"
+        },
+        {
+          "text": "SankeyMATIC",
+          "url": "http://sankeymatic.com/build"
+        },
+        {
+          "text": "KardSort",
+          "url": "https://dashboard.kardsort.com"
+        },
+        {
+          "text": "Mockaroo",
+          "url": "https://www.mockaroo.com/datasets/143643"
+        }
+      ]
+    },
+    "2.D": {
+      "link_count": 43,
+      "links": [
+        {
+          "text": "Apify: Web Scraping and Data Extraction platform",
+          "url": "https://apify.com"
+        },
+        {
+          "text": "Gephi | Open Graph Viz Platform",
+          "url": "https://gephi.github.io"
+        },
+        {
+          "text": "JSON Minify and Compress",
+          "url": "http://www.cleancss.com/json-minify"
+        },
+        {
+          "text": "The Data Visualisation Catalogue",
+          "url": "https://datavizcatalogue.com/index.html"
+        },
+        {
+          "text": "Unicode Date formats »\n    UTS5",
+          "url": "https://www.unicode.org/reports/tr35/tr35-31/tr35-dates.html"
+        },
+        {
+          "text": "Screen Sizes | Viewport Sizes and Pixel Densities for Popular Devices",
+          "url": "https://screensiz.es"
+        },
+        {
+          "text": "Modulator",
+          "url": "https://hihayk.github.io/modulator"
+        },
+        {
+          "text": "Professional Development Framework (v1.1)\n    | Trello",
+          "url": "https://trello.com/b/DhxG8ozo/professional-development-framework-v11"
+        },
+        {
+          "text": "Digital Psychology",
+          "url": "https://digitalpsychology.io"
+        },
+        {
+          "text": "Usability resources",
+          "url": "https://infodesign.com.au/usabilityresources.html"
+        },
+        {
+          "text": "Adaptive Images in HTML",
+          "url": "http://adaptive-images.com"
+        },
+        {
+          "text": "Blisk | A browser for web developers",
+          "url": "https://blisk.io"
+        },
+        {
+          "text": "Can I use... Support tables for HTML5, CSS3, etc",
+          "url": "https://caniuse.com"
+        },
+        {
+          "text": "CSS Stats",
+          "url": "https://cssstats.com"
+        },
+        {
+          "text": "The Web App Manifest",
+          "url": "https://developers.google.com/web/fundamentals/web-app-manifest"
+        },
+        {
+          "text": "Progressive Web App Checklist",
+          "url": "https://developers.google.com/web/progressive-web-apps/checklist"
+        },
+        {
+          "text": "List of User Agent strings",
+          "url": "https://deviceatlas.com/blog/list-of-user-agent-strings"
+        },
+        {
+          "text": "Swagger | API Editor & Validator",
+          "url": "https://editor.swagger.io"
+        },
+        {
+          "text": "Every Layout",
+          "url": "https://every-layout.dev/checkout?ref=producthunt"
+        },
+        {
+          "text": "Lucide",
+          "url": "https://lucide.dev/icons"
+        },
+        {
+          "text": "Object\n    Detection: Live Camera - Material Design",
+          "url": "https://material.io/collections/machine-learning/object-detection-live-camera.html"
+        },
+        {
+          "text": "Turndown Demo",
+          "url": "https://mixmark-io.github.io/turndown"
+        },
+        {
+          "text": "Welcome - SerpApi",
+          "url": "https://serpapi.com/users/welcome"
+        },
+        {
+          "text": "CSS Analytics - Project Wallace",
+          "url": "https://www.projectwallace.com"
+        },
+        {
+          "text": "How Venture Capital Works",
+          "url": "https://hbr.org/1998/11/how-venture-capital-works"
+        },
+        {
+          "text": "Analysis:\n    Option Availability And Loss Aversion in Game Design",
+          "url": "https://www.gamedeveloper.com/design/analysis-option-availability-and-loss-aversion-in-game-design"
+        },
+        {
+          "text": "Content Inventory",
+          "url": "https://www.usability.gov/how-to-and-tools/methods/content-inventory.html"
+        },
+        {
+          "text": "Creating space for design reviews | by\n    Lauren Smith | UX Collective",
+          "url": "https://uxdesign.cc/creating-space-for-design-reviews-bd23a14f307d"
+        },
+        {
+          "text": "Design Review Process Essentials | Smartsheet",
+          "url": "https://www.smartsheet.com/content/design-review-process"
+        },
+        {
+          "text": "Designing Effective User\n    Interfaces",
+          "url": "http://web.cs.wpi.edu/~matt/courses/cs563/talks/smartin/int_design.html"
+        },
+        {
+          "text": "Good User Interface Design Tips",
+          "url": "http://toastytech.com/guis/uirant.html"
+        },
+        {
+          "text": "How to Run a Successful Design Review\n    | UX Booth",
+          "url": "https://www.uxbooth.com/articles/how-to-run-a-successful-design-review"
+        },
+        {
+          "text": "ICON, INDEX and SYMBOL (Long Version)",
+          "url": "https://legacy.cs.indiana.edu/~port/teach/103/sign.symbol.html"
+        },
+        {
+          "text": "If heuristics were\n    written from the customer's point of view?",
+          "url": "http://userexperienceexperience.blogspot.com/2012/07/if-heuristics-were-written-from.html"
+        },
+        {
+          "text": "Implement design reviews the right way",
+          "url": "https://www.designnews.com/implement-design-reviews-right-way"
+        },
+        {
+          "text": "Information\n    Architecture Methods | Usability.gov",
+          "url": "https://www.usability.gov/how-to-and-tools/methods/information-architecture/index.html"
+        },
+        {
+          "text": "Organization Schemes",
+          "url": "https://www.usability.gov/how-to-and-tools/methods/organization-schemes.html"
+        },
+        {
+          "text": "Organization Structures",
+          "url": "https://www.usability.gov/how-to-and-tools/methods/organization-structures.html"
+        },
+        {
+          "text": "Responsive\n    Design: Why and how we ditched the good old select element",
+          "url": "https://medium.com/@mibosc/responsive-design-why-and-how-we-ditched-the-good-old-select-element-bc190d62eff5"
+        },
+        {
+          "text": "The 'Design Review'\n    Between Designers and Developers | by Aurélie Radom | UX Planet",
+          "url": "https://uxplanet.org/the-design-review-between-designers-and-developers-75152868f717"
+        },
+        {
+          "text": "User interface design: 4 rules you need to\n    know",
+          "url": "https://en.99designs.de/blog/web-digital/user-interface-design"
+        },
+        {
+          "text": "What makes a good Progressive Web App?",
+          "url": "https://web.dev/pwa-checklist"
+        },
+        {
+          "text": "Wireframing",
+          "url": "https://www.usability.gov/how-to-and-tools/methods/wireframing.html"
+        }
+      ]
+    },
+    "3.C": {
+      "link_count": 19,
+      "links": [
+        {
+          "text": "JSON Formatter & Validator",
+          "url": "https://jsonformatter.curiousconcept.com"
+        },
+        {
+          "text": "Typeform",
+          "url": "https://admin.typeform.com/accounts/01DRE51W7S5HPMAT91QZ232MQA/workspaces/QcFxs2"
+        },
+        {
+          "text": "Relate - The open platform to create for the web",
+          "url": "https://relate.app"
+        },
+        {
+          "text": "Helio - Test prototypes, screens, concepts, and design ideas. Learn from real people in\n    minutes",
+          "url": "https://helio.app"
+        },
+        {
+          "text": "Optimal Workshop | Information architecture validation software",
+          "url": "https://www.optimalworkshop.com/treejack"
+        },
+        {
+          "text": "Native Form Elements",
+          "url": "http://nativeformelements.com"
+        },
+        {
+          "text": "8 Reasons Users Don't Fill\n    Out Sign Up Forms",
+          "url": "https://uxmovement.com/forms/8-reasons-users-arent-filling-out-your-sign-up-form"
+        },
+        {
+          "text": "An Excellent\n    Beginner's Guide to Information Architecture",
+          "url": "https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture"
+        },
+        {
+          "text": "How To Design Outstanding Feedback\n    Loops",
+          "url": "https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops"
+        },
+        {
+          "text": "How to run an efficient remote design\n    critique |...",
+          "url": "https://www.invisionapp.com/inside-design/remote-design-critique"
+        },
+        {
+          "text": "How To\n    Transform The Minds Of Clients",
+          "url": "https://www.smashingmagazine.com/2011/12/effective-user-research-transforming-minds-of-clients"
+        },
+        {
+          "text": "Information Scent: How Users Decide Where to Go Next",
+          "url": "https://www.nngroup.com/articles/information-scent"
+        },
+        {
+          "text": "lists\n    - Unambiguous way to display timezone information in a compact manner - User Experience Stack Exchange",
+          "url": "https://ux.stackexchange.com/questions/525/unambiguous-way-to-display-timezone-information-in-a-compact-manner"
+        },
+        {
+          "text": "Platforms vs Aggregators -\n    Stratechery by Ben Thompson",
+          "url": "https://stratechery.com/concept/aggregation-theory/platforms-vs-aggregators"
+        },
+        {
+          "text": "Shopify and Platforms",
+          "url": "https://drpodcastingsolutions.com"
+        },
+        {
+          "text": "Struggle\n    to give verbal feedback during Design Cr...",
+          "url": "https://uxplanet.org/struggle-to-give-verbal-feedback-during-design-critiques-try-silent-feedback-instead-cb852f339eb"
+        },
+        {
+          "text": "The Art of Guerrilla Usability\n    Testing",
+          "url": "https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing"
+        },
+        {
+          "text": "UX Maturity:\n    The Reality of Performance",
+          "url": "https://medium.com/@simon_norris/ux-maturity-the-reality-of-performance-547303b39efd"
+        },
+        {
+          "text": "Website Information\n    Architecture: How to Optimize for UX",
+          "url": "https://cxl.com/blog/website-information-architecture-optimal-user-experience"
+        }
+      ]
+    },
+    "2.C": {
+      "link_count": 4,
+      "links": [
+        {
+          "text": "The One Generator",
+          "url": "https://theonegenerator.com"
+        },
+        {
+          "text": "A Complete Guide To Flexbox | CSS-Tricks",
+          "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox"
+        },
+        {
+          "text": "Transition.css - easy transitions with clip-path",
+          "url": "https://www.transition.style"
+        },
+        {
+          "text": "DIY Priority+ Navigation",
+          "url": "https://css-tricks.com/diy-priority-plus-nav"
+        }
+      ]
+    },
+    "2.A.3": {
+      "link_count": 18,
+      "links": [
+        {
+          "text": "Tunnels\n    · Cloudflare Zero Trust docs",
+          "url": "https://developers.cloudflare.com/cloudflare-one/faq/cloudflare-tunnels-faq"
+        },
+        {
+          "text": "Agile Principles and 18F Practices",
+          "url": "https://agile.18f.gov"
+        },
+        {
+          "text": "DesignOps 101 | What is Design Operations? | frog, part of\n    Capgemini Invent",
+          "url": "https://www.frog.co/designmind/designops101"
+        },
+        {
+          "text": "principles.design",
+          "url": "https://principles.design/examples"
+        },
+        {
+          "text": "MDN Web Docs",
+          "url": "https://developer.mozilla.org/en-US"
+        },
+        {
+          "text": "CSS",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        },
+        {
+          "text": "Basic\n    writing and formatting syntax - GitHub Docs",
+          "url": "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"
+        },
+        {
+          "text": "readme.so",
+          "url": "https://readme.so"
+        },
+        {
+          "text": "Introduction,\n    Technical Explanation | Remix",
+          "url": "https://remix.run/docs/en/main/discussion/introduction"
+        },
+        {
+          "text": "Design Tokens Generator - For Web Developers and Designers",
+          "url": "https://www.design-tokens.dev"
+        },
+        {
+          "text": "Sitemap Generator. Create XML Sitemaps Online",
+          "url": "https://www.mysitemapgenerator.com"
+        },
+        {
+          "text": "Common Design Principles for a\n    Progressive Web App",
+          "url": "https://gotechark.com/blog/common-design-principles-for-a-progressive-web-app"
+        },
+        {
+          "text": "Design\n    Principles: Visual Perception And The Principles Of Gestalt",
+          "url": "https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt"
+        },
+        {
+          "text": "Design tokens with Figma",
+          "url": "https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f"
+        },
+        {
+          "text": "First Principles of Interaction Design (Revised &\n    Expanded)",
+          "url": "https://asktog.com/atc/principles-of-interaction-design"
+        },
+        {
+          "text": "Gestalt Principles and the Psychology of\n    Design",
+          "url": "https://www.sitepoint.com/gestalt-principles-psychology-design"
+        },
+        {
+          "text": "Managing Design Tokens Using Storybook",
+          "url": "https://dev.to/psqrrl/managing-design-tokens-using-storybook-5975"
+        },
+        {
+          "text": "Principles",
+          "url": "http://www.tersiiska.com/design/principles"
+        }
+      ]
+    },
+    "2.A.2": {
+      "link_count": 28,
+      "links": [
+        {
+          "text": "The Component Gallery - UX Design Patterns",
+          "url": "https://component.gallery"
+        },
+        {
+          "text": "UI-Patterns.com",
+          "url": "https://ui-patterns.com"
+        },
+        {
+          "text": "Common Ground",
+          "url": "https://www.mit.ed~jtidwell/interaction_patterns.html"
+        },
+        {
+          "text": "Aceternity UI Library",
+          "url": "https://ui.aceternity.com"
+        },
+        {
+          "text": "SHADCN/UI Library",
+          "url": "https://ui.shadcn.com"
+        },
+        {
+          "text": "Pattern Lab",
+          "url": "https://patternlab.io"
+        },
+        {
+          "text": "Cerberus Email Patterns",
+          "url": "http://tedgoas.github.io/Cerberus"
+        },
+        {
+          "text": "Motion - A modern animation library for JavaScript and React",
+          "url": "https://motion.dev"
+        },
+        {
+          "text": "TailwindFlex: Components + Samples",
+          "url": "https://tailwindflex.com"
+        },
+        {
+          "text": "Tailwind CSS Component Playground - Tailwind UI",
+          "url": "https://tailwindui.com/components/preview"
+        },
+        {
+          "text": "Tailwind CSS Modals | Interactive Popup & Dialog Components",
+          "url": "https://wpdean.com/tuikit/modals.html"
+        },
+        {
+          "text": "Mochi",
+          "url": "https://app.mochi.cards"
+        },
+        {
+          "text": "Navigation UX: Pattern Types and Tips to Enhance User Experien",
+          "url": "https://userpilot.com/blog/navigation-ux"
+        },
+        {
+          "text": "Build it in Figma: Create a Design System V: Documentation -\n    YouTube",
+          "url": "https://www.youtube.com/watch?v=Yp_qfB1FA0Y"
+        },
+        {
+          "text": "Complex Navigation Patterns\n    for Responsive Design",
+          "url": "https://bradfrost.com/blog/post/complex-navigation-patterns-for-responsive-design"
+        },
+        {
+          "text": "Design Patterns: You Already Know How\n    To Use It",
+          "url": "https://www.smashingmagazine.com/2012/09/you-already-know-how-to-use-it"
+        },
+        {
+          "text": "Design Reviews: Going Beyond the Surface - Library -\n    Google Design",
+          "url": "https://design.google/library/going-beyond-the-surface"
+        },
+        {
+          "text": "Extending Atomic Design",
+          "url": "https://bradfrost.com/blog/post/extending-atomic-design"
+        },
+        {
+          "text": "Figma\n    & design thinking: Building a design system for an existing product | by Tammy Taabassum | Sep, 2020 | UX\n    Collective",
+          "url": "https://uxdesign.cc/figma-design-thinking-building-a-design-system-for-an-existing-product-388bfdeb844b"
+        },
+        {
+          "text": "Filtering\n    stats: What are some good patterns to follow for filtering a time/date range?",
+          "url": "https://ux.stackexchange.com/questions/13939/filtering-stats-what-are-some-good-patterns-to-follow-for-filtering-a-time-date"
+        },
+        {
+          "text": "Good Call-To-Action Buttons",
+          "url": "https://www.uxbooth.com/articles/good-call-to-action-buttons"
+        },
+        {
+          "text": "How to Make Sure Users Don't\n    Accidentally Delete",
+          "url": "https://uxmovement.com/buttons/how-to-make-sure-users-dont-accidentally-delete"
+        },
+        {
+          "text": "Introducing design systems",
+          "url": "https://www.designbetter.co/design-systems-handbook/introducing-design-systems"
+        },
+        {
+          "text": "Managing Your Design System in Figma",
+          "url": "https://www.headway.io/blog/managing-your-design-system-in-figma"
+        },
+        {
+          "text": "Nine patterns among great UX\n    teams",
+          "url": "https://medium.com/@cameronmoll/nine-patterns-among-great-ux-teams-3cc37252b59a"
+        },
+        {
+          "text": "Responsive Navigation Patterns",
+          "url": "https://bradfrost.com/blog/post/responsive-nav-patterns"
+        },
+        {
+          "text": "Revisiting the Priority+ Pattern",
+          "url": "https://bradfrost.com/blog/post/revisiting-the-priority-pattern"
+        },
+        {
+          "text": "The Priority+ Navigation Pattern",
+          "url": "https://css-tricks.com/the-priority-navigation-pattern"
+        }
+      ]
+    },
+    "2.B": {
+      "link_count": 24,
+      "links": [
+        {
+          "text": "Automator for Figma",
+          "url": "https://automator.design"
+        },
+        {
+          "text": "Balsamiq",
+          "url": "https://balsamiq.cloud/s9zzjxi/pvndnpd/r200F"
+        },
+        {
+          "text": "Framer - Prototype Interaction and Animation",
+          "url": "http://framerjs.com"
+        },
+        {
+          "text": "Modulz",
+          "url": "https://www.modulz.app"
+        },
+        {
+          "text": "Sketch.systems",
+          "url": "https://sketch.systems"
+        },
+        {
+          "text": "Abstract",
+          "url": "https://www.goabstract.com"
+        },
+        {
+          "text": "Anima",
+          "url": "https://www.animaapp.com"
+        },
+        {
+          "text": "Chromatic: Storybook deployment, review, and test",
+          "url": "https://www.chromatic.com"
+        },
+        {
+          "text": "Fractal",
+          "url": "https://fractal.build"
+        },
+        {
+          "text": "Zeplin",
+          "url": "https://zeplin.io"
+        },
+        {
+          "text": "ZeHeight",
+          "url": "https://zeroheight.com"
+        },
+        {
+          "text": "loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator",
+          "url": "https://loading.io"
+        },
+        {
+          "text": "Weavely | Design & Publish Forms in Figma",
+          "url": "https://wwweavely.ai"
+        },
+        {
+          "text": "Render Dashboard",
+          "url": "https://dashboard.render.com"
+        },
+        {
+          "text": "The Tailwind Cheat Sheet",
+          "url": "https://flaviocopes.com/tailwind-cheat-sheet"
+        },
+        {
+          "text": "GitHub Repositories",
+          "url": "https://github.com/renderghost?tab=repositories"
+        },
+        {
+          "text": "GitHub Profile",
+          "url": "https://github.com/renderghost"
+        },
+        {
+          "text": "Lucide",
+          "url": "https://lucide.dev/icons/figma"
+        },
+        {
+          "text": "Tailbone - TailwindCSS UX Skeleton Generator",
+          "url": "https://mkfizi.dev/tailbone"
+        },
+        {
+          "text": "Strapi - Open source Node.js Headless CMS 🚀",
+          "url": "https://strapi.io"
+        },
+        {
+          "text": "Tailwind Generator",
+          "url": "https://tailwind-generator.com"
+        },
+        {
+          "text": "Tailwind CSS Cheatsheet",
+          "url": "https://tailwindcss.504b.cc"
+        },
+        {
+          "text": "Vercel",
+          "url": "https://vercel.com/renderghost-projects"
+        },
+        {
+          "text": "WebFlow",
+          "url": "https://webflow.com/dashboard?workspace=job-finding"
+        }
+      ]
+    },
+    "2.A.1": {
+      "link_count": 37,
+      "links": [
+        {
+          "text": "CSS Shadow Palette Generator",
+          "url": "https://www.joshwcomeau.com/shadow-palette"
+        },
+        {
+          "text": "8-Point Grid",
+          "url": "https://spec.fm/specifics/8-pt-grid"
+        },
+        {
+          "text": "A CSS Font Stack",
+          "url": "http://cssfontstack.com"
+        },
+        {
+          "text": "Color Palette Generator | ColorDesigner",
+          "url": "https://colordesigner.io"
+        },
+        {
+          "text": "Color Space - Palette and Gradient Tool",
+          "url": "https://mycolor.space"
+        },
+        {
+          "text": "Color Tool - Material Design",
+          "url": "https://material.io/resources/color"
+        },
+        {
+          "text": "Converting Colors - Conversion, Gradients, Harmonies and More",
+          "url": "https://convertingcolors.com"
+        },
+        {
+          "text": "CSS Color Extractor",
+          "url": "http://www.css-color-extractor.com"
+        },
+        {
+          "text": "Data Viz Color Palette Generator (for Charts &\n    Dashboards)",
+          "url": "https://learnui.design/tools/data-color-picker.html"
+        },
+        {
+          "text": "FA",
+          "url": "https://fontawesome.com/search"
+        },
+        {
+          "text": "Fontawesome Cheatsheet",
+          "url": "https://fontawesome.com/cheatsheet/pro"
+        },
+        {
+          "text": "Golden Ratio Typography Calculator",
+          "url": "https://grtcalculator.com"
+        },
+        {
+          "text": "Google Fonts",
+          "url": "https://fonts.google.com"
+        },
+        {
+          "text": "Gradient Generator | ColorDesigner",
+          "url": "https://colordesigner.io/gradient-generator"
+        },
+        {
+          "text": "Grid lover for Type Scales",
+          "url": "https://www.gridlover.net/try"
+        },
+        {
+          "text": "Material Color Palette Generator",
+          "url": "https://materialpalettes.com"
+        },
+        {
+          "text": "Modular Type Scale",
+          "url": "http://www.modularscale.com"
+        },
+        {
+          "text": "Shadowlord - Tints and Shades Generator Tool",
+          "url": "https://noeldelgado.github.io/shadowlord"
+        },
+        {
+          "text": "Systematic Color Palette Generator",
+          "url": "https://hypejunction.github.io/color-wizard"
+        },
+        {
+          "text": "The Science of Color & Design - Material Design",
+          "url": "https://material.io/blog/science-of-color-design"
+        },
+        {
+          "text": "tts.dev",
+          "url": "https://www.tints.dev/brand/2522FC"
+        },
+        {
+          "text": "Type Scale",
+          "url": "http://type-scale.c"
+        },
+        {
+          "text": "The Grid System:\n    Importance of a Solid UX/UI Layout | Designlab",
+          "url": "https://designlab.com/blog/grid-systems-history-ux-ui-layout"
+        },
+        {
+          "text": "Everything\n    you should know about 8 point grid system in UX design | by Ashphiar Raihan Rumman | UX Planet",
+          "url": "https://uxplanet.org/everything-you-should-know-about-8-point-grid-system-in-ux-design-b69cb945b18d"
+        },
+        {
+          "text": "Colormind - the AI powered color palette generator",
+          "url": "http://colormind.io"
+        },
+        {
+          "text": "W3C Color Names?",
+          "url": "https://w.computerhope.com/jargon/w/w3c-color-names.htm"
+        },
+        {
+          "text": "Site Palette - Get the essential colours from a website",
+          "url": "http://palette.site"
+        },
+        {
+          "text": "CSS Grid Generator",
+          "url": "https://cssgrid-generator.netlify.app"
+        },
+        {
+          "text": "Palette Generator | Tailtools: Tailwind CSS Tools",
+          "url": "https://tailtools.app/palette-generator"
+        },
+        {
+          "text": "Tailwind Ink | AI color palette generator for Tailwindcss",
+          "url": "https://tailwind.ink"
+        },
+        {
+          "text": "Tailwind CSS Color Generator",
+          "url": "https://uicolors.app/create"
+        },
+        {
+          "text": "Tailwind Grid Generator",
+          "url": "https://www.tailwindgen.com"
+        },
+        {
+          "text": "Color Finder",
+          "url": "https://backsideofdawn.github.io/csscolorfinder"
+        },
+        {
+          "text": "Free SVG generators, color tools & web design tools",
+          "url": "https://fffuel.co"
+        },
+        {
+          "text": "HEX <> P3 | Quickly convert your HEX colors to Dplay P3 color space.",
+          "url": "https://hexp3.com"
+        },
+        {
+          "text": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts\n    patcher",
+          "url": "https://www.nerdfonts.com/font-dowoads"
+        },
+        {
+          "text": "The Infinite Grid",
+          "url": "https://alistapart.com/article/the-infinite-grid"
+        }
+      ]
+    },
+    "1.D": {
+      "link_count": 2,
+      "links": [
+        {
+          "text": "User Onboarding | A frequently-updated compendium of\n    web app first-run experiences",
+          "url": "https://www.useronboard.com/user-onboarding-teardowns"
+        },
+        {
+          "text": "The Language Of Gamification",
+          "url": "https://www.gamified.uk/2014/09/19/language-gamification-short-glossary"
+        }
+      ]
+    },
+    "3.A": {
+      "link_count": 13,
+      "links": [
+        {
+          "text": "Color contrast checker analyzer tool | Adobe Color",
+          "url": "https://color.adobe.com/create/color-contrast-analyzer"
+        },
+        {
+          "text": "Colour\n    Contrast Tool - Grid | EightShapes",
+          "url": "https://contrast-grid.eightshapes.com?version=1.1.0&foreground-colors=#FFFFFF, White\r\n#F2F2F2\r\n#DDDDDD\r\n#CCCCCC\r\n#888888\r\n#404040, Charcoal\r\n#000000, Black\r\n#2F78C5, Effective on Extremes\r\n#0F60B6, Effective on Lights\r\n#398EEA, Ineffective\r\n&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp"
+        },
+        {
+          "text": "Accessible Colors | WCAG 2.0 AA and AAA color contrast checker",
+          "url": "https://accessible-colors.com"
+        },
+        {
+          "text": "Color Contrast Checker - Coolors",
+          "url": "https://coolors.co/contrast-checker/112a46-acc8e5"
+        },
+        {
+          "text": "Color-Blindness Simulators",
+          "url": "http://lpetrich.org/Science/ColorBlindnessSim/ColorBlindnessSim.html"
+        },
+        {
+          "text": "Colour Contrast Checker",
+          "url": "https://colourcontrast.cc"
+        },
+        {
+          "text": "WCAG Accessibility Guidelines",
+          "url": "https://www.w3.org/WAI/WCAG21/quickref"
+        },
+        {
+          "text": "Web Content Accessibility Guidelines",
+          "url": "https://www.w3.org/TR/WCAG21"
+        },
+        {
+          "text": "ARIA Authoring Practices Guide | APG | WAI | W3C",
+          "url": "https://www.w3.org/WAI/ARIA/apg"
+        },
+        {
+          "text": "Accessible Web | WCAG & ADA",
+          "url": "https://accessibleweb.com"
+        },
+        {
+          "text": "Accessibility r teams - Digital.gov",
+          "url": "https://digital.gov/guides/accessibility-for-teams"
+        },
+        {
+          "text": "Cards",
+          "url": "https://inclusive-components.design/cards"
+        },
+        {
+          "text": "CSS Variables and Theming\n    | Plugin API",
+          "url": "https://www.figma.com/plugin-docs/css-variables"
+        }
+      ]
+    },
+    "1.B": {
+      "link_count": 3,
+      "links": [
+        {
+          "text": "Progression: Helping teams to grow, together",
+          "url": "https://progressionapp.com"
+        },
+        {
+          "text": "Effectively Planning UX\n    Design Projects",
+          "url": "https://www.smashingmagazine.com/2013/01/effectively-planning-ux-design-projects"
+        },
+        {
+          "text": "The importance of\n    Gestalt laws for UX design planning",
+          "url": "https://www.thedrum.com/opinion/2013/11/29/importance-gestalt-laws-ux-design-planning"
+        }
+      ]
+    },
+    "1.A": {
+      "link_count": 8,
+      "links": [
+        {
+          "text": "DesignOps at Elen: How Our Business\n    Operates",
+          "url": "https://www.eleken.co/blog-posts/how-design-operations-work-at-eleken"
+        },
+        {
+          "text": "Design Ops 101 · DesignOps Guide &\n    Glossary (DOGG)",
+          "url": "https://coda.io/@designops-guide-and-glossary/dogg/design-ops-101-8"
+        },
+        {
+          "text": "Resources - DesignOps LOL",
+          "url": "https://www.designops.lol/resources"
+        },
+        {
+          "text": "A Go-To Article for the Best DesignOps Resources",
+          "url": "https://www.uxpin.com/studio/blog/designops-rescources"
+        },
+        {
+          "text": "A mini DesignOpresource list. Unlock\n    the power of DesignOps with this… | by Victor | Medium",
+          "url": "https://medium.com/@vicdesign/a-mini-designops-resource-list-8a95c7e3bb15"
+        },
+        {
+          "text": "DesignOps: Study Guide - NN/g",
+          "url": "https://www.nngroup.c/articles/design-ops-study-guide"
+        },
+        {
+          "text": "3 Steps for Getting Started with DesignOps",
+          "url": "https://www.nngroup.com/articles/start-designops"
+        },
+        {
+          "text": "Managing UX Teams Articles, Videos, Reports, Training\n    Courses, and Online Seminars by NN/g",
+          "url": "https://www.nngroup.com/topic/ux-management"
+        }
+      ]
+    },
+    "1.C": {
+      "link_count": 2,
+      "links": [
+        {
+          "text": "Fitts's law - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fitts%27s_law"
+        },
+        {
+          "text": "Laws of UX",
+          "url": "https://lawsofux.com"
+        }
+      ]
+    },
+    "3.D": {
+      "link_count": 3,
+      "links": [
+        {
+          "text": "An Answer to the Pains of\n    Integrating Agile and UX",
+          "url": "https://boxesandarrows.com/an-answer-to-the-pains-of-integrating-agile-and-ux"
+        },
+        {
+          "text": "Lean UX - Getting\n    Out Of The Deliverables Business",
+          "url": "https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business"
+        },
+        {
+          "text": "When Agile and User\n    Experience Click",
+          "url": "https://www.uxmatters.com/mt/archives/2013/01/when-agile-and-user-experience-click.php"
+        }
+      ]
+    }
+  },
+  "skip_breakdown": {
+    "no_category_match": 116,
+    "invalid_url": 3,
+    "duplicate_of": 3
+  },
+  "skip_details": {
+    "no_category_match": [
+      {
+        "id": "6e7dc0b9-0b73-447c-8751-2bcef5f95979",
+        "url": "https://codepen.io/awoodall/full/XbpMbo",
+        "text": "Email Subject Test",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "a672f4bc-89bc-4823-b747-4b5120ce34dd",
+        "url": "https://hemingwayapp.com",
+        "text": "Hemingway Editor",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "6c9f19a9-5339-4a52-ba28-7a8e28941fb4",
+        "url": "https://instatext.io/editor",
+        "text": "InstaText | Write like a native speaker",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "b37eb01c-5616-414e-a38d-de4a93998d17",
+        "url": "https://languagetool.org",
+        "text": "LanguageTool - Online Grammar, Style & Spell Checker",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "6eecfa84-8687-4d8a-a3e3-fbbbf1b87dde",
+        "url": "https://www.random.org",
+        "text": "Random",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "e7fed9ba-d657-4fff-ad97-7be19534abf5",
+        "url": "https://www.randomlists.com",
+        "text": "Random Lists",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "dda9b22a-5e6a-44bd-af79-4114b31539d5",
+        "url": "https://www.rhymezone.com",
+        "text": "RhymeZone",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "48933cf4-f00e-4a9d-b334-4ef2d385839e",
+        "url": "https://www.sudowrite.com/app",
+        "text": "Sudowrite",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "61c78455-0149-4719-8e50-ce36539c3279",
+        "url": "https://www.thesaurus.com",
+        "text": "Thesaurus",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "d47adbfc-bfac-480f-be88-903c53889f92",
+        "url": "https://www.jsoneditoronline.org",
+        "text": "JSON Editor",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "3aa603e1-4791-4248-88bd-986090db419f",
+        "url": "http://konklone.io/json",
+        "text": "JSON to CSV",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "93142a11-7a29-47d3-a910-061d524faad0",
+        "url": "https://sorta.app",
+        "text": "Sorta - Rank stuff",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "b257304b-bccb-49d1-a8ce-99b19b089ffe",
+        "url": "https://tableconvert.com",
+        "text": "Table Convert Online",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "adbca405-ad45-4a98-ac5c-1296dcdb3434",
+        "url": "https://www.online-utility.org/text/analyzer.jsp",
+        "text": "Text Analyzer",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "14c4ef16-c626-4094-bfc4-a0ce2a69010d",
+        "url": "http://www.worldometers.info",
+        "text": "Worldometers - real time world statistics",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "794497a0-6ec6-4fe3-91a6-3c11a003b352",
+        "url": "https://boords.com",
+        "text": "Boords | Storyboard Creator",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "8728243f-e574-45c3-8419-671e92a3e4a7",
+        "url": "https://www.thinkmoto.de/gestures",
+        "text": "IxD Gesture Icons",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "4c9c0f36-71b6-41af-9296-ab83faf2b6f6",
+        "url": "https://browserframe.com",
+        "text": "Browser Frame for Screenshots",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "c6a967b7-516b-4ae7-845e-9f66fd9f1b48",
+        "url": "https://gamestorming.com",
+        "text": "Gamestorming | Co-creation tools",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "ae56ec57-c324-4d4a-a9f0-4d615dd9e296",
+        "url": "https://52weeksofux.com",
+        "text": "52 Weeks of UX",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "c2c2f284-0bbf-46c1-90fd-0c731140dff3",
+        "url": "http://behaviormodel.org",
+        "text": "BJ Fogg Behavior Model",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "68a52ac5-8b44-49ee-8505-d97ec52ed57c",
+        "url": "https://design-can.com",
+        "text": "Design Can",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "1968e325-b24c-4dd6-af27-a0e767be55e4",
+        "url": "https://empathyprompts.net",
+        "text": "Empathy Prompts",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "a5558ebb-6248-4d62-9744-92b1b5cb7393",
+        "url": "https://pair.withgoogle.com",
+        "text": "People + AI Guidebook | Google",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "4fe42304-b067-47a2-b632-8d1f964ce61c",
+        "url": "https://www.gamified.uk/user-types",
+        "text": "A Player Type Framework For Gamification Design",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "de4aedc0-09aa-45c1-b91d-24ac5ee0fa68",
+        "url": "https://goodux.appcues.com",
+        "text": "GoodUX",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "496cc100-328f-4854-a611-a3a8e54baa1c",
+        "url": "https://www.luma-institute.com/about-luma/luma-system-explore-methods",
+        "text": "Human-centered design framework | LUMA\n    System",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "8e61df66-50f9-4ac0-8f3a-a275ef137273",
+        "url": "https://www.uxtweak.com",
+        "text": "UX Tweak",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "fc091772-5c2e-44c7-baab-74161e913049",
+        "url": "https://www.wordclouds.com",
+        "text": "Word Cloud",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "c943c862-6844-43aa-9e42-fb72d0800854",
+        "url": "https://answerthepublic.com",
+        "text": "AnswerThePublic | Seah listening tool for market, customer & content research",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "99b20c4c-20f0-4f4d-aee4-50570053e6e5",
+        "url": "https://mermaid.js.org",
+        "text": "Mermaid Diagramming",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "01df424f-f954-4709-9196-65f0d649602c",
+        "url": "https://www.omnicalculator.com/other/pixels-to-print-size",
+        "text": "Pixels to Print SizCalculator",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "a4be4180-327c-424d-91fc-918f0ff55930",
+        "url": "https://huggingface.co",
+        "text": "Hugging Face - The AI community building the future.",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "3a54b926-509f-4c86-a783-cb9cf3394d73",
+        "url": "https://letsenhance.io/boost",
+        "text": "My images | LetsEnhance.io - Image enhancement powered by AI",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "7cb73af4-bbc8-4887-8cb8-e1fba7ee6c3e",
+        "url": "https://theresanaiforthat.com",
+        "text": "There's An AI For That (TAAFT) - AI Aregator",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "1fecf9f0-f3bd-4ea3-a786-5b6ef72d8ffe",
+        "url": "http://basehold.it",
+        "text": "Basehold",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "b70ae6d9-9bf1-4c08-91d2-6a1c76572ed2",
+        "url": "http://designmodo.com/startup",
+        "text": "Startup Design Framework | Designmodo",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "07b287c2-e4f4-49ef-b028-9c807a28e607",
+        "url": "http://keyes.ie/things/baseliner",
+        "text": "Baseliner",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "287049ea-6117-4efb-839b-215746f0f153",
+        "url": "http://who.is",
+        "text": "Who.is",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "614875d3-28c8-450f-99cf-a84fed22f4a4",
+        "url": "https://clickclickclick.click",
+        "text": "Click 👈 👆 ↗️ 〰️",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "bacb712c-f977-4ce8-ac30-5e4351c3fa78",
+        "url": "https://coolify.io",
+        "text": "Coolify",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "d83ca045-6505-44ee-8690-ad82dab651d9",
+        "url": "https://frontmatter.codes",
+        "text": "Headless CMS right in your code editor | Front Matter",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "74613712-e825-4f7e-a3fc-ea204275c38e",
+        "url": "https://meyerweb.com/eric/tools/dencoder",
+        "text": "URL Decoder/Encoder",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "a445ba0b-aafa-47de-9552-06bfd1a62670",
+        "url": "https://sizzy.co",
+        "text": "Sizzy",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "4a2d42c7-3a85-4cc3-9ff2-aec6825b17a4",
+        "url": "https://voideditor.com",
+        "text": "Void",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "63791506-d9f2-4947-ad15-516023c39b90",
+        "url": "https://www.composerize.com",
+        "text": "Composerize",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "585f7536-0a70-4200-ae1d-9ac90af959c3",
+        "url": "https://www.rgbtohex.net",
+        "text": "RGB to HEX",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "4788462a-4c43-435d-843b-297f8af23b41",
+        "url": "https://worditout.com/word-cloud/create",
+        "text": "Create word clouds - WordItOut",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "9897d838-127c-4245-bc32-a35575a67edb",
+        "url": "https://keywordsheeter.com",
+        "text": "Keyword Sheeter - Free Keyword Ideas Tool",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "2a4de74f-9423-420a-8d08-14cee9d66a0f",
+        "url": "https://maze.toys",
+        "text": "Maze Toys",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "4077a0bf-c34f-40a0-95f1-66bd05818e36",
+        "url": "https://www.mentimeter.com/app/home",
+        "text": "Mentimeter",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "d268cdb7-76fc-45f5-a193-10a245ef83b0",
+        "url": "https://nocodb.com",
+        "text": "NocoDB Cloud",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "d9c1b89f-e6e0-48e8-ba61-34604b21e635",
+        "url": "http://bokardo.com",
+        "text": "Bokardo",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "52848c08-e80c-49b9-8a2a-293d618a5113",
+        "url": "http://worrydream.com",
+        "text": "Bret Victor",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "f946f7a8-5d2c-4638-970f-fc347e2efc61",
+        "url": "https://danielburka.com",
+        "text": "Daniel Burka",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "2c5825ed-1532-4600-9ad7-a1f6ebba32a1",
+        "url": "https://daringfireball.net",
+        "text": "Daring Fireball",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "764ea132-c7c2-4f06-a58a-959a441c3575",
+        "url": "https://tomblomfield.com/post/1743528547367/the-age-of-abundance",
+        "text": "The Age Of Abundance - Tom Blomfield",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "3259c97e-9c92-4e8a-baf8-9920f2669d12",
+        "url": "https://alistapart.com",
+        "text": "A List Apart",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "c6e5f9aa-7056-4582-b289-946ec2f41ebc",
+        "url": "https://boxesandarrows.com",
+        "text": "Boxes & Arrows",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "cf94fe24-cc74-40db-9f20-1766c6e8184a",
+        "url": "https://www.theverge.com",
+        "text": "The Verge",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "0c2b7777-a7fa-4cf0-a441-ebd5a6208c19",
+        "url": "http://www.usabilitycounts.com",
+        "text": "ability Counts",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "70b93d5b-bf06-42cf-98d1-845d557cca72",
+        "url": "https://uxbth.com",
+        "text": "UX Booth",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "4ef0b15d-7998-4438-9039-d1053937d9de",
+        "url": "https://www.smashingmagazine.com/2013/06/13-tenets-user-experience",
+        "text": "13 Tenets Of User\n    Experience",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "220c48cd-28f3-49eb-b1c4-b975117515e8",
+        "url": "https://www.gamified.uk/2015/01/05/neurotransmitters-you-should-know-about-in-gamification",
+        "text": "4 essential\n    Neurotransmitters in gamification",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "e1dde479-8450-4868-acba-68c88c7b594e",
+        "url": "https://lifehacker.com/7-of-the-best-evernote-alternatives-and-why-you-should-1848592934",
+        "text": "7 of the Best\n    Evernote Alternatives (and Why You Should Finally Switch)",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "b2233027-7bc8-4c4b-bd76-6c440e7e4d58",
+        "url": "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda",
+        "text": "7 Rules for Creating\n    Gorgeous UI",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "3253ded6-8304-45cb-bda9-a4e99d784208",
+        "url": "https://www.uxbooth.com/articles/a-lesson-in-gradual-engagement",
+        "text": "A Lesson in Gradual Engagement",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "8b88a3fe-a7cc-4cdc-9429-433743242230",
+        "url": "https://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which",
+        "text": "Absolute vs. Relative\n    Timestamps: When to Use Which",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "f54d5e89-6b4d-44fd-8cbe-6f907fa4c87f",
+        "url": "https://medium.com/habit-of-introspection/affordances-matter-cab064b40b4b",
+        "text": "Affordances matter",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "121b8152-c0b9-4c11-8399-e68f68ea4946",
+        "url": "https://stratechery.com/2015/aggregation-theory",
+        "text": "Aggregation Theory",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "30166c02-1765-4f74-9b34-7cb6c63c454c",
+        "url": "https://stratechery.com/concept/aggregation-theory",
+        "text": "Aggregation Theory - Stratechery by Ben Thompson",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "f6d216dc-964c-42c3-86e0-19b92ee7a42a",
+        "url": "https://webdesign.tutsplus.com/articles/an-introduction-to-hierarchy--webdesign-14947",
+        "text": "An Introduction to\n    Hierarchy",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "eaa34131-5db4-4f05-bfbd-329615262d0b",
+        "url": "https://www.uxmatters.com/mt/archives/2013/01/are-personas-still-relevant-to-ux-strategy.php",
+        "text": "Are Personas\n    Still Relevant to UX Strategy?",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "02a12a40-3bc5-40ad-9b64-6513ba3078ed",
+        "url": "https://uxmovement.com/thinking/are-you-meeting-the-user-experience-hierarchy-of-needs",
+        "text": "Are You Meeting the\n    User Experience Hierarchy of Needs?",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "1cdb02fc-ce85-46db-92d8-e598ca17d73b",
+        "url": "https://uxmovement.com/navigation/avoid-the-pains-of-pagination",
+        "text": "Avoid the Pains of Pagination",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "8cfce018-c27c-47fd-994c-877662aedd8b",
+        "url": "https://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php",
+        "text": "Common Misconceptions\n    About Touch",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "43d44666-f4a4-417d-bc7a-ff3065a200d0",
+        "url": "https://stratechery.com/concepts",
+        "text": "Concepts",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "8545d945-55d4-4f00-b918-381b1f60c421",
+        "url": "https://www.smashingmagazine.com/2013/05/converting-our-stories-into-multi-screen-experiences",
+        "text": "Converting Our\n    Stories Into Multi-Screen Experiences",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "81ae2e97-788c-466e-b32f-34434dece9ea",
+        "url": "https://www.newyorker.com/magazine/2018/09/17/can-mark-zuckerberg-fix-facebook-before-it-breaks-democracy",
+        "text": "courted\n    comparisons to the Roman emperor Augustus",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "87ec95cd-c732-42af-865e-c494846f7cb6",
+        "url": "https://www.uxmatters.com/mt/archives/2014/05/dealing-with-long-field-names-analyzing-users-tasks.php",
+        "text": "Dealing\n    with Long Field Names | Analyzing Users' Tasks",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "48b3348f-97ae-431f-92e8-9ba920b37a86",
+        "url": "https://stratechery.com/2017/defining-aggregators",
+        "text": "Defining Aggregators",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "9056f6c7-869b-4c3f-b08d-324f51bf68f3",
+        "url": "https://www.lukew.com/ff/entry.asp",
+        "text": "Designing for Large Screen Smartphones",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "69615b55-0ab2-418b-99c0-0bf71aad6a1b",
+        "url": "https://www.uxbooth.com/articles/designing-mobile-part-3-visual-design",
+        "text": "Designing for Mobile Part 3: Visual\n    design",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "6352cc20-fdfe-4f7f-8e56-dcb9212b91d0",
+        "url": "https://www.webfx.com/blog/web-design/designing-hyperlinks-tips-and-best-practices",
+        "text": "Designing Hyperlinks: Tips\n    and Best Practices",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "607cf7b4-bd43-4d85-ae24-3f9334c2c3db",
+        "url": "https://boxesandarrows.com/designing-screens-using-cores-and-paths",
+        "text": "Designing Screens Using Cores and\n    Paths",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "902ffdd1-a0dd-46f7-af97-61386276b937",
+        "url": "https://www.webfx.com/blog/web-design/hyperlink-design",
+        "text": "Designing the Perfect Hyperlink - It's Not as Simple\n    as You Think",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "f6868685-7420-46da-95fb-9e4b4c14a3a6",
+        "url": "https://www.smashingmagazine.com/2012/09/fixing-broken-user-experience",
+        "text": "Fixing A Broken User Experience",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "f90c6b19-f6b5-46b1-8967-5159af524ecf",
+        "url": "https://www.gamified.uk/2014/05/07/game-design-process-framework",
+        "text": "GAME: A design process framework",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "a90dccf7-10b5-4413-b27d-51b1e39e002b",
+        "url": "https://www.gamified.uk/2014/07/24/gamification-users-perspective",
+        "text": "Gamification: The users perspective",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "4084f69c-49ae-49aa-8d4f-ed2ce996950d",
+        "url": "https://designstrategy.guide/ux/ux-research-guide",
+        "text": "How to conduct user research: A step-by-step guide",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "718892d3-24ac-4575-99ff-2004ea8930ef",
+        "url": "https://www.gamified.uk/2014/10/08/game-thinking-getting-tools",
+        "text": "How to Use Game Thinking",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "5cb83fc0-2671-45b1-ab72-187da73e8858",
+        "url": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/02/how-to-increase-your-influence-at-work",
+        "text": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2018/02/how-to-increase-your-influence-at-work",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "05e07acc-8775-4325-b266-0a309dc82b21",
+        "url": "https://www.nngroup.com/articles/icon-usability",
+        "text": "Icon Usability",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "79178248-3b7b-4796-8a92-2fbe451c5278",
+        "url": "https://vanseodesign.com/web-design/icon-index-symbol",
+        "text": "Icon, Index, and Symbol - Three Categories of Signs",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "623c1c1b-07aa-4855-9173-788145a33a4b",
+        "url": "https://designstrategy.guide/interviews/investing-in-design-strategy-means-investing-in-greater-confidence",
+        "text": "Investing\n    in design strategy means investing in greater confidence",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "780b3fe5-b7cd-46da-9d23-1c426970ea26",
+        "url": "https://verbivore.com/ipso-facto-every-day-we-speak-and-write-latin",
+        "text": "Ipso facto: Every Day We Speak and Write\n    Latin",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "236932dd-1a82-4d3b-aec1-16efadfc6412",
+        "url": "https://www.nngroup.com/articles/mobile-subnavigation",
+        "text": "Mobile Subnavigation",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "29a52d86-db21-40b0-b8e5-7769a981bcf9",
+        "url": "http://christianheilmann.com/2011/12/28/on-single-page-apps",
+        "text": "On single page apps",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "4b9bc27c-da53-442a-98fd-b3d54f964047",
+        "url": "https://boxesandarrows.com/optimizing-ui-icons-for-faster-recognition",
+        "text": "Optimizing UI icons for faster\n    recognition",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "e209eeb1-fd99-4f2e-90de-13a6031e1d32",
+        "url": "https://www.gamified.uk/2014/08/08/smart-gamification-goal-setting",
+        "text": "S.M.A.R.T Gamification - Goal\n    Setting",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "f0033909-1c33-4422-bd25-fa3c3960943b",
+        "url": "https://www.bloomberg.com/news/articles/2013-01-10/the-dunbar-number-from-the-guru-of-social-networks",
+        "text": "The\n    Dunbar Number, From the Guru of Social Networks",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "1a644291-0a3c-45f7-982b-13b65e118450",
+        "url": "https://www.gamified.uk/2014/04/30/eeee-user-journey-framework",
+        "text": "The EEEE User Journey Framework",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "3446700c-6c98-48c7-848b-031e7329a997",
+        "url": "https://uxmag.com/articles/the-elements-of-player-experience",
+        "text": "The Elements of Player Experience",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "eddcc8d5-0353-42bb-917f-2a584ff85f14",
+        "url": "https://www.gamified.uk/gamification-framework/the-intrinsic-motivation-ramp",
+        "text": "The Intrinsic Motivation\n    RAMP",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "52b117bc-c662-4781-9078-78ba808925f1",
+        "url": "https://medium.com/@lajules/the-online-meeting-facilitator-canvas-map-your-virtual-meeting-on-one-page-make-it-productive-5ce23a2e1e07",
+        "text": "The\n    Online Meeting Facilitator Canvas: Map your Virtual Meeting on One Page & make it productive | by Julia Kolm |\n    Medium",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "d5b47fac-bcea-42d6-aa90-dbba5411f323",
+        "url": "https://www.webfx.com/blog/web-design/proxority-principle",
+        "text": "The Proxority Principle in Web Design",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "2783ba5d-4304-47a6-9b0b-ba7464bf6290",
+        "url": "http://alistapart.com/article/the-role-of-the-web",
+        "text": "The Role of the Web, an Excerpt from Understanding\n    Context",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "e2f92392-70b3-471a-9aa6-3c131df3d17b",
+        "url": "https://medium.com/@pasql/transitional-interfaces-926eb80d64e3",
+        "text": "Transitional Interfaces",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "8dd612a9-0766-4935-9a3e-2ec8b87261b2",
+        "url": "https://medium.com/@slhenty/ui-response-times-acec744f3157",
+        "text": "UI Response Times",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "b6bce067-3fac-4e1c-b89b-d1e7306cfaaa",
+        "url": "http://www.billverplank.com/Lecture",
+        "text": "Untitled Document",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "c1cd647b-d53c-4284-a533-a3d562ee8c68",
+        "url": "https://uxmyths.com",
+        "text": "UX Myths",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "2ddae842-77ce-4847-a234-732de1ee896e",
+        "url": "https://boxesandarrows.com/ux-one-liners",
+        "text": "UX One-liners",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "284af2a3-69c8-492e-a067-6a5154335f74",
+        "url": "https://medium.com/@dealville/whales-synchronize-their-songs-across-oceans-and-theres-sheet-music-to-prove-it-b1667f603844",
+        "text": "Whale\n    Song Explained",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "93e91a13-62f9-4ec1-8c8b-89d1604e9f48",
+        "url": "https://venturebeat.com/2013/01/11/who-owns-your-ux-philosophy",
+        "text": "Who owns your UX philosophy?",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "70bcd019-d9f9-4b59-aeba-88d8e3097f85",
+        "url": "https://archive.uie.com/brainsparks/2013/07/16/why-is-not-enough-overcoming-flaws-of-the-five-whys",
+        "text": "Why Is Not\n    Enough: Overcoming Flaws of the Five Whys",
+        "reason": "no_category_match"
+      },
+      {
+        "id": "ed579c8c-67da-41c0-aee5-b63b12f138b6",
+        "url": "https://stratechery.com/2018/zillow-aggregation-and-integration",
+        "text": "Zillow, Aggregation, and Integration",
+        "reason": "no_category_match"
+      }
+    ],
+    "invalid_url": [
+      {
+        "id": "75fc2bd3-6e45-4cf0-a5f4-8f72bed28ab4",
+        "url": "N/A",
+        "text": "Chooser - Creative Commons",
+        "reason": "invalid_url: Missing scheme or domain: https:/reativecommons.org/chooser/"
+      },
+      {
+        "id": "2765ff4c-5407-4be9-bc54-7615c2e5f712",
+        "url": "N/A",
+        "text": "BaseRow | Free AirTable Alt",
+        "reason": "invalid_url: Missing scheme or domain: https:/aserow.io/"
+      },
+      {
+        "id": "1c1c6f82-7618-46f5-9ba1-5f792adc379b",
+        "url": "N/A",
+        "text": "Notion",
+        "reason": "invalid_url: Unsupported scheme 'htt': htt://www.notion.so/"
+      }
+    ],
+    "duplicate_of": [
+      {
+        "id": "db7add1b-b59c-4713-b023-ec571f27cd7f",
+        "url": "https://www.gamified.uk/user-types",
+        "text": "A Player Type Framework For Gamification Design",
+        "reason": "duplicate_of:4fe42304-b067-47a2-b632-8d1f964ce61c"
+      },
+      {
+        "id": "1dc00abd-8b95-4aba-aff4-4c727bb16cf2",
+        "url": "https://www.lukew.com/ff/entry.asp",
+        "text": "Multi-Device Layout Patterns",
+        "reason": "duplicate_of:9056f6c7-869b-4c3f-b08d-324f51bf68f3"
+      },
+      {
+        "id": "81a7221f-14c2-41fa-88ee-e7e1de1f85a3",
+        "url": "https://www.lukew.com/ff/entry.asp",
+        "text": "Visible Narratives: Understanding Visual Organization",
+        "reason": "duplicate_of:9056f6c7-869b-4c3f-b08d-324f51bf68f3"
+      }
+    ]
+  },
+  "duplicates_info": {
+    "duplicate_url_groups": 2,
+    "total_duplicate_links": 3,
+    "duplicate_details": [
+      {
+        "href_norm": "https://www.gamified.uk/user-types",
+        "canonical_id": "4fe42304-b067-47a2-b632-8d1f964ce61c",
+        "duplicate_count": "2",
+        "all_ids": "4fe42304-b067-47a2-b632-8d1f964ce61c,db7add1b-b59c-4713-b023-ec571f27cd7f"
+      },
+      {
+        "href_norm": "https://www.lukew.com/ff/entry.asp",
+        "canonical_id": "9056f6c7-869b-4c3f-b08d-324f51bf68f3",
+        "duplicate_count": "3",
+        "all_ids": "9056f6c7-869b-4c3f-b08d-324f51bf68f3,1dc00abd-8b95-4aba-aff4-4c727bb16cf2,81a7221f-14c2-41fa-88ee-e7e1de1f85a3"
+      }
+    ]
+  },
+  "acceptance_criteria": {
+    "all_links_processed": true,
+    "all_links_have_action": true,
+    "added_links_have_categories": true,
+    "no_duplicate_urls": true,
+    "backups_exist": true,
+    "valid_categories_only": true
+  },
+  "overall_pass": true
+}

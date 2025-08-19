@@ -1,0 +1,96 @@
+{
+  "validation_passed": true,
+  "total_headings_found": 14,
+  "total_expected_headings": 14,
+  "total_categories_with_links": 14,
+  "total_links_to_add": 214,
+  "unique_links": 214,
+  "categories": {
+    "1.A": {
+      "heading_found": true,
+      "heading_text": "### 1.A Team Models (centralised, embedded, hybrid)",
+      "link_count": 8,
+      "will_be_updated": true
+    },
+    "1.B": {
+      "heading_found": true,
+      "heading_text": "### 1.B Capacity & Resource Planning",
+      "link_count": 3,
+      "will_be_updated": true
+    },
+    "1.C": {
+      "heading_found": true,
+      "heading_text": "### 1.C Governance & Standards",
+      "link_count": 2,
+      "will_be_updated": true
+    },
+    "1.D": {
+      "heading_found": true,
+      "heading_text": "### 1.D Onboarding & Knowledge Sharing",
+      "link_count": 2,
+      "will_be_updated": true
+    },
+    "2.A.1": {
+      "heading_found": true,
+      "heading_text": "#### 2.A.1 Foundations (colour, type, spacing)",
+      "link_count": 37,
+      "will_be_updated": true
+    },
+    "2.A.2": {
+      "heading_found": true,
+      "heading_text": "#### 2.A.2 Components (UI kits, patterns)",
+      "link_count": 28,
+      "will_be_updated": true
+    },
+    "2.A.3": {
+      "heading_found": true,
+      "heading_text": "#### 2.A.3 Documentation (usage guidelines, principles)",
+      "link_count": 18,
+      "will_be_updated": true
+    },
+    "2.B": {
+      "heading_found": true,
+      "heading_text": "### 2.B Toolchains & Platforms",
+      "link_count": 24,
+      "will_be_updated": true
+    },
+    "2.C": {
+      "heading_found": true,
+      "heading_text": "### 2.C Workflow Optimisation",
+      "link_count": 4,
+      "will_be_updated": true
+    },
+    "2.D": {
+      "heading_found": true,
+      "heading_text": "### 2.D Collaboration with Engineering",
+      "link_count": 43,
+      "will_be_updated": true
+    },
+    "3.A": {
+      "heading_found": true,
+      "heading_text": "### 3.A Testing & Accessibility",
+      "link_count": 13,
+      "will_be_updated": true
+    },
+    "3.B": {
+      "heading_found": true,
+      "heading_text": "### 3.B Metrics & Measurement",
+      "link_count": 10,
+      "will_be_updated": true
+    },
+    "3.C": {
+      "heading_found": true,
+      "heading_text": "### 3.C Feedback Loops",
+      "link_count": 19,
+      "will_be_updated": true
+    },
+    "3.D": {
+      "heading_found": true,
+      "heading_text": "### 3.D Continuous Improvement",
+      "link_count": 3,
+      "will_be_updated": true
+    }
+  },
+  "validation_errors": [],
+  "validation_warnings": []
+}
